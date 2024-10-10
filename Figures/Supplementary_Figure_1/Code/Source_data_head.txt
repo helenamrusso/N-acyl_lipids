@@ -1,0 +1,70 @@
+Head	count
+ethanolamine	69
+homoserine lactone	39
+isobutylamine	26
+taurine	22
+benzylamine	17
+glycine	14
+glutamine	12
+serotonin	12
+dopamine	11
+2-fluoroethylamine	9
+lysine	8
+histidine	8
+GABA	7
+2-amino-1-propanol	6
+alanine	6
+serine	6
+glutamic acid	6
+vanillylamine	6
+propylamine	5
+2-phenethylamine	5
+dehydrotyrosine	5
+2-amino-3-(4-hydroxy-3-methylphenyl)acrylic acid	5
+1-amino-2-propanol	4
+homoserine thiolactone	4
+ornithine	4
+tyramine	4
+tyrosine	4
+methylamine	3
+2-methylbutylamine	3
+1-amino-2-methyl-2-propanol	3
+1-propanol, 2-amino-, 1-acetate	3
+valine	3
+isoleucine	3
+leucine	3
+phenylalanine	3
+tryptophan	3
+isopropylamine	2
+3-amino-1-propanol	2
+isoamylamine	2
+serinol	2
+threonine	2
+1-phenethylamine	2
+methionine	2
+dimethyl aspartate	2
+veratrylamine	2
+cinnamic acid, _-amino-p-methoxy- (6CI)	2
+ethylamine	1
+2-methoxyethylamine	1
+1-methoxy-ethanamine	1
+tert-Amylamine	1
+amylamine	1
+beta-alanine	1
+2-amino-2-methyl-1-propanol	1
+2-aminoethyl acetate	1
+hexylamine	1
+6-aminohexanoic acid	1
+N,N-diethylethylenediamine	1
+aminovaleric acid	1
+asparagine	1
+phenoxyethylamine	1
+3-methoxybenzylamine	1
+phosphoethanolamine	1
+phenylpropanolamine	1
+arginine	1
+sulfanilamide	1
+4-Sulfamoylphenethylamine	1
+O-dimethyl tyrosine	1
+4-bromobenzenesulfonamide	1
+1-aminopentylphosphonic acid monophenyl ester	1
