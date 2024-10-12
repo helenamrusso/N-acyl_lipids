@@ -1,0 +1,852 @@
+Compound	# scans in cluster	Tail	Head	Carbons	Lipid class	Even/Odd	Unsaturations	Lipid databases availability
+2-aminovaleric acid-C10:0	3	C10:0	2-aminovaleric acid	C10	medium	even	0	Not available
+2-aminovaleric acid-C14:0	2	C14:0	2-aminovaleric acid	C14	long	even	0	Not available
+2-aminovaleric acid-C16:0	215	C16:0	2-aminovaleric acid	C16	long	even	0	Not available
+2-aminovaleric acid-C16:1	83	C16:1	2-aminovaleric acid	C16	long	even	1	Not available
+2-aminovaleric acid-C18:1	107	C18:1	2-aminovaleric acid	C18	long	even	1	Not available
+2-aminovaleric acid-C18:2	94	C18:2	2-aminovaleric acid	C18	long	even	2	Not available
+2-aminovaleric acid-C18:3	24	C18:3	2-aminovaleric acid	C18	long	even	3	Not available
+2-aminovaleric acid-C2:0	21	C2:0	2-aminovaleric acid	C2	short	even	0	Not available
+2-aminovaleric acid-C20:4	2	C20:4	2-aminovaleric acid	C20	long	even	4	Not available
+2-aminovaleric acid-C3:0	32	C3:0	2-aminovaleric acid	C3	short	odd	0	Not available
+2-aminovaleric acid-C5:0	4	C5:0	2-aminovaleric acid	C5	short	odd	0	Not available
+2-aminovaleric acid-C9:0	2	C9:0	2-aminovaleric acid	C9	medium	odd	0	Not available
+2-phenethylamine-C10:1	3	C10:1	2-phenethylamine	C10	medium	even	1	LIPIDMAPS
+2-phenethylamine-C10:2	14	C10:2	2-phenethylamine	C10	medium	even	2	LIPIDMAPS
+2-phenethylamine-C10:3	2	C10:3	2-phenethylamine	C10	medium	even	3	Not available
+2-phenethylamine-C10:4	4	C10:4	2-phenethylamine	C10	medium	even	4	Not available
+2-phenethylamine-C14:0	4	C14:0	2-phenethylamine	C14	long	even	0	Not available
+2-phenethylamine-C15:0	5	C15:0	2-phenethylamine	C15	long	odd	0	Not available
+2-phenethylamine-C16:0	130	C16:0	2-phenethylamine	C16	long	even	0	Not available
+2-phenethylamine-C16:1	16	C16:1	2-phenethylamine	C16	long	even	1	Not available
+2-phenethylamine-C16:2	2	C16:2	2-phenethylamine	C16	long	even	2	Not available
+2-phenethylamine-C17:0	2	C17:0	2-phenethylamine	C17	long	odd	0	Not available
+2-phenethylamine-C17:1	2	C17:1	2-phenethylamine	C17	long	odd	1	Not available
+2-phenethylamine-C18:0	77	C18:0	2-phenethylamine	C18	long	even	0	Not available
+2-phenethylamine-C18:1	135	C18:1	2-phenethylamine	C18	long	even	1	Not available
+2-phenethylamine-C18:2	35	C18:2	2-phenethylamine	C18	long	even	2	Not available
+2-phenethylamine-C18:3	2	C18:3	2-phenethylamine	C18	long	even	3	Not available
+2-phenethylamine-C18:4	5	C18:4	2-phenethylamine	C18	long	even	4	Not available
+2-phenethylamine-C19:1	9	C19:1	2-phenethylamine	C19	long	odd	1	Not available
+2-phenethylamine-C2:0	344	C2:0	2-phenethylamine	C2	short	even	0	Not available
+2-phenethylamine-C20:0	2	C20:0	2-phenethylamine	C20	long	even	0	Not available
+2-phenethylamine-C20:1	2	C20:1	2-phenethylamine	C20	long	even	1	Not available
+2-phenethylamine-C20:4	9	C20:4	2-phenethylamine	C20	long	even	4	Not available
+2-phenethylamine-C22:0	5	C22:0	2-phenethylamine	C22	very long	even	0	Not available
+2-phenethylamine-C3:0	47	C3:0	2-phenethylamine	C3	short	odd	0	Not available
+2-phenethylamine-C3:1	6	C3:1	2-phenethylamine	C3	short	odd	1	Not available
+2-phenethylamine-C4:0	51	C4:0	2-phenethylamine	C4	short	even	0	Not available
+2-phenethylamine-C5:0	78	C5:0	2-phenethylamine	C5	short	odd	0	Not available
+2-phenethylamine-C6:0	35	C6:0	2-phenethylamine	C6	short	even	0	Not available
+2-phenethylamine-C7:0	18	C7:0	2-phenethylamine	C7	medium	odd	0	Not available
+2-phenethylamine-C8:0	6	C8:0	2-phenethylamine	C8	medium	even	0	Not available
+2-phenethylamine-C8:1	4	C8:1	2-phenethylamine	C8	medium	even	1	Not available
+2-phenethylamine-C9:4	4	C9:4	2-phenethylamine	C9	medium	odd	4	Not available
+3-hydroxykynurenine-C2:0	4	C2:0	3-hydroxykynurenine	C2	short	even	0	Not available
+3-methoxytyramine-C2:0	176	C2:0	3-methoxytyramine	C2	short	even	0	Not available
+3-methoxytyramine-C20:0	3	C20:0	3-methoxytyramine	C20	long	even	0	Not available
+3-methoxytyramine-C22:0	10	C22:0	3-methoxytyramine	C22	very long	even	0	Not available
+3-methoxytyramine-C24:0	5	C24:0	3-methoxytyramine	C24	very long	even	0	Not available
+3-methylhistidine-C2:0	2	C2:0	3-methylhistidine	C2	short	even	0	Not available
+5-aminovaleric acid-C10:1	14	C10:1	5-aminovaleric acid	C10	medium	even	1	Not available
+5-aminovaleric acid-C2:0	17	C2:0	5-aminovaleric acid	C2	short	even	0	LIPIDMAPS
+5-methoxytryptamine-C2:0	26	C2:0	5-methoxytryptamine	C2	short	even	0	Not available
+Alanine/Sarcosine-C10:0	48	C10:0	Alanine/Sarcosine	C10	medium	even	0	Not available
+Alanine/Sarcosine-C11:0	12	C11:0	Alanine/Sarcosine	C11	medium	odd	0	Not available
+Alanine/Sarcosine-C12:0	3476	C12:0	Alanine/Sarcosine	C12	medium	even	0	Not available
+Alanine/Sarcosine-C12:2	29	C12:2	Alanine/Sarcosine	C12	medium	even	2	Not available
+Alanine/Sarcosine-C13:0	21	C13:0	Alanine/Sarcosine	C13	medium	odd	0	Not available
+Alanine/Sarcosine-C13:1	5	C13:1	Alanine/Sarcosine	C13	medium	odd	1	Not available
+Alanine/Sarcosine-C14:0	305	C14:0	Alanine/Sarcosine	C14	long	even	0	Not available
+Alanine/Sarcosine-C14:1	62	C14:1	Alanine/Sarcosine	C14	long	even	1	Not available
+Alanine/Sarcosine-C14:2	5	C14:2	Alanine/Sarcosine	C14	long	even	2	Not available
+Alanine/Sarcosine-C14:3	3	C14:3	Alanine/Sarcosine	C14	long	even	3	Not available
+Alanine/Sarcosine-C15:0	598	C15:0	Alanine/Sarcosine	C15	long	odd	0	Not available
+Alanine/Sarcosine-C15:1	55	C15:1	Alanine/Sarcosine	C15	long	odd	1	Not available
+Alanine/Sarcosine-C15:2	12	C15:2	Alanine/Sarcosine	C15	long	odd	2	Not available
+Alanine/Sarcosine-C16:0	212	C16:0	Alanine/Sarcosine	C16	long	even	0	LIPIDMAPS
+Alanine/Sarcosine-C16:1	43	C16:1	Alanine/Sarcosine	C16	long	even	1	Not available
+Alanine/Sarcosine-C16:2	2	C16:2	Alanine/Sarcosine	C16	long	even	2	Not available
+Alanine/Sarcosine-C17:0	13	C17:0	Alanine/Sarcosine	C17	long	odd	0	Not available
+Alanine/Sarcosine-C17:1	9	C17:1	Alanine/Sarcosine	C17	long	odd	1	Not available
+Alanine/Sarcosine-C17:2	10	C17:2	Alanine/Sarcosine	C17	long	odd	2	Not available
+Alanine/Sarcosine-C18:0	87	C18:0	Alanine/Sarcosine	C18	long	even	0	LIPIDMAPS
+Alanine/Sarcosine-C18:1	278	C18:1	Alanine/Sarcosine	C18	long	even	1	LIPIDMAPS
+Alanine/Sarcosine-C18:2	419	C18:2	Alanine/Sarcosine	C18	long	even	2	Not available
+Alanine/Sarcosine-C19:0	2	C19:0	Alanine/Sarcosine	C19	long	odd	0	Not available
+Alanine/Sarcosine-C19:1	20	C19:1	Alanine/Sarcosine	C19	long	odd	1	Not available
+Alanine/Sarcosine-C20:0	30	C20:0	Alanine/Sarcosine	C20	long	even	0	Not available
+Alanine/Sarcosine-C20:2	2	C20:2	Alanine/Sarcosine	C20	long	even	2	Not available
+Alanine/Sarcosine-C21:0	2	C21:0	Alanine/Sarcosine	C21	long	odd	0	Not available
+Alanine/Sarcosine-C21:1	4	C21:1	Alanine/Sarcosine	C21	long	odd	1	Not available
+Alanine/Sarcosine-C22:1	2	C22:1	Alanine/Sarcosine	C22	very long	even	1	Not available
+Alanine/Sarcosine-C4:0	27	C4:0	Alanine/Sarcosine	C4	short	even	0	Not available
+Alanine/Sarcosine-C5:0	95	C5:0	Alanine/Sarcosine	C5	short	odd	0	Not available
+Alanine/Sarcosine-C5:1	2	C5:1	Alanine/Sarcosine	C5	short	odd	1	Not available
+Alanine/Sarcosine-C6:0	29	C6:0	Alanine/Sarcosine	C6	short	even	0	Not available
+Alanine/Sarcosine-C8:0	4	C8:0	Alanine/Sarcosine	C8	medium	even	0	Not available
+Alanine/Sarcosine-C8:1	9	C8:1	Alanine/Sarcosine	C8	medium	even	1	Not available
+Aminoadipic acid-C10:0	10	C10:0	Aminoadipic acid	C10	medium	even	0	Not available
+Aminoadipic acid-C12:0	24	C12:0	Aminoadipic acid	C12	medium	even	0	Not available
+Aminoadipic acid-C12:2	3	C12:2	Aminoadipic acid	C12	medium	even	2	Not available
+Aminoadipic acid-C14:0	12	C14:0	Aminoadipic acid	C14	long	even	0	Not available
+Aminoadipic acid-C14:1	3	C14:1	Aminoadipic acid	C14	long	even	1	Not available
+Aminoadipic acid-C2:0	232	C2:0	Aminoadipic acid	C2	short	even	0	Not available
+Aminoadipic acid-C8:0	5	C8:0	Aminoadipic acid	C8	medium	even	0	Not available
+Amylamine-C10:0	6	C10:0	Amylamine	C10	medium	even	0	Not available
+Amylamine-C10:1	15	C10:1	Amylamine	C10	medium	even	1	Not available
+Amylamine-C10:3	3	C10:3	Amylamine	C10	medium	even	3	Not available
+Amylamine-C14:0	54	C14:0	Amylamine	C14	long	even	0	Not available
+Amylamine-C16:0	491	C16:0	Amylamine	C16	long	even	0	Not available
+Amylamine-C16:1	3	C16:1	Amylamine	C16	long	even	1	Not available
+Amylamine-C17:0	3	C17:0	Amylamine	C17	long	odd	0	Not available
+Amylamine-C18:0	607	C18:0	Amylamine	C18	long	even	0	Not available
+Amylamine-C18:1	47	C18:1	Amylamine	C18	long	even	1	Not available
+Amylamine-C18:2	14	C18:2	Amylamine	C18	long	even	2	Not available
+Amylamine-C2:0	2	C2:0	Amylamine	C2	short	even	0	Not available
+Amylamine-C20:0	2	C20:0	Amylamine	C20	long	even	0	Not available
+Amylamine-C22:0	3	C22:0	Amylamine	C22	very long	even	0	Not available
+Amylamine-C23:0	2	C23:0	Amylamine	C23	very long	odd	0	Not available
+Amylamine-C24:0	2	C24:0	Amylamine	C24	very long	even	0	Not available
+Amylamine-C3:0	4	C3:0	Amylamine	C3	short	odd	0	Not available
+Amylamine-C4:0	106	C4:0	Amylamine	C4	short	even	0	Not available
+Amylamine-C4:1	21	C4:1	Amylamine	C4	short	even	1	Not available
+Amylamine-C5:0	176	C5:0	Amylamine	C5	short	odd	0	Not available
+Amylamine-C6:0	148	C6:0	Amylamine	C6	short	even	0	Not available
+Amylamine-C6:1	81	C6:1	Amylamine	C6	short	even	1	Not available
+Amylamine-C7:0	62	C7:0	Amylamine	C7	medium	odd	0	Not available
+Amylamine-C8:0	12	C8:0	Amylamine	C8	medium	even	0	Not available
+Amylamine-C9:0	29	C9:0	Amylamine	C9	medium	odd	0	Not available
+Arginine-C10:0	414	C10:0	Arginine	C10	medium	even	0	Not available
+Arginine-C11:0	2	C11:0	Arginine	C11	medium	odd	0	Not available
+Arginine-C11:1	5	C11:1	Arginine	C11	medium	odd	1	Not available
+Arginine-C12:0	199	C12:0	Arginine	C12	medium	even	0	Not available
+Arginine-C12:1	3	C12:1	Arginine	C12	medium	even	1	Not available
+Arginine-C12:4	6	C12:4	Arginine	C12	medium	even	4	Not available
+Arginine-C13:0	2	C13:0	Arginine	C13	medium	odd	0	Not available
+Arginine-C14:0	218	C14:0	Arginine	C14	long	even	0	Not available
+Arginine-C14:1	14	C14:1	Arginine	C14	long	even	1	Not available
+Arginine-C15:0	36	C15:0	Arginine	C15	long	odd	0	Not available
+Arginine-C16:0	566	C16:0	Arginine	C16	long	even	0	Not available
+Arginine-C16:1	443	C16:1	Arginine	C16	long	even	1	Not available
+Arginine-C17:0	7	C17:0	Arginine	C17	long	odd	0	Not available
+Arginine-C17:1	17	C17:1	Arginine	C17	long	odd	1	Not available
+Arginine-C18:0	226	C18:0	Arginine	C18	long	even	0	LIPIDMAPS
+Arginine-C18:1	794	C18:1	Arginine	C18	long	even	1	Not available
+Arginine-C18:2	891	C18:2	Arginine	C18	long	even	2	Not available
+Arginine-C18:3	52	C18:3	Arginine	C18	long	even	3	Not available
+Arginine-C18:4	6	C18:4	Arginine	C18	long	even	4	Not available
+Arginine-C2:0	399	C2:0	Arginine	C2	short	even	0	Not available
+Arginine-C20:3	12	C20:3	Arginine	C20	long	even	3	Not available
+Arginine-C20:4	309	C20:4	Arginine	C20	long	even	4	Not available
+Arginine-C5:0	101	C5:0	Arginine	C5	short	odd	0	Not available
+Arginine-C5:1	16	C5:1	Arginine	C5	short	odd	1	Not available
+Arginine-C6:0	193	C6:0	Arginine	C6	short	even	0	Not available
+Arginine-C6:1	15	C6:1	Arginine	C6	short	even	1	Not available
+Arginine-C7:0	4	C7:0	Arginine	C7	medium	odd	0	Not available
+Arginine-C8:0	94	C8:0	Arginine	C8	medium	even	0	Not available
+Arginine-C8:1	2	C8:1	Arginine	C8	medium	even	1	Not available
+Arginine-C9:0	2	C9:0	Arginine	C9	medium	odd	0	Not available
+Arginine-C9:4	11	C9:4	Arginine	C9	medium	odd	4	Not available
+Asparagine-C10:0	14	C10:0	Asparagine	C10	medium	even	0	Not available
+Asparagine-C11:0	2	C11:0	Asparagine	C11	medium	odd	0	Not available
+Asparagine-C12:0	86	C12:0	Asparagine	C12	medium	even	0	Not available
+Asparagine-C13:0	24	C13:0	Asparagine	C13	medium	odd	0	Not available
+Asparagine-C14:0	231	C14:0	Asparagine	C14	long	even	0	Not available
+Asparagine-C14:1	80	C14:1	Asparagine	C14	long	even	1	Not available
+Asparagine-C15:0	20	C15:0	Asparagine	C15	long	odd	0	Not available
+Asparagine-C15:1	6	C15:1	Asparagine	C15	long	odd	1	Not available
+Asparagine-C16:0	55	C16:0	Asparagine	C16	long	even	0	Not available
+Asparagine-C16:1	49	C16:1	Asparagine	C16	long	even	1	Not available
+Asparagine-C17:1	12	C17:1	Asparagine	C17	long	odd	1	Not available
+Asparagine-C18:0	10	C18:0	Asparagine	C18	long	even	0	Not available
+Asparagine-C18:1	25	C18:1	Asparagine	C18	long	even	1	LIPIDMAPS
+Asparagine-C18:2	124	C18:2	Asparagine	C18	long	even	2	Not available
+Asparagine-C18:3	89	C18:3	Asparagine	C18	long	even	3	Not available
+Asparagine-C2:0	7	C2:0	Asparagine	C2	short	even	0	Not available
+Asparagine-C9:0	6	C9:0	Asparagine	C9	medium	odd	0	Not available
+Aspartic acid-C10:0	4	C10:0	Aspartic acid	C10	medium	even	0	Not available
+Aspartic acid-C15:0	2	C15:0	Aspartic acid	C15	long	odd	0	Not available
+Aspartic acid-C16:0	4	C16:0	Aspartic acid	C16	long	even	0	Not available
+Aspartic acid-C16:1	7	C16:1	Aspartic acid	C16	long	even	1	Not available
+Aspartic acid-C18:1	8	C18:1	Aspartic acid	C18	long	even	1	Not available
+Aspartic acid-C18:2	6	C18:2	Aspartic acid	C18	long	even	2	Not available
+Aspartic acid-C2:0	94	C2:0	Aspartic acid	C2	short	even	0	Not available
+Aspartic acid-C6:0	23	C6:0	Aspartic acid	C6	short	even	0	Not available
+Cadaverine-C10:0	19	C10:0	Cadaverine	C10	medium	even	0	Not available
+Cadaverine-C12:0	11	C12:0	Cadaverine	C12	medium	even	0	Not available
+Cadaverine-C15:0	12	C15:0	Cadaverine	C15	long	odd	0	Not available
+Cadaverine-C16:0	80	C16:0	Cadaverine	C16	long	even	0	Not available
+Cadaverine-C18:0	18	C18:0	Cadaverine	C18	long	even	0	Not available
+Cadaverine-C2:0	544	C2:0	Cadaverine	C2	short	even	0	Not available
+Cadaverine-C3:0	343	C3:0	Cadaverine	C3	short	odd	0	Not available
+Cadaverine-C4:0	527	C4:0	Cadaverine	C4	short	even	0	Not available
+Cadaverine-C4:1	37	C4:1	Cadaverine	C4	short	even	1	Not available
+Cadaverine-C5:0	190	C5:0	Cadaverine	C5	short	odd	0	Not available
+Cadaverine-C5:1	70	C5:1	Cadaverine	C5	short	odd	1	Not available
+Cadaverine-C5:2	156	C5:2	Cadaverine	C5	short	odd	2	Not available
+Cadaverine-C6:0	82	C6:0	Cadaverine	C6	short	even	0	Not available
+Cadaverine-C7:0	15	C7:0	Cadaverine	C7	medium	odd	0	Not available
+Cadaverine-C8:0	95	C8:0	Cadaverine	C8	medium	even	0	Not available
+Citrulline-C10:0	27	C10:0	Citrulline	C10	medium	even	0	Not available
+Citrulline-C11:0	4	C11:0	Citrulline	C11	medium	odd	0	Not available
+Citrulline-C12:0	68	C12:0	Citrulline	C12	medium	even	0	Not available
+Citrulline-C12:1	2	C12:1	Citrulline	C12	medium	even	1	Not available
+Citrulline-C13:0	4	C13:0	Citrulline	C13	medium	odd	0	Not available
+Citrulline-C13:1	2	C13:1	Citrulline	C13	medium	odd	1	Not available
+Citrulline-C14:0	60	C14:0	Citrulline	C14	long	even	0	Not available
+Citrulline-C14:1	24	C14:1	Citrulline	C14	long	even	1	Not available
+Citrulline-C15:0	14	C15:0	Citrulline	C15	long	odd	0	Not available
+Citrulline-C15:1	4	C15:1	Citrulline	C15	long	odd	1	Not available
+Citrulline-C16:0	16	C16:0	Citrulline	C16	long	even	0	Not available
+Citrulline-C16:1	50	C16:1	Citrulline	C16	long	even	1	Not available
+Citrulline-C17:0	2	C17:0	Citrulline	C17	long	odd	0	Not available
+Citrulline-C17:1	2	C17:1	Citrulline	C17	long	odd	1	Not available
+Citrulline-C18:1	54	C18:1	Citrulline	C18	long	even	1	Not available
+Citrulline-C18:2	16	C18:2	Citrulline	C18	long	even	2	Not available
+Citrulline-C5:0	2	C5:0	Citrulline	C5	short	odd	0	Not available
+Citrulline-C9:0	2	C9:0	Citrulline	C9	medium	odd	0	Not available
+Cystathionine-C2:0	10	C2:0	Cystathionine	C2	short	even	0	Not available
+Cystathionine-C5:0	19	C5:0	Cystathionine	C5	short	odd	0	Not available
+Cystathionine-C6:0	7	C6:0	Cystathionine	C6	short	even	0	Not available
+Dopamine-C2:0	78	C2:0	Dopamine	C2	short	even	0	Not available
+Dopamine-C24:0	17	C24:0	Dopamine	C24	very long	even	0	Not available
+Dopamine-C25:0	11	C25:0	Dopamine	C25	very long	odd	0	Not available
+Dopamine-C25:1	2	C25:1	Dopamine	C25	very long	odd	1	Not available
+Dopamine-C26:0	16	C26:0	Dopamine	C26	very long	even	0	Not available
+Dopamine-C26:1	4	C26:1	Dopamine	C26	very long	even	1	Not available
+Dopamine-C27:0	15	C27:0	Dopamine	C27	very long	odd	0	Not available
+Dopamine-C27:1	2	C27:1	Dopamine	C27	very long	odd	1	Not available
+Dopamine-C28:0	23	C28:0	Dopamine	C28	very long	even	0	Not available
+Dopamine-C28:1	12	C28:1	Dopamine	C28	very long	even	1	Not available
+Dopamine-C28:2	4	C28:2	Dopamine	C28	very long	even	2	Not available
+Dopamine-C29:0	16	C29:0	Dopamine	C29	very long	odd	0	Not available
+Dopamine-C29:1	10	C29:1	Dopamine	C29	very long	odd	1	Not available
+Dopamine-C30:0	9	C30:0	Dopamine	C30	very long	even	0	Not available
+Dopamine-C30:1	6	C30:1	Dopamine	C30	very long	even	1	Not available
+Dopamine-C30:2	3	C30:2	Dopamine	C30	very long	even	2	Not available
+GABA-C10:0	20	C10:0	GABA	C10	medium	even	0	Not available
+GABA-C12:0	16	C12:0	GABA	C12	medium	even	0	Not available
+GABA-C13:1	2	C13:1	GABA	C13	medium	odd	1	Not available
+GABA-C14:0	3	C14:0	GABA	C14	long	even	0	Not available
+GABA-C15:0	7	C15:0	GABA	C15	long	odd	0	Not available
+GABA-C16:0	140	C16:0	GABA	C16	long	even	0	LIPIDMAPS
+GABA-C16:1	2	C16:1	GABA	C16	long	even	1	Not available
+GABA-C18:0	36	C18:0	GABA	C18	long	even	0	LIPIDMAPS
+GABA-C18:1	117	C18:1	GABA	C18	long	even	1	LIPIDMAPS
+GABA-C18:2	219	C18:2	GABA	C18	long	even	2	Not available
+GABA-C18:3	154	C18:3	GABA	C18	long	even	3	Not available
+GABA-C19:1	9	C19:1	GABA	C19	long	odd	1	Not available
+GABA-C19:2	2	C19:2	GABA	C19	long	odd	2	Not available
+GABA-C20:4	22	C20:4	GABA	C20	long	even	4	LIPIDMAPS, SwissLipids
+GABA-C22:0	5	C22:0	GABA	C22	very long	even	0	Not available
+GABA-C4:0	53	C4:0	GABA	C4	short	even	0	Not available
+GABA-C5:0	31	C5:0	GABA	C5	short	odd	0	Not available
+GABA-C6:0	112	C6:0	GABA	C6	short	even	0	Not available
+GABA-C8:0	9	C8:0	GABA	C8	medium	even	0	Not available
+GABA-C9:0	19	C9:0	GABA	C9	medium	odd	0	Not available
+Glutamic acid-C10:0	123	C10:0	Glutamic acid	C10	medium	even	0	Not available
+Glutamic acid-C11:0	8	C11:0	Glutamic acid	C11	medium	odd	0	Not available
+Glutamic acid-C11:1	11	C11:1	Glutamic acid	C11	medium	odd	1	Not available
+Glutamic acid-C11:3	2	C11:3	Glutamic acid	C11	medium	odd	3	Not available
+Glutamic acid-C12:0	193	C12:0	Glutamic acid	C12	medium	even	0	Not available
+Glutamic acid-C13:0	8	C13:0	Glutamic acid	C13	medium	odd	0	Not available
+Glutamic acid-C13:1	15	C13:1	Glutamic acid	C13	medium	odd	1	Not available
+Glutamic acid-C14:0	150	C14:0	Glutamic acid	C14	long	even	0	Not available
+Glutamic acid-C15:0	112	C15:0	Glutamic acid	C15	long	odd	0	Not available
+Glutamic acid-C15:1	26	C15:1	Glutamic acid	C15	long	odd	1	Not available
+Glutamic acid-C16:0	128	C16:0	Glutamic acid	C16	long	even	0	LIPIDMAPS
+Glutamic acid-C16:1	62	C16:1	Glutamic acid	C16	long	even	1	Not available
+Glutamic acid-C16:3	3	C16:3	Glutamic acid	C16	long	even	3	Not available
+Glutamic acid-C17:0	63	C17:0	Glutamic acid	C17	long	odd	0	Not available
+Glutamic acid-C17:1	16	C17:1	Glutamic acid	C17	long	odd	1	Not available
+Glutamic acid-C18:0	220	C18:0	Glutamic acid	C18	long	even	0	LIPIDMAPS
+Glutamic acid-C18:1	319	C18:1	Glutamic acid	C18	long	even	1	LIPIDMAPS
+Glutamic acid-C19:1	6	C19:1	Glutamic acid	C19	long	odd	1	Not available
+Glutamic acid-C19:2	2	C19:2	Glutamic acid	C19	long	odd	2	Not available
+Glutamic acid-C2:0	857	C2:0	Glutamic acid	C2	short	even	0	Not available
+Glutamic acid-C20:4	9	C20:4	Glutamic acid	C20	long	even	4	LIPIDMAPS
+Glutamic acid-C21:0	11	C21:0	Glutamic acid	C21	long	odd	0	Not available
+Glutamic acid-C22:4	3	C22:4	Glutamic acid	C22	very long	even	4	Not available
+Glutamic acid-C3:0	19	C3:0	Glutamic acid	C3	short	odd	0	Not available
+Glutamic acid-C4:0	3	C4:0	Glutamic acid	C4	short	even	0	Not available
+Glutamic acid-C6:0	214	C6:0	Glutamic acid	C6	short	even	0	Not available
+Glutamic acid-C6:1	8	C6:1	Glutamic acid	C6	short	even	1	Not available
+Glutamic acid-C7:0	11	C7:0	Glutamic acid	C7	medium	odd	0	Not available
+Glutamic acid-C8:0	76	C8:0	Glutamic acid	C8	medium	even	0	Not available
+Glutamic acid-C9:0	11	C9:0	Glutamic acid	C9	medium	odd	0	Not available
+Glutamine-C10:0	56	C10:0	Glutamine	C10	medium	even	0	Not available
+Glutamine-C10:1	54	C10:1	Glutamine	C10	medium	even	1	Not available
+Glutamine-C10:2	101	C10:2	Glutamine	C10	medium	even	2	Not available
+Glutamine-C10:3	8	C10:3	Glutamine	C10	medium	even	3	LIPIDMAPS
+Glutamine-C11:1	62	C11:1	Glutamine	C11	medium	odd	1	Not available
+Glutamine-C11:2	5	C11:2	Glutamine	C11	medium	odd	2	Not available
+Glutamine-C12:0	69	C12:0	Glutamine	C12	medium	even	0	Not available
+Glutamine-C12:1	7	C12:1	Glutamine	C12	medium	even	1	Not available
+Glutamine-C13:0	36	C13:0	Glutamine	C13	medium	odd	0	Not available
+Glutamine-C14:0	51	C14:0	Glutamine	C14	long	even	0	LIPIDMAPS
+Glutamine-C14:1	50	C14:1	Glutamine	C14	long	even	1	Not available
+Glutamine-C15:0	15	C15:0	Glutamine	C15	long	odd	0	Not available
+Glutamine-C15:1	12	C15:1	Glutamine	C15	long	odd	1	Not available
+Glutamine-C16:0	30	C16:0	Glutamine	C16	long	even	0	LIPIDMAPS
+Glutamine-C16:1	31	C16:1	Glutamine	C16	long	even	1	LIPIDMAPS
+Glutamine-C18:1	14	C18:1	Glutamine	C18	long	even	1	LIPIDMAPS
+Glutamine-C18:2	35	C18:2	Glutamine	C18	long	even	2	LIPIDMAPS
+Glutamine-C3:0	3	C3:0	Glutamine	C3	short	odd	0	Not available
+Glutamine-C5:0	3	C5:0	Glutamine	C5	short	odd	0	Not available
+Glutamine-C6:0	216	C6:0	Glutamine	C6	short	even	0	Not available
+Glutamine-C6:1	615	C6:1	Glutamine	C6	short	even	1	Not available
+Glutamine-C6:2	5	C6:2	Glutamine	C6	short	even	2	Not available
+Glutamine-C7:0	45	C7:0	Glutamine	C7	medium	odd	0	Not available
+Glutamine-C7:1	491	C7:1	Glutamine	C7	medium	odd	1	Not available
+Glutamine-C7:2	23	C7:2	Glutamine	C7	medium	odd	2	Not available
+Glutamine-C8:1	714	C8:1	Glutamine	C8	medium	even	1	Not available
+Glutamine-C8:2	5	C8:2	Glutamine	C8	medium	even	2	Not available
+Glutamine-C9:0	5	C9:0	Glutamine	C9	medium	odd	0	Not available
+Glutamine-C9:1	58	C9:1	Glutamine	C9	medium	odd	1	Not available
+Glutamine-C9:2	20	C9:2	Glutamine	C9	medium	odd	2	Not available
+Glutamine-C9:4	2	C9:4	Glutamine	C9	medium	odd	4	Not available
+Glutathione-C10:0	51	C10:0	Glutathione	C10	medium	even	0	Not available
+Glutathione-C10:1	4	C10:1	Glutathione	C10	medium	even	1	Not available
+Glutathione-C10:2	4	C10:2	Glutathione	C10	medium	even	2	Not available
+Glutathione-C12:3	14	C12:3	Glutathione	C12	medium	even	3	Not available
+Glutathione-C15:4	2	C15:4	Glutathione	C15	long	odd	4	Not available
+Glutathione-C16:0	7	C16:0	Glutathione	C16	long	even	0	Not available
+Glutathione-C7:3	407	C7:3	Glutathione	C7	medium	odd	3	Not available
+Glutathione-C9:1	180	C9:1	Glutathione	C9	medium	odd	1	Not available
+Glycine-C10:3	27	C10:3	Glycine	C10	medium	even	3	Not available
+Glycine-C11:4	2	C11:4	Glycine	C11	medium	odd	4	Not available
+Glycine-C12:2	6	C12:2	Glycine	C12	medium	even	2	Not available
+Glycine-C16:1	2	C16:1	Glycine	C16	long	even	1	LIPIDMAPS
+Glycine-C16:2	16	C16:2	Glycine	C16	long	even	2	Not available
+Glycine-C18:0	103	C18:0	Glycine	C18	long	even	0	LIPIDMAPS
+Glycine-C18:1	372	C18:1	Glycine	C18	long	even	1	LIPIDMAPS
+Glycine-C20:2	12	C20:2	Glycine	C20	long	even	2	Not available
+Glycine-C20:4	46	C20:4	Glycine	C20	long	even	4	LIPIDMAPS, SwissLipids
+Glycine-C4:0	151	C4:0	Glycine	C4	short	even	0	Not available
+Glycine-C5:1	9	C5:1	Glycine	C5	short	odd	1	Not available
+Glycine-C6:0	649	C6:0	Glycine	C6	short	even	0	Not available
+Glycine-C7:1	285	C7:1	Glycine	C7	medium	odd	1	Not available
+Glycine-C8:0	67	C8:0	Glycine	C8	medium	even	0	Not available
+Glycine-C8:2	16	C8:2	Glycine	C8	medium	even	2	Not available
+Histamine-C10:0	14	C10:0	Histamine	C10	medium	even	0	Not available
+Histamine-C10:2	3	C10:2	Histamine	C10	medium	even	2	Not available
+Histamine-C11:0	4	C11:0	Histamine	C11	medium	odd	0	Not available
+Histamine-C12:0	21	C12:0	Histamine	C12	medium	even	0	Not available
+Histamine-C12:1	2	C12:1	Histamine	C12	medium	even	1	Not available
+Histamine-C14:0	20	C14:0	Histamine	C14	long	even	0	Not available
+Histamine-C15:0	2	C15:0	Histamine	C15	long	odd	0	Not available
+Histamine-C16:0	19	C16:0	Histamine	C16	long	even	0	Not available
+Histamine-C16:1	21	C16:1	Histamine	C16	long	even	1	Not available
+Histamine-C18:1	75	C18:1	Histamine	C18	long	even	1	Not available
+Histamine-C18:2	39	C18:2	Histamine	C18	long	even	2	Not available
+Histamine-C2:0	757	C2:0	Histamine	C2	short	even	0	Not available
+Histamine-C20:4	30	C20:4	Histamine	C20	long	even	4	Not available
+Histamine-C22:4	9	C22:4	Histamine	C22	very long	even	4	Not available
+Histamine-C28:0	16	C28:0	Histamine	C28	very long	even	0	Not available
+Histamine-C3:0	232	C3:0	Histamine	C3	short	odd	0	Not available
+Histamine-C4:0	66	C4:0	Histamine	C4	short	even	0	Not available
+Histamine-C5:0	94	C5:0	Histamine	C5	short	odd	0	Not available
+Histamine-C6:0	120	C6:0	Histamine	C6	short	even	0	Not available
+Histamine-C7:0	2	C7:0	Histamine	C7	medium	odd	0	Not available
+Histamine-C8:0	75	C8:0	Histamine	C8	medium	even	0	Not available
+Histamine-C8:1	8	C8:1	Histamine	C8	medium	even	1	Not available
+Histamine-C9:4	7	C9:4	Histamine	C9	medium	odd	4	Not available
+Histidine-C10:0	162	C10:0	Histidine	C10	medium	even	0	LIPIDMAPS
+Histidine-C10:1	4	C10:1	Histidine	C10	medium	even	1	Not available
+Histidine-C10:2	2	C10:2	Histidine	C10	medium	even	2	Not available
+Histidine-C11:0	2	C11:0	Histidine	C11	medium	odd	0	Not available
+Histidine-C11:2	2	C11:2	Histidine	C11	medium	odd	2	Not available
+Histidine-C12:0	75	C12:0	Histidine	C12	medium	even	0	Not available
+Histidine-C14:0	53	C14:0	Histidine	C14	long	even	0	Not available
+Histidine-C14:1	7	C14:1	Histidine	C14	long	even	1	Not available
+Histidine-C15:0	14	C15:0	Histidine	C15	long	odd	0	Not available
+Histidine-C15:4	5	C15:4	Histidine	C15	long	odd	4	Not available
+Histidine-C16:0	63	C16:0	Histidine	C16	long	even	0	LIPIDMAPS
+Histidine-C16:1	45	C16:1	Histidine	C16	long	even	1	Not available
+Histidine-C18:0	4	C18:0	Histidine	C18	long	even	0	LIPIDMAPS
+Histidine-C18:1	46	C18:1	Histidine	C18	long	even	1	LIPIDMAPS
+Histidine-C18:2	83	C18:2	Histidine	C18	long	even	2	Not available
+Histidine-C18:3	12	C18:3	Histidine	C18	long	even	3	Not available
+Histidine-C2:0	436	C2:0	Histidine	C2	short	even	0	Not available
+Histidine-C20:4	5	C20:4	Histidine	C20	long	even	4	LIPIDMAPS
+Histidine-C3:0	17	C3:0	Histidine	C3	short	odd	0	Not available
+Histidine-C4:0	19	C4:0	Histidine	C4	short	even	0	Not available
+Histidine-C5:0	19	C5:0	Histidine	C5	short	odd	0	Not available
+Histidine-C5:1	3	C5:1	Histidine	C5	short	odd	1	Not available
+Histidine-C6:0	197	C6:0	Histidine	C6	short	even	0	LIPIDMAPS
+Histidine-C6:1	20	C6:1	Histidine	C6	short	even	1	Not available
+Histidine-C8:0	223	C8:0	Histidine	C8	medium	even	0	LIPIDMAPS
+Histidine-C8:1	19	C8:1	Histidine	C8	medium	even	1	Not available
+Histidine-C9:0	2	C9:0	Histidine	C9	medium	odd	0	Not available
+Histidine-C9:4	9	C9:4	Histidine	C9	medium	odd	4	Not available
+Kynurenine-C2:0	1043	C2:0	Kynurenine	C2	short	even	0	Not available
+L-DOPA-C2:0	19	C2:0	L-DOPA	C2	short	even	0	Not available
+Leucine-C10:0	205	C10:0	Leucine	C10	medium	even	0	Not available
+Leucine-C10:1	134	C10:1	Leucine	C10	medium	even	1	Not available
+Leucine-C10:2	6	C10:2	Leucine	C10	medium	even	2	Not available
+Leucine-C11:0	3	C11:0	Leucine	C11	medium	odd	0	Not available
+Leucine-C12:0	134	C12:0	Leucine	C12	medium	even	0	Not available
+Leucine-C12:1	6	C12:1	Leucine	C12	medium	even	1	Not available
+Leucine-C12:2	10	C12:2	Leucine	C12	medium	even	2	Not available
+Leucine-C13:0	4	C13:0	Leucine	C13	medium	odd	0	Not available
+Leucine-C14:0	235	C14:0	Leucine	C14	long	even	0	Not available
+Leucine-C14:1	34	C14:1	Leucine	C14	long	even	1	Not available
+Leucine-C14:3	3	C14:3	Leucine	C14	long	even	3	Not available
+Leucine-C15:0	163	C15:0	Leucine	C15	long	odd	0	Not available
+Leucine-C15:1	5	C15:1	Leucine	C15	long	odd	1	Not available
+Leucine-C16:0	1106	C16:0	Leucine	C16	long	even	0	LIPIDMAPS
+Leucine-C16:1	787	C16:1	Leucine	C16	long	even	1	Not available
+Leucine-C16:2	2	C16:2	Leucine	C16	long	even	2	Not available
+Leucine-C17:0	113	C17:0	Leucine	C17	long	odd	0	Not available
+Leucine-C17:1	42	C17:1	Leucine	C17	long	odd	1	Not available
+Leucine-C18:0	378	C18:0	Leucine	C18	long	even	0	Not available
+Leucine-C18:1	1728	C18:1	Leucine	C18	long	even	1	LIPIDMAPS
+Leucine-C18:2	1467	C18:2	Leucine	C18	long	even	2	Not available
+Leucine-C18:3	143	C18:3	Leucine	C18	long	even	3	Not available
+Leucine-C18:4	7	C18:4	Leucine	C18	long	even	4	Not available
+Leucine-C19:0	2	C19:0	Leucine	C19	long	odd	0	Not available
+Leucine-C19:1	8	C19:1	Leucine	C19	long	odd	1	Not available
+Leucine-C20:0	8	C20:0	Leucine	C20	long	even	0	Not available
+Leucine-C20:1	13	C20:1	Leucine	C20	long	even	1	Not available
+Leucine-C20:2	20	C20:2	Leucine	C20	long	even	2	Not available
+Leucine-C20:3	78	C20:3	Leucine	C20	long	even	3	Not available
+Leucine-C20:4	111	C20:4	Leucine	C20	long	even	4	LIPIDMAPS
+Leucine-C21:0	6	C21:0	Leucine	C21	long	odd	0	Not available
+Leucine-C21:1	3	C21:1	Leucine	C21	long	odd	1	Not available
+Leucine-C22:1	3	C22:1	Leucine	C22	very long	even	1	Not available
+Leucine-C24:0	16	C24:0	Leucine	C24	very long	even	0	Not available
+Leucine-C26:0	43	C26:0	Leucine	C26	very long	even	0	Not available
+Leucine-C28:0	2	C28:0	Leucine	C28	very long	even	0	Not available
+Leucine-C3:0	98	C3:0	Leucine	C3	short	odd	0	Not available
+Leucine-C30:0	2	C30:0	Leucine	C30	very long	even	0	Not available
+Leucine-C4:0	278	C4:0	Leucine	C4	short	even	0	Not available
+Leucine-C5:0	206	C5:0	Leucine	C5	short	odd	0	Not available
+Leucine-C5:1	2	C5:1	Leucine	C5	short	odd	1	Not available
+Leucine-C6:0	333	C6:0	Leucine	C6	short	even	0	Not available
+Leucine-C6:1	5	C6:1	Leucine	C6	short	even	1	Not available
+Leucine-C7:0	21	C7:0	Leucine	C7	medium	odd	0	Not available
+Leucine-C8:0	205	C8:0	Leucine	C8	medium	even	0	Not available
+Leucine-C8:1	241	C8:1	Leucine	C8	medium	even	1	Not available
+Leucine-C8:2	4	C8:2	Leucine	C8	medium	even	2	Not available
+Leucine-C9:0	15	C9:0	Leucine	C9	medium	odd	0	Not available
+Leucine-C9:4	31	C9:4	Leucine	C9	medium	odd	4	Not available
+Lysine-C10:0	290	C10:0	Lysine	C10	medium	even	0	Not available
+Lysine-C10:1	5	C10:1	Lysine	C10	medium	even	1	Not available
+Lysine-C11:0	3	C11:0	Lysine	C11	medium	odd	0	Not available
+Lysine-C11:1	11	C11:1	Lysine	C11	medium	odd	1	Not available
+Lysine-C12:0	64	C12:0	Lysine	C12	medium	even	0	LIPIDMAPS
+Lysine-C12:1	4	C12:1	Lysine	C12	medium	even	1	Not available
+Lysine-C12:2	7	C12:2	Lysine	C12	medium	even	2	Not available
+Lysine-C13:0	4	C13:0	Lysine	C13	medium	odd	0	Not available
+Lysine-C13:1	3	C13:1	Lysine	C13	medium	odd	1	Not available
+Lysine-C14:0	31	C14:0	Lysine	C14	long	even	0	LIPIDMAPS
+Lysine-C14:1	7	C14:1	Lysine	C14	long	even	1	LIPIDMAPS
+Lysine-C14:3	2	C14:3	Lysine	C14	long	even	3	Not available
+Lysine-C14:4	2	C14:4	Lysine	C14	long	even	4	Not available
+Lysine-C15:0	124	C15:0	Lysine	C15	long	odd	0	Not available
+Lysine-C16:0	354	C16:0	Lysine	C16	long	even	0	Not available
+Lysine-C16:1	269	C16:1	Lysine	C16	long	even	1	Not available
+Lysine-C16:2	2	C16:2	Lysine	C16	long	even	2	Not available
+Lysine-C16:3	2	C16:3	Lysine	C16	long	even	3	Not available
+Lysine-C17:0	67	C17:0	Lysine	C17	long	odd	0	Not available
+Lysine-C17:1	30	C17:1	Lysine	C17	long	odd	1	Not available
+Lysine-C18:0	17	C18:0	Lysine	C18	long	even	0	Not available
+Lysine-C18:1	554	C18:1	Lysine	C18	long	even	1	Not available
+Lysine-C18:2	601	C18:2	Lysine	C18	long	even	2	Not available
+Lysine-C18:3	136	C18:3	Lysine	C18	long	even	3	Not available
+Lysine-C18:4	7	C18:4	Lysine	C18	long	even	4	Not available
+Lysine-C2:0	41	C2:0	Lysine	C2	short	even	0	Not available
+Lysine-C20:3	2	C20:3	Lysine	C20	long	even	3	Not available
+Lysine-C20:4	115	C20:4	Lysine	C20	long	even	4	Not available
+Lysine-C4:0	105	C4:0	Lysine	C4	short	even	0	Not available
+Lysine-C5:0	63	C5:0	Lysine	C5	short	odd	0	Not available
+Lysine-C6:1	4	C6:1	Lysine	C6	short	even	1	Not available
+Lysine-C7:0	38	C7:0	Lysine	C7	medium	odd	0	Not available
+Lysine-C8:0	79	C8:0	Lysine	C8	medium	even	0	Not available
+Lysine-C8:2	2	C8:2	Lysine	C8	medium	even	2	Not available
+Lysine-C9:0	7	C9:0	Lysine	C9	medium	odd	0	Not available
+Methionine-C10:0	23	C10:0	Methionine	C10	medium	even	0	Not available
+Methionine-C10:1	5	C10:1	Methionine	C10	medium	even	1	Not available
+Methionine-C12:0	15	C12:0	Methionine	C12	medium	even	0	Not available
+Methionine-C14:0	4	C14:0	Methionine	C14	long	even	0	Not available
+Methionine-C14:1	7	C14:1	Methionine	C14	long	even	1	Not available
+Methionine-C15:0	6	C15:0	Methionine	C15	long	odd	0	Not available
+Methionine-C16:0	75	C16:0	Methionine	C16	long	even	0	LIPIDMAPS
+Methionine-C16:1	66	C16:1	Methionine	C16	long	even	1	Not available
+Methionine-C17:1	7	C17:1	Methionine	C17	long	odd	1	Not available
+Methionine-C18:0	5	C18:0	Methionine	C18	long	even	0	Not available
+Methionine-C18:1	326	C18:1	Methionine	C18	long	even	1	LIPIDMAPS
+Methionine-C18:2	400	C18:2	Methionine	C18	long	even	2	Not available
+Methionine-C18:3	26	C18:3	Methionine	C18	long	even	3	Not available
+Methionine-C2:0	1290	C2:0	Methionine	C2	short	even	0	Not available
+Methionine-C20:0	4	C20:0	Methionine	C20	long	even	0	Not available
+Methionine-C20:3	2	C20:3	Methionine	C20	long	even	3	Not available
+Methionine-C20:4	55	C20:4	Methionine	C20	long	even	4	Not available
+Methionine-C3:0	56	C3:0	Methionine	C3	short	odd	0	Not available
+Methionine-C4:0	83	C4:0	Methionine	C4	short	even	0	Not available
+Methionine-C5:0	94	C5:0	Methionine	C5	short	odd	0	Not available
+Methionine-C6:0	16	C6:0	Methionine	C6	short	even	0	Not available
+Methionine-C8:0	22	C8:0	Methionine	C8	medium	even	0	Not available
+Methionine-C9:4	8	C9:4	Methionine	C9	medium	odd	4	Not available
+N-acetylcadaverine-C18:1	9	C18:1	N-acetylcadaverine	C18	long	even	1	Not available
+N-acetylcadaverine-C2:0	661	C2:0	N-acetylcadaverine	C2	short	even	0	Not available
+N-acetylcadaverine-C3:0	68	C3:0	N-acetylcadaverine	C3	short	odd	0	Not available
+N-acetylcadaverine-C4:0	48	C4:0	N-acetylcadaverine	C4	short	even	0	Not available
+N-acetylcadaverine-C7:0	37	C7:0	N-acetylcadaverine	C7	medium	odd	0	Not available
+N-acetylornithine-C16:0	3	C16:0	N-acetylornithine	C16	long	even	0	Not available
+N-acetylornithine-C2:0	146	C2:0	N-acetylornithine	C2	short	even	0	Not available
+N-acetylornithine-C4:0	4	C4:0	N-acetylornithine	C4	short	even	0	Not available
+N-acetylputrescine-C2:0	485	C2:0	N-acetylputrescine	C2	short	even	0	Not available
+N-acetylputrescine-C4:0	5	C4:0	N-acetylputrescine	C4	short	even	0	Not available
+N-acetylputrescine-C4:1	2	C4:1	N-acetylputrescine	C4	short	even	1	Not available
+N-acetylputrescine-C7:0	3	C7:0	N-acetylputrescine	C7	medium	odd	0	Not available
+Ornithine-C15:0	2	C15:0	Ornithine	C15	long	odd	0	Not available
+Ornithine-C16:1	32	C16:1	Ornithine	C16	long	even	1	Not available
+Ornithine-C17:1	7	C17:1	Ornithine	C17	long	odd	1	Not available
+Ornithine-C8:1	5	C8:1	Ornithine	C8	medium	even	1	Not available
+Phenylalanine-C10:0	309	C10:0	Phenylalanine	C10	medium	even	0	Not available
+Phenylalanine-C10:1	35	C10:1	Phenylalanine	C10	medium	even	1	Not available
+Phenylalanine-C10:2	6	C10:2	Phenylalanine	C10	medium	even	2	Not available
+Phenylalanine-C11:1	2	C11:1	Phenylalanine	C11	medium	odd	1	Not available
+Phenylalanine-C11:4	17	C11:4	Phenylalanine	C11	medium	odd	4	Not available
+Phenylalanine-C12:0	86	C12:0	Phenylalanine	C12	medium	even	0	Not available
+Phenylalanine-C12:1	4	C12:1	Phenylalanine	C12	medium	even	1	Not available
+Phenylalanine-C12:2	6	C12:2	Phenylalanine	C12	medium	even	2	Not available
+Phenylalanine-C12:4	75	C12:4	Phenylalanine	C12	medium	even	4	Not available
+Phenylalanine-C13:1	6	C13:1	Phenylalanine	C13	medium	odd	1	Not available
+Phenylalanine-C14:0	80	C14:0	Phenylalanine	C14	long	even	0	Not available
+Phenylalanine-C14:1	11	C14:1	Phenylalanine	C14	long	even	1	Not available
+Phenylalanine-C15:0	73	C15:0	Phenylalanine	C15	long	odd	0	Not available
+Phenylalanine-C16:0	612	C16:0	Phenylalanine	C16	long	even	0	LIPIDMAPS
+Phenylalanine-C16:1	193	C16:1	Phenylalanine	C16	long	even	1	Not available
+Phenylalanine-C16:2	2	C16:2	Phenylalanine	C16	long	even	2	Not available
+Phenylalanine-C17:0	21	C17:0	Phenylalanine	C17	long	odd	0	Not available
+Phenylalanine-C17:1	43	C17:1	Phenylalanine	C17	long	odd	1	Not available
+Phenylalanine-C18:0	183	C18:0	Phenylalanine	C18	long	even	0	LIPIDMAPS
+Phenylalanine-C18:1	1017	C18:1	Phenylalanine	C18	long	even	1	LIPIDMAPS
+Phenylalanine-C18:2	964	C18:2	Phenylalanine	C18	long	even	2	Not available
+Phenylalanine-C18:3	164	C18:3	Phenylalanine	C18	long	even	3	Not available
+Phenylalanine-C18:4	5	C18:4	Phenylalanine	C18	long	even	4	Not available
+Phenylalanine-C19:1	2	C19:1	Phenylalanine	C19	long	odd	1	Not available
+Phenylalanine-C2:0	3170	C2:0	Phenylalanine	C2	short	even	0	Not available
+Phenylalanine-C20:1	2	C20:1	Phenylalanine	C20	long	even	1	Not available
+Phenylalanine-C20:2	3	C20:2	Phenylalanine	C20	long	even	2	Not available
+Phenylalanine-C20:3	6	C20:3	Phenylalanine	C20	long	even	3	Not available
+Phenylalanine-C20:4	123	C20:4	Phenylalanine	C20	long	even	4	Not available
+Phenylalanine-C22:4	5	C22:4	Phenylalanine	C22	very long	even	4	Not available
+Phenylalanine-C24:0	2	C24:0	Phenylalanine	C24	very long	even	0	Not available
+Phenylalanine-C3:0	459	C3:0	Phenylalanine	C3	short	odd	0	Not available
+Phenylalanine-C3:1	3	C3:1	Phenylalanine	C3	short	odd	1	Not available
+Phenylalanine-C4:0	644	C4:0	Phenylalanine	C4	short	even	0	Not available
+Phenylalanine-C5:0	187	C5:0	Phenylalanine	C5	short	odd	0	Not available
+Phenylalanine-C5:1	3	C5:1	Phenylalanine	C5	short	odd	1	Not available
+Phenylalanine-C6:0	562	C6:0	Phenylalanine	C6	short	even	0	Not available
+Phenylalanine-C6:1	15	C6:1	Phenylalanine	C6	short	even	1	Not available
+Phenylalanine-C7:0	24	C7:0	Phenylalanine	C7	medium	odd	0	Not available
+Phenylalanine-C8:0	537	C8:0	Phenylalanine	C8	medium	even	0	Not available
+Phenylalanine-C8:1	5	C8:1	Phenylalanine	C8	medium	even	1	Not available
+Phenylalanine-C8:2	8	C8:2	Phenylalanine	C8	medium	even	2	Not available
+Phenylalanine-C9:0	8	C9:0	Phenylalanine	C9	medium	odd	0	Not available
+Phenylalanine-C9:4	48	C9:4	Phenylalanine	C9	medium	odd	4	Not available
+Putrescine-C10:0	10	C10:0	Putrescine	C10	medium	even	0	Not available
+Putrescine-C11:0	3	C11:0	Putrescine	C11	medium	odd	0	Not available
+Putrescine-C12:1	2	C12:1	Putrescine	C12	medium	even	1	Not available
+Putrescine-C13:1	2	C13:1	Putrescine	C13	medium	odd	1	Not available
+Putrescine-C14:0	80	C14:0	Putrescine	C14	long	even	0	Not available
+Putrescine-C14:1	18	C14:1	Putrescine	C14	long	even	1	Not available
+Putrescine-C15:0	10	C15:0	Putrescine	C15	long	odd	0	Not available
+Putrescine-C15:2	3	C15:2	Putrescine	C15	long	odd	2	Not available
+Putrescine-C16:0	322	C16:0	Putrescine	C16	long	even	0	Not available
+Putrescine-C16:1	45	C16:1	Putrescine	C16	long	even	1	Not available
+Putrescine-C16:2	2	C16:2	Putrescine	C16	long	even	2	Not available
+Putrescine-C18:0	12	C18:0	Putrescine	C18	long	even	0	Not available
+Putrescine-C18:1	29	C18:1	Putrescine	C18	long	even	1	Not available
+Putrescine-C18:2	6	C18:2	Putrescine	C18	long	even	2	Not available
+Putrescine-C2:0	178	C2:0	Putrescine	C2	short	even	0	Not available
+Putrescine-C20:1	2	C20:1	Putrescine	C20	long	even	1	Not available
+Putrescine-C4:0	104	C4:0	Putrescine	C4	short	even	0	Not available
+Putrescine-C5:0	224	C5:0	Putrescine	C5	short	odd	0	Not available
+Putrescine-C6:0	86	C6:0	Putrescine	C6	short	even	0	Not available
+Putrescine-C7:0	11	C7:0	Putrescine	C7	medium	odd	0	Not available
+Putrescine-C8:0	30	C8:0	Putrescine	C8	medium	even	0	Not available
+Putrescine-C9:0	7	C9:0	Putrescine	C9	medium	odd	0	Not available
+Serine-C10:0	26	C10:0	Serine	C10	medium	even	0	Not available
+Serine-C11:0	2	C11:0	Serine	C11	medium	odd	0	Not available
+Serine-C11:1	5	C11:1	Serine	C11	medium	odd	1	Not available
+Serine-C12:0	7	C12:0	Serine	C12	medium	even	0	Not available
+Serine-C12:1	7	C12:1	Serine	C12	medium	even	1	Not available
+Serine-C13:0	5	C13:0	Serine	C13	medium	odd	0	Not available
+Serine-C13:1	24	C13:1	Serine	C13	medium	odd	1	Not available
+Serine-C14:0	102	C14:0	Serine	C14	long	even	0	Not available
+Serine-C14:1	30	C14:1	Serine	C14	long	even	1	Not available
+Serine-C15:0	99	C15:0	Serine	C15	long	odd	0	Not available
+Serine-C15:1	391	C15:1	Serine	C15	long	odd	1	Not available
+Serine-C16:0	344	C16:0	Serine	C16	long	even	0	LIPIDMAPS
+Serine-C16:1	57	C16:1	Serine	C16	long	even	1	Not available
+Serine-C17:0	53	C17:0	Serine	C17	long	odd	0	Not available
+Serine-C17:1	50	C17:1	Serine	C17	long	odd	1	Not available
+Serine-C18:0	83	C18:0	Serine	C18	long	even	0	LIPIDMAPS
+Serine-C18:1	171	C18:1	Serine	C18	long	even	1	LIPIDMAPS
+Serine-C18:2	180	C18:2	Serine	C18	long	even	2	Not available
+Serine-C18:3	21	C18:3	Serine	C18	long	even	3	Not available
+Serine-C2:0	13	C2:0	Serine	C2	short	even	0	Not available
+Serine-C20:2	22	C20:2	Serine	C20	long	even	2	Not available
+Serine-C20:4	3	C20:4	Serine	C20	long	even	4	LIPIDMAPS
+Serine-C22:4	2	C22:4	Serine	C22	very long	even	4	Not available
+Serine-C24:1	16	C24:1	Serine	C24	very long	even	1	Not available
+Serine-C6:0	153	C6:0	Serine	C6	short	even	0	Not available
+Serine-C7:0	22	C7:0	Serine	C7	medium	odd	0	Not available
+Serine-C8:0	48	C8:0	Serine	C8	medium	even	0	Not available
+Serine-C9:0	42	C9:0	Serine	C9	medium	odd	0	Not available
+Serotonin-C16:0	10	C16:0	Serotonin	C16	long	even	0	LIPIDMAPS
+Serotonin-C18:0	12	C18:0	Serotonin	C18	long	even	0	LIPIDMAPS
+Serotonin-C18:1	13	C18:1	Serotonin	C18	long	even	1	Not available
+Serotonin-C18:2	4	C18:2	Serotonin	C18	long	even	2	Not available
+Serotonin-C2:0	422	C2:0	Serotonin	C2	short	even	0	Not available
+Serotonin-C20:0	71	C20:0	Serotonin	C20	long	even	0	Not available
+Serotonin-C20:1	11	C20:1	Serotonin	C20	long	even	1	Not available
+Serotonin-C20:2	2	C20:2	Serotonin	C20	long	even	2	Not available
+Serotonin-C21:0	9	C21:0	Serotonin	C21	long	odd	0	LIPIDMAPS
+Serotonin-C22:0	168	C22:0	Serotonin	C22	very long	even	0	LIPIDMAPS
+Serotonin-C22:1	5	C22:1	Serotonin	C22	very long	even	1	Not available
+Serotonin-C23:0	30	C23:0	Serotonin	C23	very long	odd	0	LIPIDMAPS
+Serotonin-C24:0	176	C24:0	Serotonin	C24	very long	even	0	LIPIDMAPS
+Serotonin-C24:1	8	C24:1	Serotonin	C24	very long	even	1	Not available
+Serotonin-C25:0	23	C25:0	Serotonin	C25	very long	odd	0	LIPIDMAPS
+Serotonin-C26:0	29	C26:0	Serotonin	C26	very long	even	0	LIPIDMAPS
+Serotonin-C26:1	13	C26:1	Serotonin	C26	very long	even	1	Not available
+Serotonin-C28:0	16	C28:0	Serotonin	C28	very long	even	0	Not available
+Serotonin-C28:1	2	C28:1	Serotonin	C28	very long	even	1	Not available
+Spermidine-C10:1	61	C10:1	Spermidine	C10	medium	even	1	Not available
+Spermidine-C10:2	23	C10:2	Spermidine	C10	medium	even	2	Not available
+Spermidine-C12:1	6	C12:1	Spermidine	C12	medium	even	1	Not available
+Spermidine-C16:0	639	C16:0	Spermidine	C16	long	even	0	Not available
+Spermidine-C16:1	88	C16:1	Spermidine	C16	long	even	1	Not available
+Spermidine-C18:1	261	C18:1	Spermidine	C18	long	even	1	Not available
+Spermidine-C18:2	93	C18:2	Spermidine	C18	long	even	2	Not available
+Spermidine-C2:0	1798	C2:0	Spermidine	C2	short	even	0	Not available
+Spermidine-C3:0	2	C3:0	Spermidine	C3	short	odd	0	Not available
+Spermidine-C4:0	162	C4:0	Spermidine	C4	short	even	0	Not available
+Spermidine-C8:0	60	C8:0	Spermidine	C8	medium	even	0	Not available
+Spermidine-C9:0	3	C9:0	Spermidine	C9	medium	odd	0	Not available
+Spermine-C10:0	2	C10:0	Spermine	C10	medium	even	0	Not available
+Spermine-C14:2	2	C14:2	Spermine	C14	long	even	2	Not available
+Spermine-C14:3	2	C14:3	Spermine	C14	long	even	3	Not available
+Spermine-C20:3	2	C20:3	Spermine	C20	long	even	3	Not available
+Taurine-C10:0	37	C10:0	Taurine	C10	medium	even	0	Not available
+Taurine-C12:0	13	C12:0	Taurine	C12	medium	even	0	Not available
+Taurine-C14:1	7	C14:1	Taurine	C14	long	even	1	Not available
+Taurine-C16:0	26	C16:0	Taurine	C16	long	even	0	LIPIDMAPS
+Taurine-C16:1	35	C16:1	Taurine	C16	long	even	1	Not available
+Taurine-C18:1	54	C18:1	Taurine	C18	long	even	1	LIPIDMAPS
+Taurine-C18:2	51	C18:2	Taurine	C18	long	even	2	LIPIDMAPS
+Taurine-C18:3	8	C18:3	Taurine	C18	long	even	3	Not available
+Taurine-C20:0	2	C20:0	Taurine	C20	long	even	0	LIPIDMAPS
+Taurine-C20:4	7	C20:4	Taurine	C20	long	even	4	LIPIDMAPS
+Taurine-C5:0	3	C5:0	Taurine	C5	short	odd	0	Not available
+Taurine-C8:0	2	C8:0	Taurine	C8	medium	even	0	Not available
+Threonine/homoserine-C10:0	31	C10:0	Threonine/homoserine	C10	medium	even	0	Not available
+Threonine/homoserine-C11:0	2	C11:0	Threonine/homoserine	C11	medium	odd	0	Not available
+Threonine/homoserine-C11:1	3	C11:1	Threonine/homoserine	C11	medium	odd	1	Not available
+Threonine/homoserine-C12:0	34	C12:0	Threonine/homoserine	C12	medium	even	0	Not available
+Threonine/homoserine-C13:0	5	C13:0	Threonine/homoserine	C13	medium	odd	0	Not available
+Threonine/homoserine-C13:1	32	C13:1	Threonine/homoserine	C13	medium	odd	1	Not available
+Threonine/homoserine-C14:0	22	C14:0	Threonine/homoserine	C14	long	even	0	Not available
+Threonine/homoserine-C14:1	20	C14:1	Threonine/homoserine	C14	long	even	1	Not available
+Threonine/homoserine-C15:0	118	C15:0	Threonine/homoserine	C15	long	odd	0	Not available
+Threonine/homoserine-C15:1	446	C15:1	Threonine/homoserine	C15	long	odd	1	Not available
+Threonine/homoserine-C16:0	129	C16:0	Threonine/homoserine	C16	long	even	0	LIPIDMAPS
+Threonine/homoserine-C16:1	80	C16:1	Threonine/homoserine	C16	long	even	1	Not available
+Threonine/homoserine-C17:0	49	C17:0	Threonine/homoserine	C17	long	odd	0	Not available
+Threonine/homoserine-C17:1	76	C17:1	Threonine/homoserine	C17	long	odd	1	Not available
+Threonine/homoserine-C18:0	31	C18:0	Threonine/homoserine	C18	long	even	0	Not available
+Threonine/homoserine-C18:1	181	C18:1	Threonine/homoserine	C18	long	even	1	LIPIDMAPS
+Threonine/homoserine-C18:2	150	C18:2	Threonine/homoserine	C18	long	even	2	Not available
+Threonine/homoserine-C18:3	27	C18:3	Threonine/homoserine	C18	long	even	3	Not available
+Threonine/homoserine-C2:0	151	C2:0	Threonine/homoserine	C2	short	even	0	Not available
+Threonine/homoserine-C20:4	4	C20:4	Threonine/homoserine	C20	long	even	4	Not available
+Threonine/homoserine-C3:0	11	C3:0	Threonine/homoserine	C3	short	odd	0	Not available
+Threonine/homoserine-C4:0	68	C4:0	Threonine/homoserine	C4	short	even	0	Not available
+Threonine/homoserine-C5:0	26	C5:0	Threonine/homoserine	C5	short	odd	0	Not available
+Threonine/homoserine-C6:0	17	C6:0	Threonine/homoserine	C6	short	even	0	Not available
+Threonine/homoserine-C7:0	32	C7:0	Threonine/homoserine	C7	medium	odd	0	Not available
+Threonine/homoserine-C8:0	29	C8:0	Threonine/homoserine	C8	medium	even	0	Not available
+Threonine/homoserine-C9:0	56	C9:0	Threonine/homoserine	C9	medium	odd	0	Not available
+Tryptamine-C10:0	5	C10:0	Tryptamine	C10	medium	even	0	Not available
+Tryptamine-C10:3	22	C10:3	Tryptamine	C10	medium	even	3	Not available
+Tryptamine-C11:0	2	C11:0	Tryptamine	C11	medium	odd	0	Not available
+Tryptamine-C11:4	2	C11:4	Tryptamine	C11	medium	odd	4	Not available
+Tryptamine-C12:0	7	C12:0	Tryptamine	C12	medium	even	0	Not available
+Tryptamine-C12:2	3	C12:2	Tryptamine	C12	medium	even	2	Not available
+Tryptamine-C14:0	4	C14:0	Tryptamine	C14	long	even	0	Not available
+Tryptamine-C15:0	3	C15:0	Tryptamine	C15	long	odd	0	Not available
+Tryptamine-C16:0	86	C16:0	Tryptamine	C16	long	even	0	Not available
+Tryptamine-C16:1	11	C16:1	Tryptamine	C16	long	even	1	Not available
+Tryptamine-C16:4	4	C16:4	Tryptamine	C16	long	even	4	Not available
+Tryptamine-C17:0	3	C17:0	Tryptamine	C17	long	odd	0	Not available
+Tryptamine-C18:0	42	C18:0	Tryptamine	C18	long	even	0	Not available
+Tryptamine-C18:1	123	C18:1	Tryptamine	C18	long	even	1	Not available
+Tryptamine-C18:2	58	C18:2	Tryptamine	C18	long	even	2	Not available
+Tryptamine-C18:4	2	C18:4	Tryptamine	C18	long	even	4	Not available
+Tryptamine-C19:0	4	C19:0	Tryptamine	C19	long	odd	0	Not available
+Tryptamine-C19:1	2	C19:1	Tryptamine	C19	long	odd	1	Not available
+Tryptamine-C2:0	350	C2:0	Tryptamine	C2	short	even	0	Not available
+Tryptamine-C20:0	14	C20:0	Tryptamine	C20	long	even	0	Not available
+Tryptamine-C20:1	10	C20:1	Tryptamine	C20	long	even	1	Not available
+Tryptamine-C20:4	33	C20:4	Tryptamine	C20	long	even	4	Not available
+Tryptamine-C21:0	5	C21:0	Tryptamine	C21	long	odd	0	Not available
+Tryptamine-C21:3	2	C21:3	Tryptamine	C21	long	odd	3	Not available
+Tryptamine-C22:0	166	C22:0	Tryptamine	C22	very long	even	0	Not available
+Tryptamine-C23:0	59	C23:0	Tryptamine	C23	very long	odd	0	Not available
+Tryptamine-C24:0	185	C24:0	Tryptamine	C24	very long	even	0	Not available
+Tryptamine-C25:0	13	C25:0	Tryptamine	C25	very long	odd	0	Not available
+Tryptamine-C26:0	16	C26:0	Tryptamine	C26	very long	even	0	Not available
+Tryptamine-C26:1	2	C26:1	Tryptamine	C26	very long	even	1	Not available
+Tryptamine-C3:0	31	C3:0	Tryptamine	C3	short	odd	0	Not available
+Tryptamine-C30:0	2	C30:0	Tryptamine	C30	very long	even	0	Not available
+Tryptamine-C4:0	68	C4:0	Tryptamine	C4	short	even	0	Not available
+Tryptamine-C5:0	51	C5:0	Tryptamine	C5	short	odd	0	Not available
+Tryptamine-C6:0	18	C6:0	Tryptamine	C6	short	even	0	Not available
+Tryptamine-C7:0	19	C7:0	Tryptamine	C7	medium	odd	0	Not available
+Tryptamine-C8:0	9	C8:0	Tryptamine	C8	medium	even	0	Not available
+Tryptamine-C9:4	4	C9:4	Tryptamine	C9	medium	odd	4	Not available
+Tryptophan-C10:0	3	C10:0	Tryptophan	C10	medium	even	0	Not available
+Tryptophan-C11:0	3	C11:0	Tryptophan	C11	medium	odd	0	Not available
+Tryptophan-C12:0	5	C12:0	Tryptophan	C12	medium	even	0	Not available
+Tryptophan-C13:3	3	C13:3	Tryptophan	C13	medium	odd	3	Not available
+Tryptophan-C14:0	21	C14:0	Tryptophan	C14	long	even	0	Not available
+Tryptophan-C14:4	2	C14:4	Tryptophan	C14	long	even	4	Not available
+Tryptophan-C15:0	4	C15:0	Tryptophan	C15	long	odd	0	Not available
+Tryptophan-C16:0	114	C16:0	Tryptophan	C16	long	even	0	LIPIDMAPS
+Tryptophan-C16:1	9	C16:1	Tryptophan	C16	long	even	1	Not available
+Tryptophan-C17:0	6	C17:0	Tryptophan	C17	long	odd	0	Not available
+Tryptophan-C17:1	4	C17:1	Tryptophan	C17	long	odd	1	Not available
+Tryptophan-C18:0	64	C18:0	Tryptophan	C18	long	even	0	LIPIDMAPS
+Tryptophan-C18:1	400	C18:1	Tryptophan	C18	long	even	1	LIPIDMAPS
+Tryptophan-C18:2	629	C18:2	Tryptophan	C18	long	even	2	Not available
+Tryptophan-C18:3	14	C18:3	Tryptophan	C18	long	even	3	Not available
+Tryptophan-C20:4	4	C20:4	Tryptophan	C20	long	even	4	Not available
+Tryptophan-C22:0	2	C22:0	Tryptophan	C22	very long	even	0	Not available
+Tryptophan-C24:0	6	C24:0	Tryptophan	C24	very long	even	0	Not available
+Tryptophan-C25:0	2	C25:0	Tryptophan	C25	very long	odd	0	Not available
+Tryptophan-C26:0	5	C26:0	Tryptophan	C26	very long	even	0	Not available
+Tryptophan-C3:0	42	C3:0	Tryptophan	C3	short	odd	0	Not available
+Tryptophan-C4:0	78	C4:0	Tryptophan	C4	short	even	0	Not available
+Tryptophan-C4:1	7	C4:1	Tryptophan	C4	short	even	1	Not available
+Tryptophan-C5:0	51	C5:0	Tryptophan	C5	short	odd	0	Not available
+Tryptophan-C6:0	35	C6:0	Tryptophan	C6	short	even	0	Not available
+Tryptophan-C6:1	2	C6:1	Tryptophan	C6	short	even	1	Not available
+Tryptophan-C7:0	5	C7:0	Tryptophan	C7	medium	odd	0	Not available
+Tryptophan-C8:0	42	C8:0	Tryptophan	C8	medium	even	0	Not available
+Tryptophan-C8:1	3	C8:1	Tryptophan	C8	medium	even	1	Not available
+Tryptophan-C9:0	2	C9:0	Tryptophan	C9	medium	odd	0	Not available
+Tyramine-C10:0	65	C10:0	Tyramine	C10	medium	even	0	Not available
+Tyramine-C10:1	6	C10:1	Tyramine	C10	medium	even	1	Not available
+Tyramine-C10:2	8	C10:2	Tyramine	C10	medium	even	2	LIPIDMAPS
+Tyramine-C10:3	2	C10:3	Tyramine	C10	medium	even	3	Not available
+Tyramine-C10:4	22	C10:4	Tyramine	C10	medium	even	4	Not available
+Tyramine-C11:0	6	C11:0	Tyramine	C11	medium	odd	0	Not available
+Tyramine-C11:1	2	C11:1	Tyramine	C11	medium	odd	1	Not available
+Tyramine-C12:0	28	C12:0	Tyramine	C12	medium	even	0	Not available
+Tyramine-C13:0	4	C13:0	Tyramine	C13	medium	odd	0	Not available
+Tyramine-C13:1	3	C13:1	Tyramine	C13	medium	odd	1	Not available
+Tyramine-C14:0	45	C14:0	Tyramine	C14	long	even	0	Not available
+Tyramine-C14:1	14	C14:1	Tyramine	C14	long	even	1	Not available
+Tyramine-C15:0	26	C15:0	Tyramine	C15	long	odd	0	Not available
+Tyramine-C15:1	2	C15:1	Tyramine	C15	long	odd	1	Not available
+Tyramine-C16:0	291	C16:0	Tyramine	C16	long	even	0	Not available
+Tyramine-C16:1	257	C16:1	Tyramine	C16	long	even	1	Not available
+Tyramine-C16:2	2	C16:2	Tyramine	C16	long	even	2	Not available
+Tyramine-C16:3	13	C16:3	Tyramine	C16	long	even	3	Not available
+Tyramine-C17:0	18	C17:0	Tyramine	C17	long	odd	0	Not available
+Tyramine-C17:1	8	C17:1	Tyramine	C17	long	odd	1	Not available
+Tyramine-C18:0	57	C18:0	Tyramine	C18	long	even	0	Not available
+Tyramine-C18:1	270	C18:1	Tyramine	C18	long	even	1	Not available
+Tyramine-C18:2	228	C18:2	Tyramine	C18	long	even	2	Not available
+Tyramine-C18:3	36	C18:3	Tyramine	C18	long	even	3	Not available
+Tyramine-C18:4	11	C18:4	Tyramine	C18	long	even	4	Not available
+Tyramine-C19:0	2	C19:0	Tyramine	C19	long	odd	0	Not available
+Tyramine-C2:0	1765	C2:0	Tyramine	C2	short	even	0	Not available
+Tyramine-C20:0	8	C20:0	Tyramine	C20	long	even	0	Not available
+Tyramine-C20:2	2	C20:2	Tyramine	C20	long	even	2	Not available
+Tyramine-C20:3	13	C20:3	Tyramine	C20	long	even	3	Not available
+Tyramine-C22:0	39	C22:0	Tyramine	C22	very long	even	0	Not available
+Tyramine-C22:4	42	C22:4	Tyramine	C22	very long	even	4	Not available
+Tyramine-C23:0	14	C23:0	Tyramine	C23	very long	odd	0	Not available
+Tyramine-C24:0	79	C24:0	Tyramine	C24	very long	even	0	Not available
+Tyramine-C24:1	5	C24:1	Tyramine	C24	very long	even	1	Not available
+Tyramine-C25:0	21	C25:0	Tyramine	C25	very long	odd	0	Not available
+Tyramine-C25:1	2	C25:1	Tyramine	C25	very long	odd	1	Not available
+Tyramine-C26:0	63	C26:0	Tyramine	C26	very long	even	0	Not available
+Tyramine-C26:1	5	C26:1	Tyramine	C26	very long	even	1	Not available
+Tyramine-C26:2	2	C26:2	Tyramine	C26	very long	even	2	Not available
+Tyramine-C27:0	14	C27:0	Tyramine	C27	very long	odd	0	Not available
+Tyramine-C27:1	3	C27:1	Tyramine	C27	very long	odd	1	Not available
+Tyramine-C28:0	35	C28:0	Tyramine	C28	very long	even	0	Not available
+Tyramine-C28:1	17	C28:1	Tyramine	C28	very long	even	1	Not available
+Tyramine-C28:2	6	C28:2	Tyramine	C28	very long	even	2	Not available
+Tyramine-C29:0	14	C29:0	Tyramine	C29	very long	odd	0	Not available
+Tyramine-C29:1	8	C29:1	Tyramine	C29	very long	odd	1	Not available
+Tyramine-C3:0	307	C3:0	Tyramine	C3	short	odd	0	Not available
+Tyramine-C30:0	82	C30:0	Tyramine	C30	very long	even	0	Not available
+Tyramine-C30:1	12	C30:1	Tyramine	C30	very long	even	1	Not available
+Tyramine-C30:2	8	C30:2	Tyramine	C30	very long	even	2	Not available
+Tyramine-C30:4	7	C30:4	Tyramine	C30	very long	even	4	Not available
+Tyramine-C4:0	52	C4:0	Tyramine	C4	short	even	0	Not available
+Tyramine-C5:0	34	C5:0	Tyramine	C5	short	odd	0	Not available
+Tyramine-C6:0	43	C6:0	Tyramine	C6	short	even	0	Not available
+Tyramine-C6:1	22	C6:1	Tyramine	C6	short	even	1	Not available
+Tyramine-C7:0	4	C7:0	Tyramine	C7	medium	odd	0	Not available
+Tyramine-C8:0	90	C8:0	Tyramine	C8	medium	even	0	Not available
+Tyramine-C8:3	3	C8:3	Tyramine	C8	medium	even	3	Not available
+Tyramine-C9:4	14	C9:4	Tyramine	C9	medium	odd	4	Not available
+Tyrosine-C10:0	301	C10:0	Tyrosine	C10	medium	even	0	Not available
+Tyrosine-C10:1	11	C10:1	Tyrosine	C10	medium	even	1	Not available
+Tyrosine-C10:2	3	C10:2	Tyrosine	C10	medium	even	2	Not available
+Tyrosine-C11:0	2	C11:0	Tyrosine	C11	medium	odd	0	Not available
+Tyrosine-C12:0	52	C12:0	Tyrosine	C12	medium	even	0	Not available
+Tyrosine-C12:1	2	C12:1	Tyrosine	C12	medium	even	1	Not available
+Tyrosine-C12:2	5	C12:2	Tyrosine	C12	medium	even	2	Not available
+Tyrosine-C14:0	27	C14:0	Tyrosine	C14	long	even	0	Not available
+Tyrosine-C14:1	13	C14:1	Tyrosine	C14	long	even	1	Not available
+Tyrosine-C15:0	9	C15:0	Tyrosine	C15	long	odd	0	Not available
+Tyrosine-C16:0	533	C16:0	Tyrosine	C16	long	even	0	LIPIDMAPS
+Tyrosine-C16:1	70	C16:1	Tyrosine	C16	long	even	1	Not available
+Tyrosine-C18:0	89	C18:0	Tyrosine	C18	long	even	0	LIPIDMAPS
+Tyrosine-C18:1	1093	C18:1	Tyrosine	C18	long	even	1	LIPIDMAPS
+Tyrosine-C18:2	830	C18:2	Tyrosine	C18	long	even	2	Not available
+Tyrosine-C18:3	129	C18:3	Tyrosine	C18	long	even	3	Not available
+Tyrosine-C2:0	1819	C2:0	Tyrosine	C2	short	even	0	Not available
+Tyrosine-C20:3	3	C20:3	Tyrosine	C20	long	even	3	Not available
+Tyrosine-C20:4	83	C20:4	Tyrosine	C20	long	even	4	LIPIDMAPS
+Tyrosine-C3:0	549	C3:0	Tyrosine	C3	short	odd	0	Not available
+Tyrosine-C4:0	136	C4:0	Tyrosine	C4	short	even	0	Not available
+Tyrosine-C5:0	41	C5:0	Tyrosine	C5	short	odd	0	Not available
+Tyrosine-C6:0	37	C6:0	Tyrosine	C6	short	even	0	Not available
+Tyrosine-C6:1	3	C6:1	Tyrosine	C6	short	even	1	Not available
+Tyrosine-C8:0	255	C8:0	Tyrosine	C8	medium	even	0	Not available
+Tyrosine-C9:0	3	C9:0	Tyrosine	C9	medium	odd	0	Not available
+Tyrosine-C9:4	6	C9:4	Tyrosine	C9	medium	odd	4	Not available
+Valine-C10:0	2	C10:0	Valine	C10	medium	even	0	Not available
+Valine-C10:2	6	C10:2	Valine	C10	medium	even	2	Not available
+Valine-C11:1	9	C11:1	Valine	C11	medium	odd	1	Not available
+Valine-C12:2	4	C12:2	Valine	C12	medium	even	2	Not available
+Valine-C14:2	4	C14:2	Valine	C14	long	even	2	Not available
+Valine-C15:0	7	C15:0	Valine	C15	long	odd	0	Not available
+Valine-C15:2	2	C15:2	Valine	C15	long	odd	2	Not available
+Valine-C16:0	124	C16:0	Valine	C16	long	even	0	LIPIDMAPS
+Valine-C16:1	2	C16:1	Valine	C16	long	even	1	Not available
+Valine-C18:0	26	C18:0	Valine	C18	long	even	0	LIPIDMAPS
+Valine-C18:1	12	C18:1	Valine	C18	long	even	1	Not available
+Valine-C18:2	139	C18:2	Valine	C18	long	even	2	LIPIDMAPS
+Valine-C18:3	27	C18:3	Valine	C18	long	even	3	Not available
+Valine-C18:4	10	C18:4	Valine	C18	long	even	4	Not available
+Valine-C2:0	422	C2:0	Valine	C2	short	even	0	Not available
+Valine-C22:1	9	C22:1	Valine	C22	very long	even	1	Not available
+Valine-C3:0	138	C3:0	Valine	C3	short	odd	0	Not available
+Valine-C30:4	12	C30:4	Valine	C30	very long	even	4	Not available
+Valine-C4:1	2	C4:1	Valine	C4	short	even	1	Not available
+Valine-C5:0	2	C5:0	Valine	C5	short	odd	0	Not available
+Valine-C5:1	11	C5:1	Valine	C5	short	odd	1	Not available
+Valine-C6:0	4	C6:0	Valine	C6	short	even	0	Not available
