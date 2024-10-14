@@ -1,0 +1,35 @@
+head	Actinomycetes	Agaricomycetes	Alphaproteobacteria	Bacilli	Bacteroidia	Betaproteobacteria	Chitinophagia	Clostridia	Coriobacteriia	Cyanophyceae	Deinococci	Dothideomycetes	Epsilonproteobacteria	Erysipelotrichia	Eurotiomycetes	Flavobacteriia	Fusobacteriia	Gammaproteobacteria	Leotiomycetes	Methanobacteria	Mortierellomycetes	Negativicutes	Saccharomycetes	Schizosaccharomycetes	Sordariomycetes	Spirochaetia	Tissierellia	Verrucomicrobiia	sum
+Phenylalanine	2745	685	37	3656	1454	1147	1	603	650	37	7	39	30	43	20	9	240	3331	4	0	8	76	1	0	20	164	128	222	15357
+Leucine	1039	1228	80	358	297	550	0	114	15	2	2	1	4	6	227	3	28	1433	0	0	0	23	0	0	0	2	24	106	5542
+Tyrosine	2261	162	0	389	45	1195	0	232	1	0	0	0	0	0	0	1	31	564	0	0	0	16	0	0	0	2	2	80	4981
+Lysine	170	5	8	534	126	811	0	41	0	5	0	0	0	0	0	1	0	269	0	0	0	3	0	0	0	19	2	30	2024
+Tryptophan	77	2	0	67	8	1014	0	18	0	0	0	1	0	1	0	1	12	69	0	0	0	5	0	0	0	0	0	0	1275
+GABA	28	116	0	60	96	263	0	69	7	0	0	0	3	9	2	0	9	131	0	0	0	5	0	0	0	0	10	10	818
+Asparagine	26	1	6	90	0	0	0	0	0	0	0	0	0	0	0	0	0	450	0	0	0	0	0	0	0	0	0	0	573
+Amylamine	34	18	0	16	1	0	0	0	0	428	0	0	0	0	18	0	0	22	0	1	0	0	0	0	0	0	0	0	538
+Glutamine	89	43	1	223	7	104	0	7	2	0	1	0	0	1	0	0	3	32	0	0	0	2	0	0	0	0	5	3	523
+Arginine	91	21	2	170	11	53	2	12	0	0	0	0	0	0	0	4	0	43	0	0	0	2	9	1	0	0	0	6	427
+Glutamic acid	34	7	2	195	0	93	0	0	0	0	0	0	0	0	4	0	0	26	0	0	0	0	0	0	0	0	0	0	361
+2-phenethylamine	101	56	1	54	0	0	0	0	0	106	0	3	0	0	0	2	0	8	0	0	0	0	0	0	0	0	0	0	331
+Threonine/homoserine	30	12	0	160	0	81	0	0	0	2	0	0	0	0	10	1	1	20	0	0	0	0	6	0	0	0	0	0	323
+Alanine/Sarcosine	43	44	30	47	0	5	0	4	0	0	0	0	0	0	5	44	0	19	0	0	0	0	0	0	0	0	0	0	241
+Methionine	17	8	0	28	8	34	0	25	0	0	0	0	0	0	0	1	4	105	0	0	0	1	0	0	0	0	0	2	233
+Citrulline	10	0	0	16	0	169	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	206
+Serine	32	8	0	133	0	0	0	1	0	6	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	183
+Glycine	22	0	1	26	46	2	0	14	0	0	0	0	1	1	0	8	2	15	0	0	0	0	0	0	0	0	1	2	141
+3-methoxytyramine	95	0	0	4	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100
+Cadaverine	2	0	0	2	3	56	0	0	0	2	0	2	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	70
+Histidine	26	4	0	8	4	0	0	8	0	0	0	0	0	0	0	0	0	9	0	0	0	7	0	0	0	0	0	0	66
+Putrescine	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	61	0	0	0	0	0	0	0	0	0	0	66
+Valine	16	20	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	49
+Tyramine	1	4	0	29	0	0	0	0	0	8	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	47
+Kynurenine	44	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	46
+2-aminovaleric acid	13	11	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	29
+Taurine	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	9
+Tryptamine	5	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8
+Aminoadipic acid	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Ornithine	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	3
+Serotonin	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	3
+Cystathionine	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Spermidine	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Glutathione	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,21 @@
+Tail	Group	Count
+Short	Humans	110
+Short	Rodents	75
+Short	Microbes	60
+Short	Foods	33
+Short	Plants	33
+Medium	Humans	106
+Medium	Microbes	87
+Medium	Foods	43
+Medium	Plants	29
+Medium	Rodents	26
+Long	Humans	206
+Long	Microbes	199
+Long	Rodents	155
+Long	Foods	122
+Long	Plants	65
+Very long	Foods	45
+Very long	Plants	40
+Very long	Humans	13
+Very long	Rodents	3
+Very long	Microbes	1

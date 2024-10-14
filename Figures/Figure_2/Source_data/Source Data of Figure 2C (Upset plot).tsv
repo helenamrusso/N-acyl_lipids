@@ -1,0 +1,3276 @@
+Compound	Group	Presence	annotation	Tail
+2-aminovaleric acid-C10:0	Humans	FALSE	C10:0	Medium
+2-aminovaleric acid-C10:0	Rodents	FALSE	C10:0	Medium
+2-aminovaleric acid-C10:0	Microbes	TRUE	C10:0	Medium
+2-aminovaleric acid-C10:0	Foods	FALSE	C10:0	Medium
+2-aminovaleric acid-C10:0	Plants	FALSE	C10:0	Medium
+Alanine/Sarcosine-C10:0	Humans	TRUE	C10:0	Medium
+Alanine/Sarcosine-C10:0	Rodents	FALSE	C10:0	Medium
+Alanine/Sarcosine-C10:0	Microbes	TRUE	C10:0	Medium
+Alanine/Sarcosine-C10:0	Foods	FALSE	C10:0	Medium
+Alanine/Sarcosine-C10:0	Plants	TRUE	C10:0	Medium
+Aminoadipic acid-C10:0	Humans	FALSE	C10:0	Medium
+Aminoadipic acid-C10:0	Rodents	FALSE	C10:0	Medium
+Aminoadipic acid-C10:0	Microbes	TRUE	C10:0	Medium
+Aminoadipic acid-C10:0	Foods	FALSE	C10:0	Medium
+Aminoadipic acid-C10:0	Plants	FALSE	C10:0	Medium
+Arginine-C10:0	Humans	TRUE	C10:0	Medium
+Arginine-C10:0	Rodents	TRUE	C10:0	Medium
+Arginine-C10:0	Microbes	TRUE	C10:0	Medium
+Arginine-C10:0	Foods	TRUE	C10:0	Medium
+Arginine-C10:0	Plants	TRUE	C10:0	Medium
+Asparagine-C10:0	Humans	FALSE	C10:0	Medium
+Asparagine-C10:0	Rodents	FALSE	C10:0	Medium
+Asparagine-C10:0	Microbes	TRUE	C10:0	Medium
+Asparagine-C10:0	Foods	FALSE	C10:0	Medium
+Asparagine-C10:0	Plants	FALSE	C10:0	Medium
+Cadaverine-C10:0	Humans	TRUE	C10:0	Medium
+Cadaverine-C10:0	Rodents	FALSE	C10:0	Medium
+Cadaverine-C10:0	Microbes	TRUE	C10:0	Medium
+Cadaverine-C10:0	Foods	FALSE	C10:0	Medium
+Cadaverine-C10:0	Plants	FALSE	C10:0	Medium
+Citrulline-C10:0	Humans	TRUE	C10:0	Medium
+Citrulline-C10:0	Rodents	FALSE	C10:0	Medium
+Citrulline-C10:0	Microbes	TRUE	C10:0	Medium
+Citrulline-C10:0	Foods	FALSE	C10:0	Medium
+Citrulline-C10:0	Plants	FALSE	C10:0	Medium
+GABA-C10:0	Humans	TRUE	C10:0	Medium
+GABA-C10:0	Rodents	FALSE	C10:0	Medium
+GABA-C10:0	Microbes	FALSE	C10:0	Medium
+GABA-C10:0	Foods	FALSE	C10:0	Medium
+GABA-C10:0	Plants	FALSE	C10:0	Medium
+Glutamic acid-C10:0	Humans	TRUE	C10:0	Medium
+Glutamic acid-C10:0	Rodents	FALSE	C10:0	Medium
+Glutamic acid-C10:0	Microbes	TRUE	C10:0	Medium
+Glutamic acid-C10:0	Foods	FALSE	C10:0	Medium
+Glutamic acid-C10:0	Plants	FALSE	C10:0	Medium
+Glutamine-C10:0	Humans	TRUE	C10:0	Medium
+Glutamine-C10:0	Rodents	FALSE	C10:0	Medium
+Glutamine-C10:0	Microbes	TRUE	C10:0	Medium
+Glutamine-C10:0	Foods	TRUE	C10:0	Medium
+Glutamine-C10:0	Plants	TRUE	C10:0	Medium
+Glutathione-C10:0	Humans	FALSE	C10:0	Medium
+Glutathione-C10:0	Rodents	FALSE	C10:0	Medium
+Glutathione-C10:0	Microbes	TRUE	C10:0	Medium
+Glutathione-C10:0	Foods	TRUE	C10:0	Medium
+Glutathione-C10:0	Plants	TRUE	C10:0	Medium
+Histidine-C10:0	Humans	TRUE	C10:0	Medium
+Histidine-C10:0	Rodents	TRUE	C10:0	Medium
+Histidine-C10:0	Microbes	FALSE	C10:0	Medium
+Histidine-C10:0	Foods	TRUE	C10:0	Medium
+Histidine-C10:0	Plants	TRUE	C10:0	Medium
+Leucine-C10:0	Humans	TRUE	C10:0	Medium
+Leucine-C10:0	Rodents	FALSE	C10:0	Medium
+Leucine-C10:0	Microbes	TRUE	C10:0	Medium
+Leucine-C10:0	Foods	TRUE	C10:0	Medium
+Leucine-C10:0	Plants	FALSE	C10:0	Medium
+Lysine-C10:0	Humans	TRUE	C10:0	Medium
+Lysine-C10:0	Rodents	TRUE	C10:0	Medium
+Lysine-C10:0	Microbes	TRUE	C10:0	Medium
+Lysine-C10:0	Foods	TRUE	C10:0	Medium
+Lysine-C10:0	Plants	TRUE	C10:0	Medium
+Methionine-C10:0	Humans	TRUE	C10:0	Medium
+Methionine-C10:0	Rodents	FALSE	C10:0	Medium
+Methionine-C10:0	Microbes	TRUE	C10:0	Medium
+Methionine-C10:0	Foods	TRUE	C10:0	Medium
+Methionine-C10:0	Plants	FALSE	C10:0	Medium
+Phenylalanine-C10:0	Humans	TRUE	C10:0	Medium
+Phenylalanine-C10:0	Rodents	FALSE	C10:0	Medium
+Phenylalanine-C10:0	Microbes	TRUE	C10:0	Medium
+Phenylalanine-C10:0	Foods	TRUE	C10:0	Medium
+Phenylalanine-C10:0	Plants	FALSE	C10:0	Medium
+Putrescine-C10:0	Humans	TRUE	C10:0	Medium
+Putrescine-C10:0	Rodents	FALSE	C10:0	Medium
+Putrescine-C10:0	Microbes	TRUE	C10:0	Medium
+Putrescine-C10:0	Foods	FALSE	C10:0	Medium
+Putrescine-C10:0	Plants	FALSE	C10:0	Medium
+Serine-C10:0	Humans	TRUE	C10:0	Medium
+Serine-C10:0	Rodents	FALSE	C10:0	Medium
+Serine-C10:0	Microbes	TRUE	C10:0	Medium
+Serine-C10:0	Foods	FALSE	C10:0	Medium
+Serine-C10:0	Plants	FALSE	C10:0	Medium
+Taurine-C10:0	Humans	TRUE	C10:0	Medium
+Taurine-C10:0	Rodents	FALSE	C10:0	Medium
+Taurine-C10:0	Microbes	FALSE	C10:0	Medium
+Taurine-C10:0	Foods	FALSE	C10:0	Medium
+Taurine-C10:0	Plants	FALSE	C10:0	Medium
+Threonine/homoserine-C10:0	Humans	TRUE	C10:0	Medium
+Threonine/homoserine-C10:0	Rodents	FALSE	C10:0	Medium
+Threonine/homoserine-C10:0	Microbes	TRUE	C10:0	Medium
+Threonine/homoserine-C10:0	Foods	FALSE	C10:0	Medium
+Threonine/homoserine-C10:0	Plants	FALSE	C10:0	Medium
+Tryptophan-C10:0	Humans	TRUE	C10:0	Medium
+Tryptophan-C10:0	Rodents	FALSE	C10:0	Medium
+Tryptophan-C10:0	Microbes	TRUE	C10:0	Medium
+Tryptophan-C10:0	Foods	TRUE	C10:0	Medium
+Tryptophan-C10:0	Plants	FALSE	C10:0	Medium
+Tyramine-C10:0	Humans	TRUE	C10:0	Medium
+Tyramine-C10:0	Rodents	FALSE	C10:0	Medium
+Tyramine-C10:0	Microbes	FALSE	C10:0	Medium
+Tyramine-C10:0	Foods	FALSE	C10:0	Medium
+Tyramine-C10:0	Plants	FALSE	C10:0	Medium
+Tyrosine-C10:0	Humans	TRUE	C10:0	Medium
+Tyrosine-C10:0	Rodents	FALSE	C10:0	Medium
+Tyrosine-C10:0	Microbes	TRUE	C10:0	Medium
+Tyrosine-C10:0	Foods	TRUE	C10:0	Medium
+Tyrosine-C10:0	Plants	TRUE	C10:0	Medium
+Valine-C10:0	Humans	TRUE	C10:0	Medium
+Valine-C10:0	Rodents	FALSE	C10:0	Medium
+Valine-C10:0	Microbes	TRUE	C10:0	Medium
+Valine-C10:0	Foods	FALSE	C10:0	Medium
+Valine-C10:0	Plants	FALSE	C10:0	Medium
+2-phenethylamine-C10:1	Humans	FALSE	C10:1	Medium
+2-phenethylamine-C10:1	Rodents	FALSE	C10:1	Medium
+2-phenethylamine-C10:1	Microbes	TRUE	C10:1	Medium
+2-phenethylamine-C10:1	Foods	FALSE	C10:1	Medium
+2-phenethylamine-C10:1	Plants	FALSE	C10:1	Medium
+Amylamine-C10:1	Humans	FALSE	C10:1	Medium
+Amylamine-C10:1	Rodents	FALSE	C10:1	Medium
+Amylamine-C10:1	Microbes	FALSE	C10:1	Medium
+Amylamine-C10:1	Foods	TRUE	C10:1	Medium
+Amylamine-C10:1	Plants	TRUE	C10:1	Medium
+Glutamine-C10:1	Humans	TRUE	C10:1	Medium
+Glutamine-C10:1	Rodents	FALSE	C10:1	Medium
+Glutamine-C10:1	Microbes	TRUE	C10:1	Medium
+Glutamine-C10:1	Foods	FALSE	C10:1	Medium
+Glutamine-C10:1	Plants	FALSE	C10:1	Medium
+Glutathione-C10:1	Humans	FALSE	C10:1	Medium
+Glutathione-C10:1	Rodents	FALSE	C10:1	Medium
+Glutathione-C10:1	Microbes	FALSE	C10:1	Medium
+Glutathione-C10:1	Foods	TRUE	C10:1	Medium
+Glutathione-C10:1	Plants	FALSE	C10:1	Medium
+Histidine-C10:1	Humans	FALSE	C10:1	Medium
+Histidine-C10:1	Rodents	FALSE	C10:1	Medium
+Histidine-C10:1	Microbes	FALSE	C10:1	Medium
+Histidine-C10:1	Foods	TRUE	C10:1	Medium
+Histidine-C10:1	Plants	FALSE	C10:1	Medium
+Leucine-C10:1	Humans	TRUE	C10:1	Medium
+Leucine-C10:1	Rodents	FALSE	C10:1	Medium
+Leucine-C10:1	Microbes	TRUE	C10:1	Medium
+Leucine-C10:1	Foods	FALSE	C10:1	Medium
+Leucine-C10:1	Plants	FALSE	C10:1	Medium
+Phenylalanine-C10:1	Humans	FALSE	C10:1	Medium
+Phenylalanine-C10:1	Rodents	FALSE	C10:1	Medium
+Phenylalanine-C10:1	Microbes	TRUE	C10:1	Medium
+Phenylalanine-C10:1	Foods	TRUE	C10:1	Medium
+Phenylalanine-C10:1	Plants	FALSE	C10:1	Medium
+Spermidine-C10:1	Humans	FALSE	C10:1	Medium
+Spermidine-C10:1	Rodents	FALSE	C10:1	Medium
+Spermidine-C10:1	Microbes	FALSE	C10:1	Medium
+Spermidine-C10:1	Foods	TRUE	C10:1	Medium
+Spermidine-C10:1	Plants	TRUE	C10:1	Medium
+Tyramine-C10:1	Humans	TRUE	C10:1	Medium
+Tyramine-C10:1	Rodents	FALSE	C10:1	Medium
+Tyramine-C10:1	Microbes	FALSE	C10:1	Medium
+Tyramine-C10:1	Foods	TRUE	C10:1	Medium
+Tyramine-C10:1	Plants	TRUE	C10:1	Medium
+Tyrosine-C10:1	Humans	FALSE	C10:1	Medium
+Tyrosine-C10:1	Rodents	FALSE	C10:1	Medium
+Tyrosine-C10:1	Microbes	TRUE	C10:1	Medium
+Tyrosine-C10:1	Foods	TRUE	C10:1	Medium
+Tyrosine-C10:1	Plants	TRUE	C10:1	Medium
+2-phenethylamine-C10:2	Humans	FALSE	C10:2	Medium
+2-phenethylamine-C10:2	Rodents	TRUE	C10:2	Medium
+2-phenethylamine-C10:2	Microbes	FALSE	C10:2	Medium
+2-phenethylamine-C10:2	Foods	FALSE	C10:2	Medium
+2-phenethylamine-C10:2	Plants	TRUE	C10:2	Medium
+Glutamine-C10:2	Humans	TRUE	C10:2	Medium
+Glutamine-C10:2	Rodents	FALSE	C10:2	Medium
+Glutamine-C10:2	Microbes	FALSE	C10:2	Medium
+Glutamine-C10:2	Foods	FALSE	C10:2	Medium
+Glutamine-C10:2	Plants	FALSE	C10:2	Medium
+Glutathione-C10:2	Humans	FALSE	C10:2	Medium
+Glutathione-C10:2	Rodents	TRUE	C10:2	Medium
+Glutathione-C10:2	Microbes	FALSE	C10:2	Medium
+Glutathione-C10:2	Foods	FALSE	C10:2	Medium
+Glutathione-C10:2	Plants	FALSE	C10:2	Medium
+Leucine-C10:2	Humans	TRUE	C10:2	Medium
+Leucine-C10:2	Rodents	FALSE	C10:2	Medium
+Leucine-C10:2	Microbes	FALSE	C10:2	Medium
+Leucine-C10:2	Foods	FALSE	C10:2	Medium
+Leucine-C10:2	Plants	FALSE	C10:2	Medium
+Spermidine-C10:2	Humans	FALSE	C10:2	Medium
+Spermidine-C10:2	Rodents	FALSE	C10:2	Medium
+Spermidine-C10:2	Microbes	FALSE	C10:2	Medium
+Spermidine-C10:2	Foods	FALSE	C10:2	Medium
+Spermidine-C10:2	Plants	TRUE	C10:2	Medium
+Tyramine-C10:2	Humans	FALSE	C10:2	Medium
+Tyramine-C10:2	Rodents	FALSE	C10:2	Medium
+Tyramine-C10:2	Microbes	FALSE	C10:2	Medium
+Tyramine-C10:2	Foods	FALSE	C10:2	Medium
+Tyramine-C10:2	Plants	TRUE	C10:2	Medium
+Tyrosine-C10:2	Humans	TRUE	C10:2	Medium
+Tyrosine-C10:2	Rodents	FALSE	C10:2	Medium
+Tyrosine-C10:2	Microbes	FALSE	C10:2	Medium
+Tyrosine-C10:2	Foods	FALSE	C10:2	Medium
+Tyrosine-C10:2	Plants	FALSE	C10:2	Medium
+2-phenethylamine-C10:3	Humans	FALSE	C10:3	Medium
+2-phenethylamine-C10:3	Rodents	FALSE	C10:3	Medium
+2-phenethylamine-C10:3	Microbes	FALSE	C10:3	Medium
+2-phenethylamine-C10:3	Foods	FALSE	C10:3	Medium
+2-phenethylamine-C10:3	Plants	TRUE	C10:3	Medium
+Glutamine-C10:3	Humans	TRUE	C10:3	Medium
+Glutamine-C10:3	Rodents	FALSE	C10:3	Medium
+Glutamine-C10:3	Microbes	FALSE	C10:3	Medium
+Glutamine-C10:3	Foods	TRUE	C10:3	Medium
+Glutamine-C10:3	Plants	FALSE	C10:3	Medium
+Tryptamine-C10:3	Humans	FALSE	C10:3	Medium
+Tryptamine-C10:3	Rodents	TRUE	C10:3	Medium
+Tryptamine-C10:3	Microbes	FALSE	C10:3	Medium
+Tryptamine-C10:3	Foods	FALSE	C10:3	Medium
+Tryptamine-C10:3	Plants	FALSE	C10:3	Medium
+2-phenethylamine-C10:4	Humans	FALSE	C10:4	Medium
+2-phenethylamine-C10:4	Rodents	FALSE	C10:4	Medium
+2-phenethylamine-C10:4	Microbes	FALSE	C10:4	Medium
+2-phenethylamine-C10:4	Foods	FALSE	C10:4	Medium
+2-phenethylamine-C10:4	Plants	TRUE	C10:4	Medium
+Tyramine-C10:4	Humans	TRUE	C10:4	Medium
+Tyramine-C10:4	Rodents	TRUE	C10:4	Medium
+Tyramine-C10:4	Microbes	FALSE	C10:4	Medium
+Tyramine-C10:4	Foods	FALSE	C10:4	Medium
+Tyramine-C10:4	Plants	FALSE	C10:4	Medium
+Alanine/Sarcosine-C11:0	Humans	TRUE	C11:0	Medium
+Alanine/Sarcosine-C11:0	Rodents	FALSE	C11:0	Medium
+Alanine/Sarcosine-C11:0	Microbes	FALSE	C11:0	Medium
+Alanine/Sarcosine-C11:0	Foods	FALSE	C11:0	Medium
+Alanine/Sarcosine-C11:0	Plants	FALSE	C11:0	Medium
+Arginine-C11:0	Humans	FALSE	C11:0	Medium
+Arginine-C11:0	Rodents	FALSE	C11:0	Medium
+Arginine-C11:0	Microbes	TRUE	C11:0	Medium
+Arginine-C11:0	Foods	FALSE	C11:0	Medium
+Arginine-C11:0	Plants	FALSE	C11:0	Medium
+Asparagine-C11:0	Humans	TRUE	C11:0	Medium
+Asparagine-C11:0	Rodents	FALSE	C11:0	Medium
+Asparagine-C11:0	Microbes	TRUE	C11:0	Medium
+Asparagine-C11:0	Foods	FALSE	C11:0	Medium
+Asparagine-C11:0	Plants	FALSE	C11:0	Medium
+Citrulline-C11:0	Humans	FALSE	C11:0	Medium
+Citrulline-C11:0	Rodents	FALSE	C11:0	Medium
+Citrulline-C11:0	Microbes	TRUE	C11:0	Medium
+Citrulline-C11:0	Foods	FALSE	C11:0	Medium
+Citrulline-C11:0	Plants	FALSE	C11:0	Medium
+Glutamic acid-C11:0	Humans	FALSE	C11:0	Medium
+Glutamic acid-C11:0	Rodents	FALSE	C11:0	Medium
+Glutamic acid-C11:0	Microbes	TRUE	C11:0	Medium
+Glutamic acid-C11:0	Foods	FALSE	C11:0	Medium
+Glutamic acid-C11:0	Plants	FALSE	C11:0	Medium
+Lysine-C11:0	Humans	TRUE	C11:0	Medium
+Lysine-C11:0	Rodents	FALSE	C11:0	Medium
+Lysine-C11:0	Microbes	TRUE	C11:0	Medium
+Lysine-C11:0	Foods	FALSE	C11:0	Medium
+Lysine-C11:0	Plants	FALSE	C11:0	Medium
+Tryptamine-C11:0	Humans	FALSE	C11:0	Medium
+Tryptamine-C11:0	Rodents	FALSE	C11:0	Medium
+Tryptamine-C11:0	Microbes	TRUE	C11:0	Medium
+Tryptamine-C11:0	Foods	FALSE	C11:0	Medium
+Tryptamine-C11:0	Plants	FALSE	C11:0	Medium
+Tyrosine-C11:0	Humans	FALSE	C11:0	Medium
+Tyrosine-C11:0	Rodents	FALSE	C11:0	Medium
+Tyrosine-C11:0	Microbes	TRUE	C11:0	Medium
+Tyrosine-C11:0	Foods	FALSE	C11:0	Medium
+Tyrosine-C11:0	Plants	FALSE	C11:0	Medium
+Glutamic acid-C11:1	Humans	TRUE	C11:1	Medium
+Glutamic acid-C11:1	Rodents	FALSE	C11:1	Medium
+Glutamic acid-C11:1	Microbes	FALSE	C11:1	Medium
+Glutamic acid-C11:1	Foods	FALSE	C11:1	Medium
+Glutamic acid-C11:1	Plants	FALSE	C11:1	Medium
+Glutamine-C11:1	Humans	TRUE	C11:1	Medium
+Glutamine-C11:1	Rodents	FALSE	C11:1	Medium
+Glutamine-C11:1	Microbes	TRUE	C11:1	Medium
+Glutamine-C11:1	Foods	FALSE	C11:1	Medium
+Glutamine-C11:1	Plants	FALSE	C11:1	Medium
+Glutamine-C11:2	Humans	TRUE	C11:2	Medium
+Glutamine-C11:2	Rodents	FALSE	C11:2	Medium
+Glutamine-C11:2	Microbes	TRUE	C11:2	Medium
+Glutamine-C11:2	Foods	FALSE	C11:2	Medium
+Glutamine-C11:2	Plants	FALSE	C11:2	Medium
+Histidine-C11:2	Humans	FALSE	C11:2	Medium
+Histidine-C11:2	Rodents	FALSE	C11:2	Medium
+Histidine-C11:2	Microbes	FALSE	C11:2	Medium
+Histidine-C11:2	Foods	TRUE	C11:2	Medium
+Histidine-C11:2	Plants	FALSE	C11:2	Medium
+Phenylalanine-C11:4	Humans	FALSE	C11:4	Medium
+Phenylalanine-C11:4	Rodents	FALSE	C11:4	Medium
+Phenylalanine-C11:4	Microbes	TRUE	C11:4	Medium
+Phenylalanine-C11:4	Foods	TRUE	C11:4	Medium
+Phenylalanine-C11:4	Plants	FALSE	C11:4	Medium
+Tryptamine-C11:4	Humans	TRUE	C11:4	Medium
+Tryptamine-C11:4	Rodents	FALSE	C11:4	Medium
+Tryptamine-C11:4	Microbes	TRUE	C11:4	Medium
+Tryptamine-C11:4	Foods	FALSE	C11:4	Medium
+Tryptamine-C11:4	Plants	FALSE	C11:4	Medium
+Alanine/Sarcosine-C12:0	Humans	TRUE	C12:0	Medium
+Alanine/Sarcosine-C12:0	Rodents	TRUE	C12:0	Medium
+Alanine/Sarcosine-C12:0	Microbes	FALSE	C12:0	Medium
+Alanine/Sarcosine-C12:0	Foods	FALSE	C12:0	Medium
+Alanine/Sarcosine-C12:0	Plants	FALSE	C12:0	Medium
+Aminoadipic acid-C12:0	Humans	FALSE	C12:0	Medium
+Aminoadipic acid-C12:0	Rodents	FALSE	C12:0	Medium
+Aminoadipic acid-C12:0	Microbes	TRUE	C12:0	Medium
+Aminoadipic acid-C12:0	Foods	FALSE	C12:0	Medium
+Aminoadipic acid-C12:0	Plants	FALSE	C12:0	Medium
+Arginine-C12:0	Humans	TRUE	C12:0	Medium
+Arginine-C12:0	Rodents	FALSE	C12:0	Medium
+Arginine-C12:0	Microbes	TRUE	C12:0	Medium
+Arginine-C12:0	Foods	TRUE	C12:0	Medium
+Arginine-C12:0	Plants	FALSE	C12:0	Medium
+Asparagine-C12:0	Humans	TRUE	C12:0	Medium
+Asparagine-C12:0	Rodents	FALSE	C12:0	Medium
+Asparagine-C12:0	Microbes	TRUE	C12:0	Medium
+Asparagine-C12:0	Foods	FALSE	C12:0	Medium
+Asparagine-C12:0	Plants	FALSE	C12:0	Medium
+Cadaverine-C12:0	Humans	TRUE	C12:0	Medium
+Cadaverine-C12:0	Rodents	FALSE	C12:0	Medium
+Cadaverine-C12:0	Microbes	TRUE	C12:0	Medium
+Cadaverine-C12:0	Foods	FALSE	C12:0	Medium
+Cadaverine-C12:0	Plants	FALSE	C12:0	Medium
+Citrulline-C12:0	Humans	TRUE	C12:0	Medium
+Citrulline-C12:0	Rodents	FALSE	C12:0	Medium
+Citrulline-C12:0	Microbes	TRUE	C12:0	Medium
+Citrulline-C12:0	Foods	FALSE	C12:0	Medium
+Citrulline-C12:0	Plants	FALSE	C12:0	Medium
+GABA-C12:0	Humans	TRUE	C12:0	Medium
+GABA-C12:0	Rodents	FALSE	C12:0	Medium
+GABA-C12:0	Microbes	TRUE	C12:0	Medium
+GABA-C12:0	Foods	TRUE	C12:0	Medium
+GABA-C12:0	Plants	FALSE	C12:0	Medium
+Glutamic acid-C12:0	Humans	TRUE	C12:0	Medium
+Glutamic acid-C12:0	Rodents	FALSE	C12:0	Medium
+Glutamic acid-C12:0	Microbes	FALSE	C12:0	Medium
+Glutamic acid-C12:0	Foods	FALSE	C12:0	Medium
+Glutamic acid-C12:0	Plants	FALSE	C12:0	Medium
+Glutamine-C12:0	Humans	TRUE	C12:0	Medium
+Glutamine-C12:0	Rodents	FALSE	C12:0	Medium
+Glutamine-C12:0	Microbes	TRUE	C12:0	Medium
+Glutamine-C12:0	Foods	TRUE	C12:0	Medium
+Glutamine-C12:0	Plants	FALSE	C12:0	Medium
+Histamine-C12:0	Humans	TRUE	C12:0	Medium
+Histamine-C12:0	Rodents	FALSE	C12:0	Medium
+Histamine-C12:0	Microbes	FALSE	C12:0	Medium
+Histamine-C12:0	Foods	FALSE	C12:0	Medium
+Histamine-C12:0	Plants	FALSE	C12:0	Medium
+Histidine-C12:0	Humans	TRUE	C12:0	Medium
+Histidine-C12:0	Rodents	FALSE	C12:0	Medium
+Histidine-C12:0	Microbes	FALSE	C12:0	Medium
+Histidine-C12:0	Foods	TRUE	C12:0	Medium
+Histidine-C12:0	Plants	TRUE	C12:0	Medium
+Leucine-C12:0	Humans	TRUE	C12:0	Medium
+Leucine-C12:0	Rodents	FALSE	C12:0	Medium
+Leucine-C12:0	Microbes	TRUE	C12:0	Medium
+Leucine-C12:0	Foods	TRUE	C12:0	Medium
+Leucine-C12:0	Plants	FALSE	C12:0	Medium
+Lysine-C12:0	Humans	TRUE	C12:0	Medium
+Lysine-C12:0	Rodents	TRUE	C12:0	Medium
+Lysine-C12:0	Microbes	TRUE	C12:0	Medium
+Lysine-C12:0	Foods	TRUE	C12:0	Medium
+Lysine-C12:0	Plants	FALSE	C12:0	Medium
+Methionine-C12:0	Humans	TRUE	C12:0	Medium
+Methionine-C12:0	Rodents	FALSE	C12:0	Medium
+Methionine-C12:0	Microbes	TRUE	C12:0	Medium
+Methionine-C12:0	Foods	TRUE	C12:0	Medium
+Methionine-C12:0	Plants	FALSE	C12:0	Medium
+Phenylalanine-C12:0	Humans	TRUE	C12:0	Medium
+Phenylalanine-C12:0	Rodents	TRUE	C12:0	Medium
+Phenylalanine-C12:0	Microbes	TRUE	C12:0	Medium
+Phenylalanine-C12:0	Foods	TRUE	C12:0	Medium
+Phenylalanine-C12:0	Plants	FALSE	C12:0	Medium
+Serine-C12:0	Humans	TRUE	C12:0	Medium
+Serine-C12:0	Rodents	FALSE	C12:0	Medium
+Serine-C12:0	Microbes	TRUE	C12:0	Medium
+Serine-C12:0	Foods	FALSE	C12:0	Medium
+Serine-C12:0	Plants	FALSE	C12:0	Medium
+Taurine-C12:0	Humans	TRUE	C12:0	Medium
+Taurine-C12:0	Rodents	FALSE	C12:0	Medium
+Taurine-C12:0	Microbes	FALSE	C12:0	Medium
+Taurine-C12:0	Foods	FALSE	C12:0	Medium
+Taurine-C12:0	Plants	FALSE	C12:0	Medium
+Threonine/homoserine-C12:0	Humans	TRUE	C12:0	Medium
+Threonine/homoserine-C12:0	Rodents	FALSE	C12:0	Medium
+Threonine/homoserine-C12:0	Microbes	TRUE	C12:0	Medium
+Threonine/homoserine-C12:0	Foods	FALSE	C12:0	Medium
+Threonine/homoserine-C12:0	Plants	FALSE	C12:0	Medium
+Tryptamine-C12:0	Humans	TRUE	C12:0	Medium
+Tryptamine-C12:0	Rodents	FALSE	C12:0	Medium
+Tryptamine-C12:0	Microbes	FALSE	C12:0	Medium
+Tryptamine-C12:0	Foods	FALSE	C12:0	Medium
+Tryptamine-C12:0	Plants	FALSE	C12:0	Medium
+Tryptophan-C12:0	Humans	TRUE	C12:0	Medium
+Tryptophan-C12:0	Rodents	FALSE	C12:0	Medium
+Tryptophan-C12:0	Microbes	FALSE	C12:0	Medium
+Tryptophan-C12:0	Foods	FALSE	C12:0	Medium
+Tryptophan-C12:0	Plants	FALSE	C12:0	Medium
+Tyramine-C12:0	Humans	TRUE	C12:0	Medium
+Tyramine-C12:0	Rodents	FALSE	C12:0	Medium
+Tyramine-C12:0	Microbes	FALSE	C12:0	Medium
+Tyramine-C12:0	Foods	FALSE	C12:0	Medium
+Tyramine-C12:0	Plants	FALSE	C12:0	Medium
+Tyrosine-C12:0	Humans	TRUE	C12:0	Medium
+Tyrosine-C12:0	Rodents	FALSE	C12:0	Medium
+Tyrosine-C12:0	Microbes	TRUE	C12:0	Medium
+Tyrosine-C12:0	Foods	TRUE	C12:0	Medium
+Tyrosine-C12:0	Plants	FALSE	C12:0	Medium
+Arginine-C12:1	Humans	FALSE	C12:1	Medium
+Arginine-C12:1	Rodents	FALSE	C12:1	Medium
+Arginine-C12:1	Microbes	TRUE	C12:1	Medium
+Arginine-C12:1	Foods	FALSE	C12:1	Medium
+Arginine-C12:1	Plants	FALSE	C12:1	Medium
+Glutamine-C12:1	Humans	TRUE	C12:1	Medium
+Glutamine-C12:1	Rodents	FALSE	C12:1	Medium
+Glutamine-C12:1	Microbes	TRUE	C12:1	Medium
+Glutamine-C12:1	Foods	FALSE	C12:1	Medium
+Glutamine-C12:1	Plants	FALSE	C12:1	Medium
+Leucine-C12:1	Humans	TRUE	C12:1	Medium
+Leucine-C12:1	Rodents	FALSE	C12:1	Medium
+Leucine-C12:1	Microbes	FALSE	C12:1	Medium
+Leucine-C12:1	Foods	FALSE	C12:1	Medium
+Leucine-C12:1	Plants	FALSE	C12:1	Medium
+Lysine-C12:1	Humans	FALSE	C12:1	Medium
+Lysine-C12:1	Rodents	FALSE	C12:1	Medium
+Lysine-C12:1	Microbes	TRUE	C12:1	Medium
+Lysine-C12:1	Foods	FALSE	C12:1	Medium
+Lysine-C12:1	Plants	FALSE	C12:1	Medium
+Phenylalanine-C12:1	Humans	TRUE	C12:1	Medium
+Phenylalanine-C12:1	Rodents	FALSE	C12:1	Medium
+Phenylalanine-C12:1	Microbes	FALSE	C12:1	Medium
+Phenylalanine-C12:1	Foods	FALSE	C12:1	Medium
+Phenylalanine-C12:1	Plants	FALSE	C12:1	Medium
+Serine-C12:1	Humans	FALSE	C12:1	Medium
+Serine-C12:1	Rodents	FALSE	C12:1	Medium
+Serine-C12:1	Microbes	TRUE	C12:1	Medium
+Serine-C12:1	Foods	FALSE	C12:1	Medium
+Serine-C12:1	Plants	FALSE	C12:1	Medium
+Spermidine-C12:1	Humans	FALSE	C12:1	Medium
+Spermidine-C12:1	Rodents	TRUE	C12:1	Medium
+Spermidine-C12:1	Microbes	FALSE	C12:1	Medium
+Spermidine-C12:1	Foods	FALSE	C12:1	Medium
+Spermidine-C12:1	Plants	FALSE	C12:1	Medium
+Alanine/Sarcosine-C12:2	Humans	TRUE	C12:2	Medium
+Alanine/Sarcosine-C12:2	Rodents	FALSE	C12:2	Medium
+Alanine/Sarcosine-C12:2	Microbes	FALSE	C12:2	Medium
+Alanine/Sarcosine-C12:2	Foods	FALSE	C12:2	Medium
+Alanine/Sarcosine-C12:2	Plants	FALSE	C12:2	Medium
+Glycine-C12:2	Humans	FALSE	C12:2	Medium
+Glycine-C12:2	Rodents	TRUE	C12:2	Medium
+Glycine-C12:2	Microbes	FALSE	C12:2	Medium
+Glycine-C12:2	Foods	FALSE	C12:2	Medium
+Glycine-C12:2	Plants	FALSE	C12:2	Medium
+Leucine-C12:2	Humans	TRUE	C12:2	Medium
+Leucine-C12:2	Rodents	FALSE	C12:2	Medium
+Leucine-C12:2	Microbes	FALSE	C12:2	Medium
+Leucine-C12:2	Foods	FALSE	C12:2	Medium
+Leucine-C12:2	Plants	FALSE	C12:2	Medium
+Lysine-C12:2	Humans	TRUE	C12:2	Medium
+Lysine-C12:2	Rodents	FALSE	C12:2	Medium
+Lysine-C12:2	Microbes	FALSE	C12:2	Medium
+Lysine-C12:2	Foods	FALSE	C12:2	Medium
+Lysine-C12:2	Plants	FALSE	C12:2	Medium
+Phenylalanine-C12:2	Humans	TRUE	C12:2	Medium
+Phenylalanine-C12:2	Rodents	FALSE	C12:2	Medium
+Phenylalanine-C12:2	Microbes	FALSE	C12:2	Medium
+Phenylalanine-C12:2	Foods	FALSE	C12:2	Medium
+Phenylalanine-C12:2	Plants	FALSE	C12:2	Medium
+Tryptamine-C12:2	Humans	FALSE	C12:2	Medium
+Tryptamine-C12:2	Rodents	TRUE	C12:2	Medium
+Tryptamine-C12:2	Microbes	FALSE	C12:2	Medium
+Tryptamine-C12:2	Foods	FALSE	C12:2	Medium
+Tryptamine-C12:2	Plants	FALSE	C12:2	Medium
+Glutathione-C12:3	Humans	FALSE	C12:3	Medium
+Glutathione-C12:3	Rodents	TRUE	C12:3	Medium
+Glutathione-C12:3	Microbes	FALSE	C12:3	Medium
+Glutathione-C12:3	Foods	FALSE	C12:3	Medium
+Glutathione-C12:3	Plants	FALSE	C12:3	Medium
+Arginine-C12:4	Humans	FALSE	C12:4	Medium
+Arginine-C12:4	Rodents	TRUE	C12:4	Medium
+Arginine-C12:4	Microbes	TRUE	C12:4	Medium
+Arginine-C12:4	Foods	TRUE	C12:4	Medium
+Arginine-C12:4	Plants	TRUE	C12:4	Medium
+Arginine-C13:0	Humans	FALSE	C13:0	Long
+Arginine-C13:0	Rodents	FALSE	C13:0	Long
+Arginine-C13:0	Microbes	TRUE	C13:0	Long
+Arginine-C13:0	Foods	FALSE	C13:0	Long
+Arginine-C13:0	Plants	FALSE	C13:0	Long
+Asparagine-C13:0	Humans	FALSE	C13:0	Long
+Asparagine-C13:0	Rodents	FALSE	C13:0	Long
+Asparagine-C13:0	Microbes	TRUE	C13:0	Long
+Asparagine-C13:0	Foods	FALSE	C13:0	Long
+Asparagine-C13:0	Plants	FALSE	C13:0	Long
+Glutamic acid-C13:0	Humans	TRUE	C13:0	Long
+Glutamic acid-C13:0	Rodents	FALSE	C13:0	Long
+Glutamic acid-C13:0	Microbes	TRUE	C13:0	Long
+Glutamic acid-C13:0	Foods	FALSE	C13:0	Long
+Glutamic acid-C13:0	Plants	FALSE	C13:0	Long
+Glutamine-C13:0	Humans	TRUE	C13:0	Long
+Glutamine-C13:0	Rodents	FALSE	C13:0	Long
+Glutamine-C13:0	Microbes	TRUE	C13:0	Long
+Glutamine-C13:0	Foods	FALSE	C13:0	Long
+Glutamine-C13:0	Plants	FALSE	C13:0	Long
+Leucine-C13:0	Humans	FALSE	C13:0	Long
+Leucine-C13:0	Rodents	FALSE	C13:0	Long
+Leucine-C13:0	Microbes	TRUE	C13:0	Long
+Leucine-C13:0	Foods	FALSE	C13:0	Long
+Leucine-C13:0	Plants	FALSE	C13:0	Long
+Lysine-C13:0	Humans	FALSE	C13:0	Long
+Lysine-C13:0	Rodents	FALSE	C13:0	Long
+Lysine-C13:0	Microbes	TRUE	C13:0	Long
+Lysine-C13:0	Foods	FALSE	C13:0	Long
+Lysine-C13:0	Plants	FALSE	C13:0	Long
+Serine-C13:0	Humans	FALSE	C13:0	Long
+Serine-C13:0	Rodents	FALSE	C13:0	Long
+Serine-C13:0	Microbes	TRUE	C13:0	Long
+Serine-C13:0	Foods	FALSE	C13:0	Long
+Serine-C13:0	Plants	FALSE	C13:0	Long
+Threonine/homoserine-C13:0	Humans	FALSE	C13:0	Long
+Threonine/homoserine-C13:0	Rodents	FALSE	C13:0	Long
+Threonine/homoserine-C13:0	Microbes	TRUE	C13:0	Long
+Threonine/homoserine-C13:0	Foods	FALSE	C13:0	Long
+Threonine/homoserine-C13:0	Plants	FALSE	C13:0	Long
+Alanine/Sarcosine-C13:1	Humans	FALSE	C13:1	Long
+Alanine/Sarcosine-C13:1	Rodents	FALSE	C13:1	Long
+Alanine/Sarcosine-C13:1	Microbes	TRUE	C13:1	Long
+Alanine/Sarcosine-C13:1	Foods	FALSE	C13:1	Long
+Alanine/Sarcosine-C13:1	Plants	FALSE	C13:1	Long
+Glutamic acid-C13:1	Humans	FALSE	C13:1	Long
+Glutamic acid-C13:1	Rodents	FALSE	C13:1	Long
+Glutamic acid-C13:1	Microbes	TRUE	C13:1	Long
+Glutamic acid-C13:1	Foods	FALSE	C13:1	Long
+Glutamic acid-C13:1	Plants	FALSE	C13:1	Long
+Serine-C13:1	Humans	FALSE	C13:1	Long
+Serine-C13:1	Rodents	FALSE	C13:1	Long
+Serine-C13:1	Microbes	TRUE	C13:1	Long
+Serine-C13:1	Foods	FALSE	C13:1	Long
+Serine-C13:1	Plants	FALSE	C13:1	Long
+Threonine/homoserine-C13:1	Humans	FALSE	C13:1	Long
+Threonine/homoserine-C13:1	Rodents	FALSE	C13:1	Long
+Threonine/homoserine-C13:1	Microbes	TRUE	C13:1	Long
+Threonine/homoserine-C13:1	Foods	FALSE	C13:1	Long
+Threonine/homoserine-C13:1	Plants	FALSE	C13:1	Long
+2-aminovaleric acid-C14:0	Humans	TRUE	C14:0	Long
+2-aminovaleric acid-C14:0	Rodents	FALSE	C14:0	Long
+2-aminovaleric acid-C14:0	Microbes	TRUE	C14:0	Long
+2-aminovaleric acid-C14:0	Foods	FALSE	C14:0	Long
+2-aminovaleric acid-C14:0	Plants	FALSE	C14:0	Long
+2-phenethylamine-C14:0	Humans	TRUE	C14:0	Long
+2-phenethylamine-C14:0	Rodents	FALSE	C14:0	Long
+2-phenethylamine-C14:0	Microbes	FALSE	C14:0	Long
+2-phenethylamine-C14:0	Foods	FALSE	C14:0	Long
+2-phenethylamine-C14:0	Plants	FALSE	C14:0	Long
+Alanine/Sarcosine-C14:0	Humans	TRUE	C14:0	Long
+Alanine/Sarcosine-C14:0	Rodents	TRUE	C14:0	Long
+Alanine/Sarcosine-C14:0	Microbes	TRUE	C14:0	Long
+Alanine/Sarcosine-C14:0	Foods	FALSE	C14:0	Long
+Alanine/Sarcosine-C14:0	Plants	FALSE	C14:0	Long
+Amylamine-C14:0	Humans	TRUE	C14:0	Long
+Amylamine-C14:0	Rodents	FALSE	C14:0	Long
+Amylamine-C14:0	Microbes	TRUE	C14:0	Long
+Amylamine-C14:0	Foods	FALSE	C14:0	Long
+Amylamine-C14:0	Plants	FALSE	C14:0	Long
+Arginine-C14:0	Humans	TRUE	C14:0	Long
+Arginine-C14:0	Rodents	TRUE	C14:0	Long
+Arginine-C14:0	Microbes	FALSE	C14:0	Long
+Arginine-C14:0	Foods	FALSE	C14:0	Long
+Arginine-C14:0	Plants	FALSE	C14:0	Long
+Asparagine-C14:0	Humans	TRUE	C14:0	Long
+Asparagine-C14:0	Rodents	TRUE	C14:0	Long
+Asparagine-C14:0	Microbes	TRUE	C14:0	Long
+Asparagine-C14:0	Foods	FALSE	C14:0	Long
+Asparagine-C14:0	Plants	FALSE	C14:0	Long
+Citrulline-C14:0	Humans	TRUE	C14:0	Long
+Citrulline-C14:0	Rodents	FALSE	C14:0	Long
+Citrulline-C14:0	Microbes	TRUE	C14:0	Long
+Citrulline-C14:0	Foods	TRUE	C14:0	Long
+Citrulline-C14:0	Plants	FALSE	C14:0	Long
+GABA-C14:0	Humans	TRUE	C14:0	Long
+GABA-C14:0	Rodents	FALSE	C14:0	Long
+GABA-C14:0	Microbes	FALSE	C14:0	Long
+GABA-C14:0	Foods	FALSE	C14:0	Long
+GABA-C14:0	Plants	FALSE	C14:0	Long
+Glutamic acid-C14:0	Humans	TRUE	C14:0	Long
+Glutamic acid-C14:0	Rodents	FALSE	C14:0	Long
+Glutamic acid-C14:0	Microbes	TRUE	C14:0	Long
+Glutamic acid-C14:0	Foods	FALSE	C14:0	Long
+Glutamic acid-C14:0	Plants	FALSE	C14:0	Long
+Glutamine-C14:0	Humans	TRUE	C14:0	Long
+Glutamine-C14:0	Rodents	FALSE	C14:0	Long
+Glutamine-C14:0	Microbes	TRUE	C14:0	Long
+Glutamine-C14:0	Foods	FALSE	C14:0	Long
+Glutamine-C14:0	Plants	FALSE	C14:0	Long
+Histamine-C14:0	Humans	TRUE	C14:0	Long
+Histamine-C14:0	Rodents	FALSE	C14:0	Long
+Histamine-C14:0	Microbes	FALSE	C14:0	Long
+Histamine-C14:0	Foods	FALSE	C14:0	Long
+Histamine-C14:0	Plants	FALSE	C14:0	Long
+Histidine-C14:0	Humans	FALSE	C14:0	Long
+Histidine-C14:0	Rodents	FALSE	C14:0	Long
+Histidine-C14:0	Microbes	TRUE	C14:0	Long
+Histidine-C14:0	Foods	TRUE	C14:0	Long
+Histidine-C14:0	Plants	FALSE	C14:0	Long
+Leucine-C14:0	Humans	TRUE	C14:0	Long
+Leucine-C14:0	Rodents	TRUE	C14:0	Long
+Leucine-C14:0	Microbes	TRUE	C14:0	Long
+Leucine-C14:0	Foods	TRUE	C14:0	Long
+Leucine-C14:0	Plants	TRUE	C14:0	Long
+Lysine-C14:0	Humans	TRUE	C14:0	Long
+Lysine-C14:0	Rodents	TRUE	C14:0	Long
+Lysine-C14:0	Microbes	FALSE	C14:0	Long
+Lysine-C14:0	Foods	TRUE	C14:0	Long
+Lysine-C14:0	Plants	FALSE	C14:0	Long
+Methionine-C14:0	Humans	TRUE	C14:0	Long
+Methionine-C14:0	Rodents	FALSE	C14:0	Long
+Methionine-C14:0	Microbes	TRUE	C14:0	Long
+Methionine-C14:0	Foods	TRUE	C14:0	Long
+Methionine-C14:0	Plants	FALSE	C14:0	Long
+Phenylalanine-C14:0	Humans	TRUE	C14:0	Long
+Phenylalanine-C14:0	Rodents	FALSE	C14:0	Long
+Phenylalanine-C14:0	Microbes	TRUE	C14:0	Long
+Phenylalanine-C14:0	Foods	FALSE	C14:0	Long
+Phenylalanine-C14:0	Plants	FALSE	C14:0	Long
+Putrescine-C14:0	Humans	TRUE	C14:0	Long
+Putrescine-C14:0	Rodents	FALSE	C14:0	Long
+Putrescine-C14:0	Microbes	TRUE	C14:0	Long
+Putrescine-C14:0	Foods	FALSE	C14:0	Long
+Putrescine-C14:0	Plants	TRUE	C14:0	Long
+Serine-C14:0	Humans	TRUE	C14:0	Long
+Serine-C14:0	Rodents	TRUE	C14:0	Long
+Serine-C14:0	Microbes	TRUE	C14:0	Long
+Serine-C14:0	Foods	FALSE	C14:0	Long
+Serine-C14:0	Plants	TRUE	C14:0	Long
+Threonine/homoserine-C14:0	Humans	TRUE	C14:0	Long
+Threonine/homoserine-C14:0	Rodents	FALSE	C14:0	Long
+Threonine/homoserine-C14:0	Microbes	TRUE	C14:0	Long
+Threonine/homoserine-C14:0	Foods	FALSE	C14:0	Long
+Threonine/homoserine-C14:0	Plants	FALSE	C14:0	Long
+Tryptamine-C14:0	Humans	TRUE	C14:0	Long
+Tryptamine-C14:0	Rodents	FALSE	C14:0	Long
+Tryptamine-C14:0	Microbes	FALSE	C14:0	Long
+Tryptamine-C14:0	Foods	FALSE	C14:0	Long
+Tryptamine-C14:0	Plants	FALSE	C14:0	Long
+Tryptophan-C14:0	Humans	TRUE	C14:0	Long
+Tryptophan-C14:0	Rodents	FALSE	C14:0	Long
+Tryptophan-C14:0	Microbes	TRUE	C14:0	Long
+Tryptophan-C14:0	Foods	FALSE	C14:0	Long
+Tryptophan-C14:0	Plants	FALSE	C14:0	Long
+Tyramine-C14:0	Humans	TRUE	C14:0	Long
+Tyramine-C14:0	Rodents	FALSE	C14:0	Long
+Tyramine-C14:0	Microbes	FALSE	C14:0	Long
+Tyramine-C14:0	Foods	FALSE	C14:0	Long
+Tyramine-C14:0	Plants	FALSE	C14:0	Long
+Tyrosine-C14:0	Humans	TRUE	C14:0	Long
+Tyrosine-C14:0	Rodents	TRUE	C14:0	Long
+Tyrosine-C14:0	Microbes	TRUE	C14:0	Long
+Tyrosine-C14:0	Foods	TRUE	C14:0	Long
+Tyrosine-C14:0	Plants	FALSE	C14:0	Long
+Alanine/Sarcosine-C14:1	Humans	FALSE	C14:1	Long
+Alanine/Sarcosine-C14:1	Rodents	FALSE	C14:1	Long
+Alanine/Sarcosine-C14:1	Microbes	TRUE	C14:1	Long
+Alanine/Sarcosine-C14:1	Foods	FALSE	C14:1	Long
+Alanine/Sarcosine-C14:1	Plants	FALSE	C14:1	Long
+Arginine-C14:1	Humans	FALSE	C14:1	Long
+Arginine-C14:1	Rodents	TRUE	C14:1	Long
+Arginine-C14:1	Microbes	FALSE	C14:1	Long
+Arginine-C14:1	Foods	FALSE	C14:1	Long
+Arginine-C14:1	Plants	FALSE	C14:1	Long
+Asparagine-C14:1	Humans	TRUE	C14:1	Long
+Asparagine-C14:1	Rodents	FALSE	C14:1	Long
+Asparagine-C14:1	Microbes	TRUE	C14:1	Long
+Asparagine-C14:1	Foods	FALSE	C14:1	Long
+Asparagine-C14:1	Plants	FALSE	C14:1	Long
+Citrulline-C14:1	Humans	TRUE	C14:1	Long
+Citrulline-C14:1	Rodents	FALSE	C14:1	Long
+Citrulline-C14:1	Microbes	FALSE	C14:1	Long
+Citrulline-C14:1	Foods	TRUE	C14:1	Long
+Citrulline-C14:1	Plants	FALSE	C14:1	Long
+Glutamine-C14:1	Humans	TRUE	C14:1	Long
+Glutamine-C14:1	Rodents	FALSE	C14:1	Long
+Glutamine-C14:1	Microbes	TRUE	C14:1	Long
+Glutamine-C14:1	Foods	FALSE	C14:1	Long
+Glutamine-C14:1	Plants	FALSE	C14:1	Long
+Leucine-C14:1	Humans	TRUE	C14:1	Long
+Leucine-C14:1	Rodents	FALSE	C14:1	Long
+Leucine-C14:1	Microbes	TRUE	C14:1	Long
+Leucine-C14:1	Foods	TRUE	C14:1	Long
+Leucine-C14:1	Plants	FALSE	C14:1	Long
+Lysine-C14:1	Humans	FALSE	C14:1	Long
+Lysine-C14:1	Rodents	FALSE	C14:1	Long
+Lysine-C14:1	Microbes	FALSE	C14:1	Long
+Lysine-C14:1	Foods	TRUE	C14:1	Long
+Lysine-C14:1	Plants	FALSE	C14:1	Long
+Methionine-C14:1	Humans	FALSE	C14:1	Long
+Methionine-C14:1	Rodents	FALSE	C14:1	Long
+Methionine-C14:1	Microbes	FALSE	C14:1	Long
+Methionine-C14:1	Foods	TRUE	C14:1	Long
+Methionine-C14:1	Plants	FALSE	C14:1	Long
+Phenylalanine-C14:1	Humans	TRUE	C14:1	Long
+Phenylalanine-C14:1	Rodents	FALSE	C14:1	Long
+Phenylalanine-C14:1	Microbes	TRUE	C14:1	Long
+Phenylalanine-C14:1	Foods	TRUE	C14:1	Long
+Phenylalanine-C14:1	Plants	FALSE	C14:1	Long
+Putrescine-C14:1	Humans	TRUE	C14:1	Long
+Putrescine-C14:1	Rodents	FALSE	C14:1	Long
+Putrescine-C14:1	Microbes	FALSE	C14:1	Long
+Putrescine-C14:1	Foods	FALSE	C14:1	Long
+Putrescine-C14:1	Plants	FALSE	C14:1	Long
+Serine-C14:1	Humans	FALSE	C14:1	Long
+Serine-C14:1	Rodents	FALSE	C14:1	Long
+Serine-C14:1	Microbes	TRUE	C14:1	Long
+Serine-C14:1	Foods	FALSE	C14:1	Long
+Serine-C14:1	Plants	FALSE	C14:1	Long
+Taurine-C14:1	Humans	FALSE	C14:1	Long
+Taurine-C14:1	Rodents	FALSE	C14:1	Long
+Taurine-C14:1	Microbes	FALSE	C14:1	Long
+Taurine-C14:1	Foods	TRUE	C14:1	Long
+Taurine-C14:1	Plants	FALSE	C14:1	Long
+Threonine/homoserine-C14:1	Humans	FALSE	C14:1	Long
+Threonine/homoserine-C14:1	Rodents	FALSE	C14:1	Long
+Threonine/homoserine-C14:1	Microbes	TRUE	C14:1	Long
+Threonine/homoserine-C14:1	Foods	FALSE	C14:1	Long
+Threonine/homoserine-C14:1	Plants	FALSE	C14:1	Long
+Tyrosine-C14:1	Humans	FALSE	C14:1	Long
+Tyrosine-C14:1	Rodents	TRUE	C14:1	Long
+Tyrosine-C14:1	Microbes	FALSE	C14:1	Long
+Tyrosine-C14:1	Foods	TRUE	C14:1	Long
+Tyrosine-C14:1	Plants	FALSE	C14:1	Long
+Alanine/Sarcosine-C14:2	Humans	TRUE	C14:2	Long
+Alanine/Sarcosine-C14:2	Rodents	FALSE	C14:2	Long
+Alanine/Sarcosine-C14:2	Microbes	FALSE	C14:2	Long
+Alanine/Sarcosine-C14:2	Foods	FALSE	C14:2	Long
+Alanine/Sarcosine-C14:2	Plants	FALSE	C14:2	Long
+Alanine/Sarcosine-C14:3	Humans	TRUE	C14:3	Long
+Alanine/Sarcosine-C14:3	Rodents	FALSE	C14:3	Long
+Alanine/Sarcosine-C14:3	Microbes	FALSE	C14:3	Long
+Alanine/Sarcosine-C14:3	Foods	FALSE	C14:3	Long
+Alanine/Sarcosine-C14:3	Plants	FALSE	C14:3	Long
+Tryptophan-C14:4	Humans	FALSE	C14:4	Long
+Tryptophan-C14:4	Rodents	FALSE	C14:4	Long
+Tryptophan-C14:4	Microbes	FALSE	C14:4	Long
+Tryptophan-C14:4	Foods	TRUE	C14:4	Long
+Tryptophan-C14:4	Plants	FALSE	C14:4	Long
+2-phenethylamine-C15:0	Humans	TRUE	C15:0	Long
+2-phenethylamine-C15:0	Rodents	FALSE	C15:0	Long
+2-phenethylamine-C15:0	Microbes	TRUE	C15:0	Long
+2-phenethylamine-C15:0	Foods	FALSE	C15:0	Long
+2-phenethylamine-C15:0	Plants	FALSE	C15:0	Long
+Alanine/Sarcosine-C15:0	Humans	TRUE	C15:0	Long
+Alanine/Sarcosine-C15:0	Rodents	TRUE	C15:0	Long
+Alanine/Sarcosine-C15:0	Microbes	TRUE	C15:0	Long
+Alanine/Sarcosine-C15:0	Foods	FALSE	C15:0	Long
+Alanine/Sarcosine-C15:0	Plants	TRUE	C15:0	Long
+Arginine-C15:0	Humans	FALSE	C15:0	Long
+Arginine-C15:0	Rodents	FALSE	C15:0	Long
+Arginine-C15:0	Microbes	TRUE	C15:0	Long
+Arginine-C15:0	Foods	FALSE	C15:0	Long
+Arginine-C15:0	Plants	FALSE	C15:0	Long
+Asparagine-C15:0	Humans	TRUE	C15:0	Long
+Asparagine-C15:0	Rodents	TRUE	C15:0	Long
+Asparagine-C15:0	Microbes	TRUE	C15:0	Long
+Asparagine-C15:0	Foods	FALSE	C15:0	Long
+Asparagine-C15:0	Plants	FALSE	C15:0	Long
+Cadaverine-C15:0	Humans	TRUE	C15:0	Long
+Cadaverine-C15:0	Rodents	FALSE	C15:0	Long
+Cadaverine-C15:0	Microbes	TRUE	C15:0	Long
+Cadaverine-C15:0	Foods	FALSE	C15:0	Long
+Cadaverine-C15:0	Plants	FALSE	C15:0	Long
+Citrulline-C15:0	Humans	TRUE	C15:0	Long
+Citrulline-C15:0	Rodents	FALSE	C15:0	Long
+Citrulline-C15:0	Microbes	TRUE	C15:0	Long
+Citrulline-C15:0	Foods	FALSE	C15:0	Long
+Citrulline-C15:0	Plants	FALSE	C15:0	Long
+Glutamic acid-C15:0	Humans	TRUE	C15:0	Long
+Glutamic acid-C15:0	Rodents	FALSE	C15:0	Long
+Glutamic acid-C15:0	Microbes	TRUE	C15:0	Long
+Glutamic acid-C15:0	Foods	FALSE	C15:0	Long
+Glutamic acid-C15:0	Plants	FALSE	C15:0	Long
+Glutamine-C15:0	Humans	TRUE	C15:0	Long
+Glutamine-C15:0	Rodents	TRUE	C15:0	Long
+Glutamine-C15:0	Microbes	TRUE	C15:0	Long
+Glutamine-C15:0	Foods	FALSE	C15:0	Long
+Glutamine-C15:0	Plants	FALSE	C15:0	Long
+Histidine-C15:0	Humans	FALSE	C15:0	Long
+Histidine-C15:0	Rodents	FALSE	C15:0	Long
+Histidine-C15:0	Microbes	TRUE	C15:0	Long
+Histidine-C15:0	Foods	FALSE	C15:0	Long
+Histidine-C15:0	Plants	FALSE	C15:0	Long
+Leucine-C15:0	Humans	TRUE	C15:0	Long
+Leucine-C15:0	Rodents	TRUE	C15:0	Long
+Leucine-C15:0	Microbes	TRUE	C15:0	Long
+Leucine-C15:0	Foods	TRUE	C15:0	Long
+Leucine-C15:0	Plants	FALSE	C15:0	Long
+Lysine-C15:0	Humans	TRUE	C15:0	Long
+Lysine-C15:0	Rodents	TRUE	C15:0	Long
+Lysine-C15:0	Microbes	TRUE	C15:0	Long
+Lysine-C15:0	Foods	FALSE	C15:0	Long
+Lysine-C15:0	Plants	FALSE	C15:0	Long
+Methionine-C15:0	Humans	FALSE	C15:0	Long
+Methionine-C15:0	Rodents	TRUE	C15:0	Long
+Methionine-C15:0	Microbes	TRUE	C15:0	Long
+Methionine-C15:0	Foods	FALSE	C15:0	Long
+Methionine-C15:0	Plants	FALSE	C15:0	Long
+Ornithine-C15:0	Humans	FALSE	C15:0	Long
+Ornithine-C15:0	Rodents	FALSE	C15:0	Long
+Ornithine-C15:0	Microbes	TRUE	C15:0	Long
+Ornithine-C15:0	Foods	FALSE	C15:0	Long
+Ornithine-C15:0	Plants	FALSE	C15:0	Long
+Phenylalanine-C15:0	Humans	TRUE	C15:0	Long
+Phenylalanine-C15:0	Rodents	TRUE	C15:0	Long
+Phenylalanine-C15:0	Microbes	TRUE	C15:0	Long
+Phenylalanine-C15:0	Foods	FALSE	C15:0	Long
+Phenylalanine-C15:0	Plants	FALSE	C15:0	Long
+Putrescine-C15:0	Humans	TRUE	C15:0	Long
+Putrescine-C15:0	Rodents	FALSE	C15:0	Long
+Putrescine-C15:0	Microbes	FALSE	C15:0	Long
+Putrescine-C15:0	Foods	FALSE	C15:0	Long
+Putrescine-C15:0	Plants	FALSE	C15:0	Long
+Serine-C15:0	Humans	TRUE	C15:0	Long
+Serine-C15:0	Rodents	TRUE	C15:0	Long
+Serine-C15:0	Microbes	TRUE	C15:0	Long
+Serine-C15:0	Foods	FALSE	C15:0	Long
+Serine-C15:0	Plants	FALSE	C15:0	Long
+Threonine/homoserine-C15:0	Humans	FALSE	C15:0	Long
+Threonine/homoserine-C15:0	Rodents	FALSE	C15:0	Long
+Threonine/homoserine-C15:0	Microbes	TRUE	C15:0	Long
+Threonine/homoserine-C15:0	Foods	FALSE	C15:0	Long
+Threonine/homoserine-C15:0	Plants	FALSE	C15:0	Long
+Tryptamine-C15:0	Humans	TRUE	C15:0	Long
+Tryptamine-C15:0	Rodents	FALSE	C15:0	Long
+Tryptamine-C15:0	Microbes	FALSE	C15:0	Long
+Tryptamine-C15:0	Foods	FALSE	C15:0	Long
+Tryptamine-C15:0	Plants	FALSE	C15:0	Long
+Tryptophan-C15:0	Humans	FALSE	C15:0	Long
+Tryptophan-C15:0	Rodents	FALSE	C15:0	Long
+Tryptophan-C15:0	Microbes	TRUE	C15:0	Long
+Tryptophan-C15:0	Foods	FALSE	C15:0	Long
+Tryptophan-C15:0	Plants	FALSE	C15:0	Long
+Tyramine-C15:0	Humans	TRUE	C15:0	Long
+Tyramine-C15:0	Rodents	FALSE	C15:0	Long
+Tyramine-C15:0	Microbes	TRUE	C15:0	Long
+Tyramine-C15:0	Foods	FALSE	C15:0	Long
+Tyramine-C15:0	Plants	FALSE	C15:0	Long
+Tyrosine-C15:0	Humans	FALSE	C15:0	Long
+Tyrosine-C15:0	Rodents	TRUE	C15:0	Long
+Tyrosine-C15:0	Microbes	TRUE	C15:0	Long
+Tyrosine-C15:0	Foods	FALSE	C15:0	Long
+Tyrosine-C15:0	Plants	FALSE	C15:0	Long
+Valine-C15:0	Humans	TRUE	C15:0	Long
+Valine-C15:0	Rodents	FALSE	C15:0	Long
+Valine-C15:0	Microbes	TRUE	C15:0	Long
+Valine-C15:0	Foods	FALSE	C15:0	Long
+Valine-C15:0	Plants	FALSE	C15:0	Long
+Alanine/Sarcosine-C15:1	Humans	FALSE	C15:1	Long
+Alanine/Sarcosine-C15:1	Rodents	FALSE	C15:1	Long
+Alanine/Sarcosine-C15:1	Microbes	TRUE	C15:1	Long
+Alanine/Sarcosine-C15:1	Foods	FALSE	C15:1	Long
+Alanine/Sarcosine-C15:1	Plants	FALSE	C15:1	Long
+Asparagine-C15:1	Humans	FALSE	C15:1	Long
+Asparagine-C15:1	Rodents	FALSE	C15:1	Long
+Asparagine-C15:1	Microbes	TRUE	C15:1	Long
+Asparagine-C15:1	Foods	FALSE	C15:1	Long
+Asparagine-C15:1	Plants	FALSE	C15:1	Long
+Glutamic acid-C15:1	Humans	TRUE	C15:1	Long
+Glutamic acid-C15:1	Rodents	FALSE	C15:1	Long
+Glutamic acid-C15:1	Microbes	TRUE	C15:1	Long
+Glutamic acid-C15:1	Foods	FALSE	C15:1	Long
+Glutamic acid-C15:1	Plants	FALSE	C15:1	Long
+Glutamine-C15:1	Humans	TRUE	C15:1	Long
+Glutamine-C15:1	Rodents	FALSE	C15:1	Long
+Glutamine-C15:1	Microbes	TRUE	C15:1	Long
+Glutamine-C15:1	Foods	FALSE	C15:1	Long
+Glutamine-C15:1	Plants	FALSE	C15:1	Long
+Leucine-C15:1	Humans	TRUE	C15:1	Long
+Leucine-C15:1	Rodents	FALSE	C15:1	Long
+Leucine-C15:1	Microbes	TRUE	C15:1	Long
+Leucine-C15:1	Foods	FALSE	C15:1	Long
+Leucine-C15:1	Plants	FALSE	C15:1	Long
+Serine-C15:1	Humans	FALSE	C15:1	Long
+Serine-C15:1	Rodents	FALSE	C15:1	Long
+Serine-C15:1	Microbes	TRUE	C15:1	Long
+Serine-C15:1	Foods	FALSE	C15:1	Long
+Serine-C15:1	Plants	FALSE	C15:1	Long
+Threonine/homoserine-C15:1	Humans	FALSE	C15:1	Long
+Threonine/homoserine-C15:1	Rodents	FALSE	C15:1	Long
+Threonine/homoserine-C15:1	Microbes	TRUE	C15:1	Long
+Threonine/homoserine-C15:1	Foods	FALSE	C15:1	Long
+Threonine/homoserine-C15:1	Plants	FALSE	C15:1	Long
+Alanine/Sarcosine-C15:2	Humans	FALSE	C15:2	Long
+Alanine/Sarcosine-C15:2	Rodents	FALSE	C15:2	Long
+Alanine/Sarcosine-C15:2	Microbes	TRUE	C15:2	Long
+Alanine/Sarcosine-C15:2	Foods	FALSE	C15:2	Long
+Alanine/Sarcosine-C15:2	Plants	FALSE	C15:2	Long
+Glutathione-C15:4	Humans	FALSE	C15:4	Long
+Glutathione-C15:4	Rodents	TRUE	C15:4	Long
+Glutathione-C15:4	Microbes	FALSE	C15:4	Long
+Glutathione-C15:4	Foods	FALSE	C15:4	Long
+Glutathione-C15:4	Plants	FALSE	C15:4	Long
+Histidine-C15:4	Humans	TRUE	C15:4	Long
+Histidine-C15:4	Rodents	FALSE	C15:4	Long
+Histidine-C15:4	Microbes	FALSE	C15:4	Long
+Histidine-C15:4	Foods	FALSE	C15:4	Long
+Histidine-C15:4	Plants	FALSE	C15:4	Long
+2-aminovaleric acid-C16:0	Humans	TRUE	C16:0	Long
+2-aminovaleric acid-C16:0	Rodents	TRUE	C16:0	Long
+2-aminovaleric acid-C16:0	Microbes	TRUE	C16:0	Long
+2-aminovaleric acid-C16:0	Foods	FALSE	C16:0	Long
+2-aminovaleric acid-C16:0	Plants	TRUE	C16:0	Long
+2-phenethylamine-C16:0	Humans	TRUE	C16:0	Long
+2-phenethylamine-C16:0	Rodents	TRUE	C16:0	Long
+2-phenethylamine-C16:0	Microbes	FALSE	C16:0	Long
+2-phenethylamine-C16:0	Foods	TRUE	C16:0	Long
+2-phenethylamine-C16:0	Plants	TRUE	C16:0	Long
+Alanine/Sarcosine-C16:0	Humans	TRUE	C16:0	Long
+Alanine/Sarcosine-C16:0	Rodents	TRUE	C16:0	Long
+Alanine/Sarcosine-C16:0	Microbes	TRUE	C16:0	Long
+Alanine/Sarcosine-C16:0	Foods	FALSE	C16:0	Long
+Alanine/Sarcosine-C16:0	Plants	FALSE	C16:0	Long
+Amylamine-C16:0	Humans	TRUE	C16:0	Long
+Amylamine-C16:0	Rodents	TRUE	C16:0	Long
+Amylamine-C16:0	Microbes	TRUE	C16:0	Long
+Amylamine-C16:0	Foods	TRUE	C16:0	Long
+Amylamine-C16:0	Plants	TRUE	C16:0	Long
+Arginine-C16:0	Humans	TRUE	C16:0	Long
+Arginine-C16:0	Rodents	TRUE	C16:0	Long
+Arginine-C16:0	Microbes	TRUE	C16:0	Long
+Arginine-C16:0	Foods	TRUE	C16:0	Long
+Arginine-C16:0	Plants	TRUE	C16:0	Long
+Asparagine-C16:0	Humans	TRUE	C16:0	Long
+Asparagine-C16:0	Rodents	TRUE	C16:0	Long
+Asparagine-C16:0	Microbes	TRUE	C16:0	Long
+Asparagine-C16:0	Foods	TRUE	C16:0	Long
+Asparagine-C16:0	Plants	TRUE	C16:0	Long
+Aspartic acid-C16:0	Humans	FALSE	C16:0	Long
+Aspartic acid-C16:0	Rodents	FALSE	C16:0	Long
+Aspartic acid-C16:0	Microbes	FALSE	C16:0	Long
+Aspartic acid-C16:0	Foods	FALSE	C16:0	Long
+Aspartic acid-C16:0	Plants	TRUE	C16:0	Long
+Cadaverine-C16:0	Humans	TRUE	C16:0	Long
+Cadaverine-C16:0	Rodents	TRUE	C16:0	Long
+Cadaverine-C16:0	Microbes	TRUE	C16:0	Long
+Cadaverine-C16:0	Foods	TRUE	C16:0	Long
+Cadaverine-C16:0	Plants	FALSE	C16:0	Long
+Citrulline-C16:0	Humans	TRUE	C16:0	Long
+Citrulline-C16:0	Rodents	TRUE	C16:0	Long
+Citrulline-C16:0	Microbes	TRUE	C16:0	Long
+Citrulline-C16:0	Foods	TRUE	C16:0	Long
+Citrulline-C16:0	Plants	FALSE	C16:0	Long
+GABA-C16:0	Humans	TRUE	C16:0	Long
+GABA-C16:0	Rodents	FALSE	C16:0	Long
+GABA-C16:0	Microbes	TRUE	C16:0	Long
+GABA-C16:0	Foods	FALSE	C16:0	Long
+GABA-C16:0	Plants	TRUE	C16:0	Long
+Glutamic acid-C16:0	Humans	TRUE	C16:0	Long
+Glutamic acid-C16:0	Rodents	TRUE	C16:0	Long
+Glutamic acid-C16:0	Microbes	TRUE	C16:0	Long
+Glutamic acid-C16:0	Foods	FALSE	C16:0	Long
+Glutamic acid-C16:0	Plants	TRUE	C16:0	Long
+Glutamine-C16:0	Humans	TRUE	C16:0	Long
+Glutamine-C16:0	Rodents	TRUE	C16:0	Long
+Glutamine-C16:0	Microbes	TRUE	C16:0	Long
+Glutamine-C16:0	Foods	TRUE	C16:0	Long
+Glutamine-C16:0	Plants	TRUE	C16:0	Long
+Histidine-C16:0	Humans	TRUE	C16:0	Long
+Histidine-C16:0	Rodents	TRUE	C16:0	Long
+Histidine-C16:0	Microbes	TRUE	C16:0	Long
+Histidine-C16:0	Foods	TRUE	C16:0	Long
+Histidine-C16:0	Plants	FALSE	C16:0	Long
+Leucine-C16:0	Humans	TRUE	C16:0	Long
+Leucine-C16:0	Rodents	TRUE	C16:0	Long
+Leucine-C16:0	Microbes	TRUE	C16:0	Long
+Leucine-C16:0	Foods	TRUE	C16:0	Long
+Leucine-C16:0	Plants	TRUE	C16:0	Long
+Lysine-C16:0	Humans	TRUE	C16:0	Long
+Lysine-C16:0	Rodents	TRUE	C16:0	Long
+Lysine-C16:0	Microbes	TRUE	C16:0	Long
+Lysine-C16:0	Foods	TRUE	C16:0	Long
+Lysine-C16:0	Plants	FALSE	C16:0	Long
+Methionine-C16:0	Humans	TRUE	C16:0	Long
+Methionine-C16:0	Rodents	TRUE	C16:0	Long
+Methionine-C16:0	Microbes	TRUE	C16:0	Long
+Methionine-C16:0	Foods	TRUE	C16:0	Long
+Methionine-C16:0	Plants	FALSE	C16:0	Long
+Phenylalanine-C16:0	Humans	TRUE	C16:0	Long
+Phenylalanine-C16:0	Rodents	TRUE	C16:0	Long
+Phenylalanine-C16:0	Microbes	TRUE	C16:0	Long
+Phenylalanine-C16:0	Foods	TRUE	C16:0	Long
+Phenylalanine-C16:0	Plants	FALSE	C16:0	Long
+Putrescine-C16:0	Humans	TRUE	C16:0	Long
+Putrescine-C16:0	Rodents	TRUE	C16:0	Long
+Putrescine-C16:0	Microbes	TRUE	C16:0	Long
+Putrescine-C16:0	Foods	TRUE	C16:0	Long
+Putrescine-C16:0	Plants	TRUE	C16:0	Long
+Serine-C16:0	Humans	TRUE	C16:0	Long
+Serine-C16:0	Rodents	TRUE	C16:0	Long
+Serine-C16:0	Microbes	TRUE	C16:0	Long
+Serine-C16:0	Foods	TRUE	C16:0	Long
+Serine-C16:0	Plants	TRUE	C16:0	Long
+Serotonin-C16:0	Humans	FALSE	C16:0	Long
+Serotonin-C16:0	Rodents	FALSE	C16:0	Long
+Serotonin-C16:0	Microbes	FALSE	C16:0	Long
+Serotonin-C16:0	Foods	TRUE	C16:0	Long
+Serotonin-C16:0	Plants	TRUE	C16:0	Long
+Spermidine-C16:0	Humans	TRUE	C16:0	Long
+Spermidine-C16:0	Rodents	TRUE	C16:0	Long
+Spermidine-C16:0	Microbes	TRUE	C16:0	Long
+Spermidine-C16:0	Foods	FALSE	C16:0	Long
+Spermidine-C16:0	Plants	FALSE	C16:0	Long
+Taurine-C16:0	Humans	TRUE	C16:0	Long
+Taurine-C16:0	Rodents	TRUE	C16:0	Long
+Taurine-C16:0	Microbes	TRUE	C16:0	Long
+Taurine-C16:0	Foods	TRUE	C16:0	Long
+Taurine-C16:0	Plants	FALSE	C16:0	Long
+Threonine/homoserine-C16:0	Humans	TRUE	C16:0	Long
+Threonine/homoserine-C16:0	Rodents	FALSE	C16:0	Long
+Threonine/homoserine-C16:0	Microbes	TRUE	C16:0	Long
+Threonine/homoserine-C16:0	Foods	FALSE	C16:0	Long
+Threonine/homoserine-C16:0	Plants	TRUE	C16:0	Long
+Tryptamine-C16:0	Humans	TRUE	C16:0	Long
+Tryptamine-C16:0	Rodents	FALSE	C16:0	Long
+Tryptamine-C16:0	Microbes	FALSE	C16:0	Long
+Tryptamine-C16:0	Foods	FALSE	C16:0	Long
+Tryptamine-C16:0	Plants	FALSE	C16:0	Long
+Tryptophan-C16:0	Humans	TRUE	C16:0	Long
+Tryptophan-C16:0	Rodents	TRUE	C16:0	Long
+Tryptophan-C16:0	Microbes	TRUE	C16:0	Long
+Tryptophan-C16:0	Foods	TRUE	C16:0	Long
+Tryptophan-C16:0	Plants	TRUE	C16:0	Long
+Tyramine-C16:0	Humans	TRUE	C16:0	Long
+Tyramine-C16:0	Rodents	FALSE	C16:0	Long
+Tyramine-C16:0	Microbes	FALSE	C16:0	Long
+Tyramine-C16:0	Foods	TRUE	C16:0	Long
+Tyramine-C16:0	Plants	FALSE	C16:0	Long
+Tyrosine-C16:0	Humans	TRUE	C16:0	Long
+Tyrosine-C16:0	Rodents	TRUE	C16:0	Long
+Tyrosine-C16:0	Microbes	TRUE	C16:0	Long
+Tyrosine-C16:0	Foods	TRUE	C16:0	Long
+Tyrosine-C16:0	Plants	FALSE	C16:0	Long
+Valine-C16:0	Humans	TRUE	C16:0	Long
+Valine-C16:0	Rodents	TRUE	C16:0	Long
+Valine-C16:0	Microbes	TRUE	C16:0	Long
+Valine-C16:0	Foods	TRUE	C16:0	Long
+Valine-C16:0	Plants	TRUE	C16:0	Long
+2-aminovaleric acid-C16:1	Humans	TRUE	C16:1	Long
+2-aminovaleric acid-C16:1	Rodents	FALSE	C16:1	Long
+2-aminovaleric acid-C16:1	Microbes	TRUE	C16:1	Long
+2-aminovaleric acid-C16:1	Foods	FALSE	C16:1	Long
+2-aminovaleric acid-C16:1	Plants	FALSE	C16:1	Long
+2-phenethylamine-C16:1	Humans	TRUE	C16:1	Long
+2-phenethylamine-C16:1	Rodents	FALSE	C16:1	Long
+2-phenethylamine-C16:1	Microbes	TRUE	C16:1	Long
+2-phenethylamine-C16:1	Foods	TRUE	C16:1	Long
+2-phenethylamine-C16:1	Plants	FALSE	C16:1	Long
+Alanine/Sarcosine-C16:1	Humans	FALSE	C16:1	Long
+Alanine/Sarcosine-C16:1	Rodents	FALSE	C16:1	Long
+Alanine/Sarcosine-C16:1	Microbes	TRUE	C16:1	Long
+Alanine/Sarcosine-C16:1	Foods	FALSE	C16:1	Long
+Alanine/Sarcosine-C16:1	Plants	FALSE	C16:1	Long
+Amylamine-C16:1	Humans	FALSE	C16:1	Long
+Amylamine-C16:1	Rodents	TRUE	C16:1	Long
+Amylamine-C16:1	Microbes	FALSE	C16:1	Long
+Amylamine-C16:1	Foods	TRUE	C16:1	Long
+Amylamine-C16:1	Plants	TRUE	C16:1	Long
+Arginine-C16:1	Humans	FALSE	C16:1	Long
+Arginine-C16:1	Rodents	TRUE	C16:1	Long
+Arginine-C16:1	Microbes	TRUE	C16:1	Long
+Arginine-C16:1	Foods	TRUE	C16:1	Long
+Arginine-C16:1	Plants	FALSE	C16:1	Long
+Asparagine-C16:1	Humans	FALSE	C16:1	Long
+Asparagine-C16:1	Rodents	FALSE	C16:1	Long
+Asparagine-C16:1	Microbes	TRUE	C16:1	Long
+Asparagine-C16:1	Foods	FALSE	C16:1	Long
+Asparagine-C16:1	Plants	FALSE	C16:1	Long
+Aspartic acid-C16:1	Humans	TRUE	C16:1	Long
+Aspartic acid-C16:1	Rodents	FALSE	C16:1	Long
+Aspartic acid-C16:1	Microbes	FALSE	C16:1	Long
+Aspartic acid-C16:1	Foods	FALSE	C16:1	Long
+Aspartic acid-C16:1	Plants	FALSE	C16:1	Long
+Citrulline-C16:1	Humans	TRUE	C16:1	Long
+Citrulline-C16:1	Rodents	TRUE	C16:1	Long
+Citrulline-C16:1	Microbes	TRUE	C16:1	Long
+Citrulline-C16:1	Foods	TRUE	C16:1	Long
+Citrulline-C16:1	Plants	FALSE	C16:1	Long
+GABA-C16:1	Humans	FALSE	C16:1	Long
+GABA-C16:1	Rodents	FALSE	C16:1	Long
+GABA-C16:1	Microbes	FALSE	C16:1	Long
+GABA-C16:1	Foods	FALSE	C16:1	Long
+GABA-C16:1	Plants	TRUE	C16:1	Long
+Glutamic acid-C16:1	Humans	TRUE	C16:1	Long
+Glutamic acid-C16:1	Rodents	FALSE	C16:1	Long
+Glutamic acid-C16:1	Microbes	TRUE	C16:1	Long
+Glutamic acid-C16:1	Foods	FALSE	C16:1	Long
+Glutamic acid-C16:1	Plants	FALSE	C16:1	Long
+Glutamine-C16:1	Humans	TRUE	C16:1	Long
+Glutamine-C16:1	Rodents	TRUE	C16:1	Long
+Glutamine-C16:1	Microbes	TRUE	C16:1	Long
+Glutamine-C16:1	Foods	FALSE	C16:1	Long
+Glutamine-C16:1	Plants	FALSE	C16:1	Long
+Glycine-C16:1	Humans	TRUE	C16:1	Long
+Glycine-C16:1	Rodents	TRUE	C16:1	Long
+Glycine-C16:1	Microbes	TRUE	C16:1	Long
+Glycine-C16:1	Foods	TRUE	C16:1	Long
+Glycine-C16:1	Plants	FALSE	C16:1	Long
+Histamine-C16:1	Humans	TRUE	C16:1	Long
+Histamine-C16:1	Rodents	FALSE	C16:1	Long
+Histamine-C16:1	Microbes	FALSE	C16:1	Long
+Histamine-C16:1	Foods	FALSE	C16:1	Long
+Histamine-C16:1	Plants	FALSE	C16:1	Long
+Histidine-C16:1	Humans	FALSE	C16:1	Long
+Histidine-C16:1	Rodents	TRUE	C16:1	Long
+Histidine-C16:1	Microbes	TRUE	C16:1	Long
+Histidine-C16:1	Foods	FALSE	C16:1	Long
+Histidine-C16:1	Plants	FALSE	C16:1	Long
+Leucine-C16:1	Humans	TRUE	C16:1	Long
+Leucine-C16:1	Rodents	TRUE	C16:1	Long
+Leucine-C16:1	Microbes	TRUE	C16:1	Long
+Leucine-C16:1	Foods	TRUE	C16:1	Long
+Leucine-C16:1	Plants	FALSE	C16:1	Long
+Lysine-C16:1	Humans	TRUE	C16:1	Long
+Lysine-C16:1	Rodents	TRUE	C16:1	Long
+Lysine-C16:1	Microbes	TRUE	C16:1	Long
+Lysine-C16:1	Foods	TRUE	C16:1	Long
+Lysine-C16:1	Plants	FALSE	C16:1	Long
+Methionine-C16:1	Humans	FALSE	C16:1	Long
+Methionine-C16:1	Rodents	TRUE	C16:1	Long
+Methionine-C16:1	Microbes	TRUE	C16:1	Long
+Methionine-C16:1	Foods	TRUE	C16:1	Long
+Methionine-C16:1	Plants	FALSE	C16:1	Long
+Ornithine-C16:1	Humans	FALSE	C16:1	Long
+Ornithine-C16:1	Rodents	FALSE	C16:1	Long
+Ornithine-C16:1	Microbes	TRUE	C16:1	Long
+Ornithine-C16:1	Foods	FALSE	C16:1	Long
+Ornithine-C16:1	Plants	FALSE	C16:1	Long
+Phenylalanine-C16:1	Humans	TRUE	C16:1	Long
+Phenylalanine-C16:1	Rodents	TRUE	C16:1	Long
+Phenylalanine-C16:1	Microbes	TRUE	C16:1	Long
+Phenylalanine-C16:1	Foods	TRUE	C16:1	Long
+Phenylalanine-C16:1	Plants	FALSE	C16:1	Long
+Putrescine-C16:1	Humans	TRUE	C16:1	Long
+Putrescine-C16:1	Rodents	FALSE	C16:1	Long
+Putrescine-C16:1	Microbes	TRUE	C16:1	Long
+Putrescine-C16:1	Foods	FALSE	C16:1	Long
+Putrescine-C16:1	Plants	FALSE	C16:1	Long
+Serine-C16:1	Humans	TRUE	C16:1	Long
+Serine-C16:1	Rodents	FALSE	C16:1	Long
+Serine-C16:1	Microbes	TRUE	C16:1	Long
+Serine-C16:1	Foods	FALSE	C16:1	Long
+Serine-C16:1	Plants	FALSE	C16:1	Long
+Spermidine-C16:1	Humans	FALSE	C16:1	Long
+Spermidine-C16:1	Rodents	TRUE	C16:1	Long
+Spermidine-C16:1	Microbes	FALSE	C16:1	Long
+Spermidine-C16:1	Foods	FALSE	C16:1	Long
+Spermidine-C16:1	Plants	FALSE	C16:1	Long
+Taurine-C16:1	Humans	FALSE	C16:1	Long
+Taurine-C16:1	Rodents	TRUE	C16:1	Long
+Taurine-C16:1	Microbes	TRUE	C16:1	Long
+Taurine-C16:1	Foods	TRUE	C16:1	Long
+Taurine-C16:1	Plants	FALSE	C16:1	Long
+Threonine/homoserine-C16:1	Humans	FALSE	C16:1	Long
+Threonine/homoserine-C16:1	Rodents	FALSE	C16:1	Long
+Threonine/homoserine-C16:1	Microbes	TRUE	C16:1	Long
+Threonine/homoserine-C16:1	Foods	FALSE	C16:1	Long
+Threonine/homoserine-C16:1	Plants	FALSE	C16:1	Long
+Tryptamine-C16:1	Humans	TRUE	C16:1	Long
+Tryptamine-C16:1	Rodents	FALSE	C16:1	Long
+Tryptamine-C16:1	Microbes	FALSE	C16:1	Long
+Tryptamine-C16:1	Foods	FALSE	C16:1	Long
+Tryptamine-C16:1	Plants	FALSE	C16:1	Long
+Tryptophan-C16:1	Humans	FALSE	C16:1	Long
+Tryptophan-C16:1	Rodents	FALSE	C16:1	Long
+Tryptophan-C16:1	Microbes	TRUE	C16:1	Long
+Tryptophan-C16:1	Foods	FALSE	C16:1	Long
+Tryptophan-C16:1	Plants	FALSE	C16:1	Long
+Tyramine-C16:1	Humans	TRUE	C16:1	Long
+Tyramine-C16:1	Rodents	TRUE	C16:1	Long
+Tyramine-C16:1	Microbes	TRUE	C16:1	Long
+Tyramine-C16:1	Foods	TRUE	C16:1	Long
+Tyramine-C16:1	Plants	TRUE	C16:1	Long
+Tyrosine-C16:1	Humans	FALSE	C16:1	Long
+Tyrosine-C16:1	Rodents	TRUE	C16:1	Long
+Tyrosine-C16:1	Microbes	TRUE	C16:1	Long
+Tyrosine-C16:1	Foods	TRUE	C16:1	Long
+Tyrosine-C16:1	Plants	FALSE	C16:1	Long
+Valine-C16:1	Humans	TRUE	C16:1	Long
+Valine-C16:1	Rodents	TRUE	C16:1	Long
+Valine-C16:1	Microbes	FALSE	C16:1	Long
+Valine-C16:1	Foods	FALSE	C16:1	Long
+Valine-C16:1	Plants	FALSE	C16:1	Long
+2-phenethylamine-C16:2	Humans	FALSE	C16:2	Long
+2-phenethylamine-C16:2	Rodents	FALSE	C16:2	Long
+2-phenethylamine-C16:2	Microbes	TRUE	C16:2	Long
+2-phenethylamine-C16:2	Foods	FALSE	C16:2	Long
+2-phenethylamine-C16:2	Plants	FALSE	C16:2	Long
+Alanine/Sarcosine-C16:2	Humans	FALSE	C16:2	Long
+Alanine/Sarcosine-C16:2	Rodents	FALSE	C16:2	Long
+Alanine/Sarcosine-C16:2	Microbes	TRUE	C16:2	Long
+Alanine/Sarcosine-C16:2	Foods	FALSE	C16:2	Long
+Alanine/Sarcosine-C16:2	Plants	FALSE	C16:2	Long
+Glycine-C16:2	Humans	TRUE	C16:2	Long
+Glycine-C16:2	Rodents	FALSE	C16:2	Long
+Glycine-C16:2	Microbes	FALSE	C16:2	Long
+Glycine-C16:2	Foods	FALSE	C16:2	Long
+Glycine-C16:2	Plants	FALSE	C16:2	Long
+Leucine-C16:2	Humans	TRUE	C16:2	Long
+Leucine-C16:2	Rodents	FALSE	C16:2	Long
+Leucine-C16:2	Microbes	TRUE	C16:2	Long
+Leucine-C16:2	Foods	FALSE	C16:2	Long
+Leucine-C16:2	Plants	TRUE	C16:2	Long
+Glutamic acid-C16:3	Humans	FALSE	C16:3	Long
+Glutamic acid-C16:3	Rodents	FALSE	C16:3	Long
+Glutamic acid-C16:3	Microbes	TRUE	C16:3	Long
+Glutamic acid-C16:3	Foods	FALSE	C16:3	Long
+Glutamic acid-C16:3	Plants	FALSE	C16:3	Long
+Tryptamine-C16:4	Humans	TRUE	C16:4	Long
+Tryptamine-C16:4	Rodents	FALSE	C16:4	Long
+Tryptamine-C16:4	Microbes	FALSE	C16:4	Long
+Tryptamine-C16:4	Foods	FALSE	C16:4	Long
+Tryptamine-C16:4	Plants	FALSE	C16:4	Long
+2-phenethylamine-C17:0	Humans	FALSE	C17:0	Long
+2-phenethylamine-C17:0	Rodents	FALSE	C17:0	Long
+2-phenethylamine-C17:0	Microbes	TRUE	C17:0	Long
+2-phenethylamine-C17:0	Foods	FALSE	C17:0	Long
+2-phenethylamine-C17:0	Plants	FALSE	C17:0	Long
+Alanine/Sarcosine-C17:0	Humans	FALSE	C17:0	Long
+Alanine/Sarcosine-C17:0	Rodents	FALSE	C17:0	Long
+Alanine/Sarcosine-C17:0	Microbes	TRUE	C17:0	Long
+Alanine/Sarcosine-C17:0	Foods	FALSE	C17:0	Long
+Alanine/Sarcosine-C17:0	Plants	FALSE	C17:0	Long
+Arginine-C17:0	Humans	FALSE	C17:0	Long
+Arginine-C17:0	Rodents	FALSE	C17:0	Long
+Arginine-C17:0	Microbes	TRUE	C17:0	Long
+Arginine-C17:0	Foods	FALSE	C17:0	Long
+Arginine-C17:0	Plants	FALSE	C17:0	Long
+Citrulline-C17:0	Humans	FALSE	C17:0	Long
+Citrulline-C17:0	Rodents	FALSE	C17:0	Long
+Citrulline-C17:0	Microbes	TRUE	C17:0	Long
+Citrulline-C17:0	Foods	FALSE	C17:0	Long
+Citrulline-C17:0	Plants	FALSE	C17:0	Long
+Glutamic acid-C17:0	Humans	TRUE	C17:0	Long
+Glutamic acid-C17:0	Rodents	FALSE	C17:0	Long
+Glutamic acid-C17:0	Microbes	TRUE	C17:0	Long
+Glutamic acid-C17:0	Foods	FALSE	C17:0	Long
+Glutamic acid-C17:0	Plants	FALSE	C17:0	Long
+Leucine-C17:0	Humans	TRUE	C17:0	Long
+Leucine-C17:0	Rodents	FALSE	C17:0	Long
+Leucine-C17:0	Microbes	TRUE	C17:0	Long
+Leucine-C17:0	Foods	FALSE	C17:0	Long
+Leucine-C17:0	Plants	FALSE	C17:0	Long
+Lysine-C17:0	Humans	FALSE	C17:0	Long
+Lysine-C17:0	Rodents	TRUE	C17:0	Long
+Lysine-C17:0	Microbes	TRUE	C17:0	Long
+Lysine-C17:0	Foods	FALSE	C17:0	Long
+Lysine-C17:0	Plants	FALSE	C17:0	Long
+Phenylalanine-C17:0	Humans	TRUE	C17:0	Long
+Phenylalanine-C17:0	Rodents	FALSE	C17:0	Long
+Phenylalanine-C17:0	Microbes	TRUE	C17:0	Long
+Phenylalanine-C17:0	Foods	FALSE	C17:0	Long
+Phenylalanine-C17:0	Plants	FALSE	C17:0	Long
+Serine-C17:0	Humans	FALSE	C17:0	Long
+Serine-C17:0	Rodents	FALSE	C17:0	Long
+Serine-C17:0	Microbes	TRUE	C17:0	Long
+Serine-C17:0	Foods	FALSE	C17:0	Long
+Serine-C17:0	Plants	FALSE	C17:0	Long
+Threonine/homoserine-C17:0	Humans	FALSE	C17:0	Long
+Threonine/homoserine-C17:0	Rodents	FALSE	C17:0	Long
+Threonine/homoserine-C17:0	Microbes	TRUE	C17:0	Long
+Threonine/homoserine-C17:0	Foods	FALSE	C17:0	Long
+Threonine/homoserine-C17:0	Plants	FALSE	C17:0	Long
+Tryptamine-C17:0	Humans	TRUE	C17:0	Long
+Tryptamine-C17:0	Rodents	FALSE	C17:0	Long
+Tryptamine-C17:0	Microbes	FALSE	C17:0	Long
+Tryptamine-C17:0	Foods	FALSE	C17:0	Long
+Tryptamine-C17:0	Plants	FALSE	C17:0	Long
+Tryptophan-C17:0	Humans	FALSE	C17:0	Long
+Tryptophan-C17:0	Rodents	FALSE	C17:0	Long
+Tryptophan-C17:0	Microbes	TRUE	C17:0	Long
+Tryptophan-C17:0	Foods	FALSE	C17:0	Long
+Tryptophan-C17:0	Plants	FALSE	C17:0	Long
+Tyramine-C17:0	Humans	TRUE	C17:0	Long
+Tyramine-C17:0	Rodents	FALSE	C17:0	Long
+Tyramine-C17:0	Microbes	TRUE	C17:0	Long
+Tyramine-C17:0	Foods	FALSE	C17:0	Long
+Tyramine-C17:0	Plants	FALSE	C17:0	Long
+2-phenethylamine-C17:1	Humans	FALSE	C17:1	Long
+2-phenethylamine-C17:1	Rodents	FALSE	C17:1	Long
+2-phenethylamine-C17:1	Microbes	TRUE	C17:1	Long
+2-phenethylamine-C17:1	Foods	FALSE	C17:1	Long
+2-phenethylamine-C17:1	Plants	FALSE	C17:1	Long
+Alanine/Sarcosine-C17:1	Humans	FALSE	C17:1	Long
+Alanine/Sarcosine-C17:1	Rodents	FALSE	C17:1	Long
+Alanine/Sarcosine-C17:1	Microbes	TRUE	C17:1	Long
+Alanine/Sarcosine-C17:1	Foods	FALSE	C17:1	Long
+Alanine/Sarcosine-C17:1	Plants	FALSE	C17:1	Long
+Arginine-C17:1	Humans	FALSE	C17:1	Long
+Arginine-C17:1	Rodents	FALSE	C17:1	Long
+Arginine-C17:1	Microbes	TRUE	C17:1	Long
+Arginine-C17:1	Foods	FALSE	C17:1	Long
+Arginine-C17:1	Plants	FALSE	C17:1	Long
+Asparagine-C17:1	Humans	FALSE	C17:1	Long
+Asparagine-C17:1	Rodents	FALSE	C17:1	Long
+Asparagine-C17:1	Microbes	TRUE	C17:1	Long
+Asparagine-C17:1	Foods	FALSE	C17:1	Long
+Asparagine-C17:1	Plants	FALSE	C17:1	Long
+Glutamic acid-C17:1	Humans	TRUE	C17:1	Long
+Glutamic acid-C17:1	Rodents	FALSE	C17:1	Long
+Glutamic acid-C17:1	Microbes	TRUE	C17:1	Long
+Glutamic acid-C17:1	Foods	FALSE	C17:1	Long
+Glutamic acid-C17:1	Plants	FALSE	C17:1	Long
+Leucine-C17:1	Humans	TRUE	C17:1	Long
+Leucine-C17:1	Rodents	FALSE	C17:1	Long
+Leucine-C17:1	Microbes	TRUE	C17:1	Long
+Leucine-C17:1	Foods	FALSE	C17:1	Long
+Leucine-C17:1	Plants	FALSE	C17:1	Long
+Lysine-C17:1	Humans	FALSE	C17:1	Long
+Lysine-C17:1	Rodents	FALSE	C17:1	Long
+Lysine-C17:1	Microbes	TRUE	C17:1	Long
+Lysine-C17:1	Foods	FALSE	C17:1	Long
+Lysine-C17:1	Plants	FALSE	C17:1	Long
+Methionine-C17:1	Humans	FALSE	C17:1	Long
+Methionine-C17:1	Rodents	FALSE	C17:1	Long
+Methionine-C17:1	Microbes	TRUE	C17:1	Long
+Methionine-C17:1	Foods	FALSE	C17:1	Long
+Methionine-C17:1	Plants	FALSE	C17:1	Long
+Ornithine-C17:1	Humans	FALSE	C17:1	Long
+Ornithine-C17:1	Rodents	FALSE	C17:1	Long
+Ornithine-C17:1	Microbes	TRUE	C17:1	Long
+Ornithine-C17:1	Foods	FALSE	C17:1	Long
+Ornithine-C17:1	Plants	FALSE	C17:1	Long
+Phenylalanine-C17:1	Humans	TRUE	C17:1	Long
+Phenylalanine-C17:1	Rodents	TRUE	C17:1	Long
+Phenylalanine-C17:1	Microbes	TRUE	C17:1	Long
+Phenylalanine-C17:1	Foods	FALSE	C17:1	Long
+Phenylalanine-C17:1	Plants	FALSE	C17:1	Long
+Serine-C17:1	Humans	FALSE	C17:1	Long
+Serine-C17:1	Rodents	FALSE	C17:1	Long
+Serine-C17:1	Microbes	TRUE	C17:1	Long
+Serine-C17:1	Foods	FALSE	C17:1	Long
+Serine-C17:1	Plants	FALSE	C17:1	Long
+Threonine/homoserine-C17:1	Humans	FALSE	C17:1	Long
+Threonine/homoserine-C17:1	Rodents	FALSE	C17:1	Long
+Threonine/homoserine-C17:1	Microbes	TRUE	C17:1	Long
+Threonine/homoserine-C17:1	Foods	FALSE	C17:1	Long
+Threonine/homoserine-C17:1	Plants	FALSE	C17:1	Long
+Tryptophan-C17:1	Humans	FALSE	C17:1	Long
+Tryptophan-C17:1	Rodents	FALSE	C17:1	Long
+Tryptophan-C17:1	Microbes	TRUE	C17:1	Long
+Tryptophan-C17:1	Foods	FALSE	C17:1	Long
+Tryptophan-C17:1	Plants	FALSE	C17:1	Long
+Tyramine-C17:1	Humans	FALSE	C17:1	Long
+Tyramine-C17:1	Rodents	FALSE	C17:1	Long
+Tyramine-C17:1	Microbes	TRUE	C17:1	Long
+Tyramine-C17:1	Foods	FALSE	C17:1	Long
+Tyramine-C17:1	Plants	FALSE	C17:1	Long
+Alanine/Sarcosine-C17:2	Humans	FALSE	C17:2	Long
+Alanine/Sarcosine-C17:2	Rodents	FALSE	C17:2	Long
+Alanine/Sarcosine-C17:2	Microbes	TRUE	C17:2	Long
+Alanine/Sarcosine-C17:2	Foods	FALSE	C17:2	Long
+Alanine/Sarcosine-C17:2	Plants	FALSE	C17:2	Long
+2-phenethylamine-C18:0	Humans	FALSE	C18:0	Long
+2-phenethylamine-C18:0	Rodents	FALSE	C18:0	Long
+2-phenethylamine-C18:0	Microbes	FALSE	C18:0	Long
+2-phenethylamine-C18:0	Foods	TRUE	C18:0	Long
+2-phenethylamine-C18:0	Plants	TRUE	C18:0	Long
+Alanine/Sarcosine-C18:0	Humans	TRUE	C18:0	Long
+Alanine/Sarcosine-C18:0	Rodents	FALSE	C18:0	Long
+Alanine/Sarcosine-C18:0	Microbes	TRUE	C18:0	Long
+Alanine/Sarcosine-C18:0	Foods	FALSE	C18:0	Long
+Alanine/Sarcosine-C18:0	Plants	FALSE	C18:0	Long
+Amylamine-C18:0	Humans	TRUE	C18:0	Long
+Amylamine-C18:0	Rodents	TRUE	C18:0	Long
+Amylamine-C18:0	Microbes	TRUE	C18:0	Long
+Amylamine-C18:0	Foods	TRUE	C18:0	Long
+Amylamine-C18:0	Plants	TRUE	C18:0	Long
+Arginine-C18:0	Humans	TRUE	C18:0	Long
+Arginine-C18:0	Rodents	TRUE	C18:0	Long
+Arginine-C18:0	Microbes	TRUE	C18:0	Long
+Arginine-C18:0	Foods	FALSE	C18:0	Long
+Arginine-C18:0	Plants	FALSE	C18:0	Long
+Asparagine-C18:0	Humans	TRUE	C18:0	Long
+Asparagine-C18:0	Rodents	TRUE	C18:0	Long
+Asparagine-C18:0	Microbes	FALSE	C18:0	Long
+Asparagine-C18:0	Foods	FALSE	C18:0	Long
+Asparagine-C18:0	Plants	FALSE	C18:0	Long
+Cadaverine-C18:0	Humans	TRUE	C18:0	Long
+Cadaverine-C18:0	Rodents	TRUE	C18:0	Long
+Cadaverine-C18:0	Microbes	TRUE	C18:0	Long
+Cadaverine-C18:0	Foods	FALSE	C18:0	Long
+Cadaverine-C18:0	Plants	FALSE	C18:0	Long
+GABA-C18:0	Humans	TRUE	C18:0	Long
+GABA-C18:0	Rodents	FALSE	C18:0	Long
+GABA-C18:0	Microbes	FALSE	C18:0	Long
+GABA-C18:0	Foods	TRUE	C18:0	Long
+GABA-C18:0	Plants	FALSE	C18:0	Long
+Glutamic acid-C18:0	Humans	TRUE	C18:0	Long
+Glutamic acid-C18:0	Rodents	TRUE	C18:0	Long
+Glutamic acid-C18:0	Microbes	TRUE	C18:0	Long
+Glutamic acid-C18:0	Foods	FALSE	C18:0	Long
+Glutamic acid-C18:0	Plants	TRUE	C18:0	Long
+Glycine-C18:0	Humans	TRUE	C18:0	Long
+Glycine-C18:0	Rodents	FALSE	C18:0	Long
+Glycine-C18:0	Microbes	FALSE	C18:0	Long
+Glycine-C18:0	Foods	FALSE	C18:0	Long
+Glycine-C18:0	Plants	FALSE	C18:0	Long
+Histidine-C18:0	Humans	TRUE	C18:0	Long
+Histidine-C18:0	Rodents	FALSE	C18:0	Long
+Histidine-C18:0	Microbes	TRUE	C18:0	Long
+Histidine-C18:0	Foods	FALSE	C18:0	Long
+Histidine-C18:0	Plants	FALSE	C18:0	Long
+Leucine-C18:0	Humans	TRUE	C18:0	Long
+Leucine-C18:0	Rodents	TRUE	C18:0	Long
+Leucine-C18:0	Microbes	TRUE	C18:0	Long
+Leucine-C18:0	Foods	TRUE	C18:0	Long
+Leucine-C18:0	Plants	FALSE	C18:0	Long
+Lysine-C18:0	Humans	TRUE	C18:0	Long
+Lysine-C18:0	Rodents	TRUE	C18:0	Long
+Lysine-C18:0	Microbes	TRUE	C18:0	Long
+Lysine-C18:0	Foods	FALSE	C18:0	Long
+Lysine-C18:0	Plants	FALSE	C18:0	Long
+Methionine-C18:0	Humans	TRUE	C18:0	Long
+Methionine-C18:0	Rodents	TRUE	C18:0	Long
+Methionine-C18:0	Microbes	FALSE	C18:0	Long
+Methionine-C18:0	Foods	FALSE	C18:0	Long
+Methionine-C18:0	Plants	FALSE	C18:0	Long
+Phenylalanine-C18:0	Humans	TRUE	C18:0	Long
+Phenylalanine-C18:0	Rodents	TRUE	C18:0	Long
+Phenylalanine-C18:0	Microbes	TRUE	C18:0	Long
+Phenylalanine-C18:0	Foods	TRUE	C18:0	Long
+Phenylalanine-C18:0	Plants	FALSE	C18:0	Long
+Putrescine-C18:0	Humans	TRUE	C18:0	Long
+Putrescine-C18:0	Rodents	FALSE	C18:0	Long
+Putrescine-C18:0	Microbes	FALSE	C18:0	Long
+Putrescine-C18:0	Foods	FALSE	C18:0	Long
+Putrescine-C18:0	Plants	FALSE	C18:0	Long
+Serine-C18:0	Humans	FALSE	C18:0	Long
+Serine-C18:0	Rodents	TRUE	C18:0	Long
+Serine-C18:0	Microbes	TRUE	C18:0	Long
+Serine-C18:0	Foods	FALSE	C18:0	Long
+Serine-C18:0	Plants	FALSE	C18:0	Long
+Serotonin-C18:0	Humans	FALSE	C18:0	Long
+Serotonin-C18:0	Rodents	FALSE	C18:0	Long
+Serotonin-C18:0	Microbes	FALSE	C18:0	Long
+Serotonin-C18:0	Foods	TRUE	C18:0	Long
+Serotonin-C18:0	Plants	TRUE	C18:0	Long
+Threonine/homoserine-C18:0	Humans	TRUE	C18:0	Long
+Threonine/homoserine-C18:0	Rodents	FALSE	C18:0	Long
+Threonine/homoserine-C18:0	Microbes	FALSE	C18:0	Long
+Threonine/homoserine-C18:0	Foods	FALSE	C18:0	Long
+Threonine/homoserine-C18:0	Plants	FALSE	C18:0	Long
+Tryptamine-C18:0	Humans	TRUE	C18:0	Long
+Tryptamine-C18:0	Rodents	FALSE	C18:0	Long
+Tryptamine-C18:0	Microbes	FALSE	C18:0	Long
+Tryptamine-C18:0	Foods	FALSE	C18:0	Long
+Tryptamine-C18:0	Plants	FALSE	C18:0	Long
+Tryptophan-C18:0	Humans	TRUE	C18:0	Long
+Tryptophan-C18:0	Rodents	TRUE	C18:0	Long
+Tryptophan-C18:0	Microbes	FALSE	C18:0	Long
+Tryptophan-C18:0	Foods	FALSE	C18:0	Long
+Tryptophan-C18:0	Plants	FALSE	C18:0	Long
+Tyramine-C18:0	Humans	TRUE	C18:0	Long
+Tyramine-C18:0	Rodents	FALSE	C18:0	Long
+Tyramine-C18:0	Microbes	FALSE	C18:0	Long
+Tyramine-C18:0	Foods	TRUE	C18:0	Long
+Tyramine-C18:0	Plants	TRUE	C18:0	Long
+Tyrosine-C18:0	Humans	TRUE	C18:0	Long
+Tyrosine-C18:0	Rodents	TRUE	C18:0	Long
+Tyrosine-C18:0	Microbes	FALSE	C18:0	Long
+Tyrosine-C18:0	Foods	FALSE	C18:0	Long
+Tyrosine-C18:0	Plants	FALSE	C18:0	Long
+Valine-C18:0	Humans	TRUE	C18:0	Long
+Valine-C18:0	Rodents	TRUE	C18:0	Long
+Valine-C18:0	Microbes	FALSE	C18:0	Long
+Valine-C18:0	Foods	FALSE	C18:0	Long
+Valine-C18:0	Plants	FALSE	C18:0	Long
+2-aminovaleric acid-C18:1	Humans	TRUE	C18:1	Long
+2-aminovaleric acid-C18:1	Rodents	TRUE	C18:1	Long
+2-aminovaleric acid-C18:1	Microbes	FALSE	C18:1	Long
+2-aminovaleric acid-C18:1	Foods	FALSE	C18:1	Long
+2-aminovaleric acid-C18:1	Plants	FALSE	C18:1	Long
+2-phenethylamine-C18:1	Humans	TRUE	C18:1	Long
+2-phenethylamine-C18:1	Rodents	TRUE	C18:1	Long
+2-phenethylamine-C18:1	Microbes	FALSE	C18:1	Long
+2-phenethylamine-C18:1	Foods	TRUE	C18:1	Long
+2-phenethylamine-C18:1	Plants	FALSE	C18:1	Long
+Alanine/Sarcosine-C18:1	Humans	TRUE	C18:1	Long
+Alanine/Sarcosine-C18:1	Rodents	TRUE	C18:1	Long
+Alanine/Sarcosine-C18:1	Microbes	TRUE	C18:1	Long
+Alanine/Sarcosine-C18:1	Foods	FALSE	C18:1	Long
+Alanine/Sarcosine-C18:1	Plants	FALSE	C18:1	Long
+Amylamine-C18:1	Humans	TRUE	C18:1	Long
+Amylamine-C18:1	Rodents	TRUE	C18:1	Long
+Amylamine-C18:1	Microbes	FALSE	C18:1	Long
+Amylamine-C18:1	Foods	TRUE	C18:1	Long
+Amylamine-C18:1	Plants	TRUE	C18:1	Long
+Arginine-C18:1	Humans	TRUE	C18:1	Long
+Arginine-C18:1	Rodents	TRUE	C18:1	Long
+Arginine-C18:1	Microbes	TRUE	C18:1	Long
+Arginine-C18:1	Foods	TRUE	C18:1	Long
+Arginine-C18:1	Plants	TRUE	C18:1	Long
+Asparagine-C18:1	Humans	FALSE	C18:1	Long
+Asparagine-C18:1	Rodents	TRUE	C18:1	Long
+Asparagine-C18:1	Microbes	FALSE	C18:1	Long
+Asparagine-C18:1	Foods	TRUE	C18:1	Long
+Asparagine-C18:1	Plants	TRUE	C18:1	Long
+Aspartic acid-C18:1	Humans	TRUE	C18:1	Long
+Aspartic acid-C18:1	Rodents	TRUE	C18:1	Long
+Aspartic acid-C18:1	Microbes	FALSE	C18:1	Long
+Aspartic acid-C18:1	Foods	FALSE	C18:1	Long
+Aspartic acid-C18:1	Plants	FALSE	C18:1	Long
+Citrulline-C18:1	Humans	TRUE	C18:1	Long
+Citrulline-C18:1	Rodents	TRUE	C18:1	Long
+Citrulline-C18:1	Microbes	FALSE	C18:1	Long
+Citrulline-C18:1	Foods	TRUE	C18:1	Long
+Citrulline-C18:1	Plants	FALSE	C18:1	Long
+GABA-C18:1	Humans	TRUE	C18:1	Long
+GABA-C18:1	Rodents	FALSE	C18:1	Long
+GABA-C18:1	Microbes	TRUE	C18:1	Long
+GABA-C18:1	Foods	TRUE	C18:1	Long
+GABA-C18:1	Plants	FALSE	C18:1	Long
+Glutamic acid-C18:1	Humans	TRUE	C18:1	Long
+Glutamic acid-C18:1	Rodents	TRUE	C18:1	Long
+Glutamic acid-C18:1	Microbes	TRUE	C18:1	Long
+Glutamic acid-C18:1	Foods	FALSE	C18:1	Long
+Glutamic acid-C18:1	Plants	TRUE	C18:1	Long
+Glutamine-C18:1	Humans	TRUE	C18:1	Long
+Glutamine-C18:1	Rodents	TRUE	C18:1	Long
+Glutamine-C18:1	Microbes	TRUE	C18:1	Long
+Glutamine-C18:1	Foods	TRUE	C18:1	Long
+Glutamine-C18:1	Plants	FALSE	C18:1	Long
+Glycine-C18:1	Humans	TRUE	C18:1	Long
+Glycine-C18:1	Rodents	TRUE	C18:1	Long
+Glycine-C18:1	Microbes	TRUE	C18:1	Long
+Glycine-C18:1	Foods	TRUE	C18:1	Long
+Glycine-C18:1	Plants	FALSE	C18:1	Long
+Histamine-C18:1	Humans	TRUE	C18:1	Long
+Histamine-C18:1	Rodents	FALSE	C18:1	Long
+Histamine-C18:1	Microbes	FALSE	C18:1	Long
+Histamine-C18:1	Foods	FALSE	C18:1	Long
+Histamine-C18:1	Plants	FALSE	C18:1	Long
+Histidine-C18:1	Humans	TRUE	C18:1	Long
+Histidine-C18:1	Rodents	TRUE	C18:1	Long
+Histidine-C18:1	Microbes	FALSE	C18:1	Long
+Histidine-C18:1	Foods	TRUE	C18:1	Long
+Histidine-C18:1	Plants	FALSE	C18:1	Long
+Leucine-C18:1	Humans	TRUE	C18:1	Long
+Leucine-C18:1	Rodents	TRUE	C18:1	Long
+Leucine-C18:1	Microbes	TRUE	C18:1	Long
+Leucine-C18:1	Foods	TRUE	C18:1	Long
+Leucine-C18:1	Plants	FALSE	C18:1	Long
+Lysine-C18:1	Humans	TRUE	C18:1	Long
+Lysine-C18:1	Rodents	TRUE	C18:1	Long
+Lysine-C18:1	Microbes	TRUE	C18:1	Long
+Lysine-C18:1	Foods	TRUE	C18:1	Long
+Lysine-C18:1	Plants	FALSE	C18:1	Long
+Methionine-C18:1	Humans	TRUE	C18:1	Long
+Methionine-C18:1	Rodents	TRUE	C18:1	Long
+Methionine-C18:1	Microbes	TRUE	C18:1	Long
+Methionine-C18:1	Foods	TRUE	C18:1	Long
+Methionine-C18:1	Plants	FALSE	C18:1	Long
+N-acetylcadaverine-C18:1	Humans	TRUE	C18:1	Long
+N-acetylcadaverine-C18:1	Rodents	TRUE	C18:1	Long
+N-acetylcadaverine-C18:1	Microbes	FALSE	C18:1	Long
+N-acetylcadaverine-C18:1	Foods	FALSE	C18:1	Long
+N-acetylcadaverine-C18:1	Plants	FALSE	C18:1	Long
+Phenylalanine-C18:1	Humans	TRUE	C18:1	Long
+Phenylalanine-C18:1	Rodents	TRUE	C18:1	Long
+Phenylalanine-C18:1	Microbes	TRUE	C18:1	Long
+Phenylalanine-C18:1	Foods	TRUE	C18:1	Long
+Phenylalanine-C18:1	Plants	FALSE	C18:1	Long
+Putrescine-C18:1	Humans	TRUE	C18:1	Long
+Putrescine-C18:1	Rodents	TRUE	C18:1	Long
+Putrescine-C18:1	Microbes	TRUE	C18:1	Long
+Putrescine-C18:1	Foods	TRUE	C18:1	Long
+Putrescine-C18:1	Plants	FALSE	C18:1	Long
+Serine-C18:1	Humans	TRUE	C18:1	Long
+Serine-C18:1	Rodents	TRUE	C18:1	Long
+Serine-C18:1	Microbes	TRUE	C18:1	Long
+Serine-C18:1	Foods	FALSE	C18:1	Long
+Serine-C18:1	Plants	FALSE	C18:1	Long
+Serotonin-C18:1	Humans	TRUE	C18:1	Long
+Serotonin-C18:1	Rodents	FALSE	C18:1	Long
+Serotonin-C18:1	Microbes	FALSE	C18:1	Long
+Serotonin-C18:1	Foods	TRUE	C18:1	Long
+Serotonin-C18:1	Plants	TRUE	C18:1	Long
+Spermidine-C18:1	Humans	FALSE	C18:1	Long
+Spermidine-C18:1	Rodents	TRUE	C18:1	Long
+Spermidine-C18:1	Microbes	FALSE	C18:1	Long
+Spermidine-C18:1	Foods	FALSE	C18:1	Long
+Spermidine-C18:1	Plants	FALSE	C18:1	Long
+Taurine-C18:1	Humans	TRUE	C18:1	Long
+Taurine-C18:1	Rodents	TRUE	C18:1	Long
+Taurine-C18:1	Microbes	TRUE	C18:1	Long
+Taurine-C18:1	Foods	TRUE	C18:1	Long
+Taurine-C18:1	Plants	FALSE	C18:1	Long
+Threonine/homoserine-C18:1	Humans	TRUE	C18:1	Long
+Threonine/homoserine-C18:1	Rodents	TRUE	C18:1	Long
+Threonine/homoserine-C18:1	Microbes	FALSE	C18:1	Long
+Threonine/homoserine-C18:1	Foods	FALSE	C18:1	Long
+Threonine/homoserine-C18:1	Plants	FALSE	C18:1	Long
+Tryptamine-C18:1	Humans	TRUE	C18:1	Long
+Tryptamine-C18:1	Rodents	FALSE	C18:1	Long
+Tryptamine-C18:1	Microbes	TRUE	C18:1	Long
+Tryptamine-C18:1	Foods	TRUE	C18:1	Long
+Tryptamine-C18:1	Plants	FALSE	C18:1	Long
+Tryptophan-C18:1	Humans	TRUE	C18:1	Long
+Tryptophan-C18:1	Rodents	TRUE	C18:1	Long
+Tryptophan-C18:1	Microbes	TRUE	C18:1	Long
+Tryptophan-C18:1	Foods	TRUE	C18:1	Long
+Tryptophan-C18:1	Plants	FALSE	C18:1	Long
+Tyramine-C18:1	Humans	TRUE	C18:1	Long
+Tyramine-C18:1	Rodents	FALSE	C18:1	Long
+Tyramine-C18:1	Microbes	TRUE	C18:1	Long
+Tyramine-C18:1	Foods	TRUE	C18:1	Long
+Tyramine-C18:1	Plants	TRUE	C18:1	Long
+Tyrosine-C18:1	Humans	TRUE	C18:1	Long
+Tyrosine-C18:1	Rodents	TRUE	C18:1	Long
+Tyrosine-C18:1	Microbes	TRUE	C18:1	Long
+Tyrosine-C18:1	Foods	TRUE	C18:1	Long
+Tyrosine-C18:1	Plants	FALSE	C18:1	Long
+Valine-C18:1	Humans	TRUE	C18:1	Long
+Valine-C18:1	Rodents	TRUE	C18:1	Long
+Valine-C18:1	Microbes	TRUE	C18:1	Long
+Valine-C18:1	Foods	TRUE	C18:1	Long
+Valine-C18:1	Plants	FALSE	C18:1	Long
+2-aminovaleric acid-C18:2	Humans	TRUE	C18:2	Long
+2-aminovaleric acid-C18:2	Rodents	TRUE	C18:2	Long
+2-aminovaleric acid-C18:2	Microbes	TRUE	C18:2	Long
+2-aminovaleric acid-C18:2	Foods	FALSE	C18:2	Long
+2-aminovaleric acid-C18:2	Plants	FALSE	C18:2	Long
+2-phenethylamine-C18:2	Humans	TRUE	C18:2	Long
+2-phenethylamine-C18:2	Rodents	TRUE	C18:2	Long
+2-phenethylamine-C18:2	Microbes	TRUE	C18:2	Long
+2-phenethylamine-C18:2	Foods	TRUE	C18:2	Long
+2-phenethylamine-C18:2	Plants	TRUE	C18:2	Long
+Alanine/Sarcosine-C18:2	Humans	TRUE	C18:2	Long
+Alanine/Sarcosine-C18:2	Rodents	TRUE	C18:2	Long
+Alanine/Sarcosine-C18:2	Microbes	TRUE	C18:2	Long
+Alanine/Sarcosine-C18:2	Foods	FALSE	C18:2	Long
+Alanine/Sarcosine-C18:2	Plants	FALSE	C18:2	Long
+Amylamine-C18:2	Humans	TRUE	C18:2	Long
+Amylamine-C18:2	Rodents	TRUE	C18:2	Long
+Amylamine-C18:2	Microbes	FALSE	C18:2	Long
+Amylamine-C18:2	Foods	TRUE	C18:2	Long
+Amylamine-C18:2	Plants	TRUE	C18:2	Long
+Arginine-C18:2	Humans	TRUE	C18:2	Long
+Arginine-C18:2	Rodents	TRUE	C18:2	Long
+Arginine-C18:2	Microbes	TRUE	C18:2	Long
+Arginine-C18:2	Foods	TRUE	C18:2	Long
+Arginine-C18:2	Plants	FALSE	C18:2	Long
+Asparagine-C18:2	Humans	FALSE	C18:2	Long
+Asparagine-C18:2	Rodents	TRUE	C18:2	Long
+Asparagine-C18:2	Microbes	TRUE	C18:2	Long
+Asparagine-C18:2	Foods	TRUE	C18:2	Long
+Asparagine-C18:2	Plants	TRUE	C18:2	Long
+Aspartic acid-C18:2	Humans	TRUE	C18:2	Long
+Aspartic acid-C18:2	Rodents	TRUE	C18:2	Long
+Aspartic acid-C18:2	Microbes	FALSE	C18:2	Long
+Aspartic acid-C18:2	Foods	FALSE	C18:2	Long
+Aspartic acid-C18:2	Plants	TRUE	C18:2	Long
+Citrulline-C18:2	Humans	TRUE	C18:2	Long
+Citrulline-C18:2	Rodents	TRUE	C18:2	Long
+Citrulline-C18:2	Microbes	TRUE	C18:2	Long
+Citrulline-C18:2	Foods	TRUE	C18:2	Long
+Citrulline-C18:2	Plants	FALSE	C18:2	Long
+GABA-C18:2	Humans	TRUE	C18:2	Long
+GABA-C18:2	Rodents	TRUE	C18:2	Long
+GABA-C18:2	Microbes	TRUE	C18:2	Long
+GABA-C18:2	Foods	TRUE	C18:2	Long
+GABA-C18:2	Plants	FALSE	C18:2	Long
+Glutamine-C18:2	Humans	TRUE	C18:2	Long
+Glutamine-C18:2	Rodents	TRUE	C18:2	Long
+Glutamine-C18:2	Microbes	TRUE	C18:2	Long
+Glutamine-C18:2	Foods	TRUE	C18:2	Long
+Glutamine-C18:2	Plants	TRUE	C18:2	Long
+Histidine-C18:2	Humans	TRUE	C18:2	Long
+Histidine-C18:2	Rodents	TRUE	C18:2	Long
+Histidine-C18:2	Microbes	TRUE	C18:2	Long
+Histidine-C18:2	Foods	TRUE	C18:2	Long
+Histidine-C18:2	Plants	TRUE	C18:2	Long
+Leucine-C18:2	Humans	TRUE	C18:2	Long
+Leucine-C18:2	Rodents	TRUE	C18:2	Long
+Leucine-C18:2	Microbes	TRUE	C18:2	Long
+Leucine-C18:2	Foods	TRUE	C18:2	Long
+Leucine-C18:2	Plants	FALSE	C18:2	Long
+Lysine-C18:2	Humans	TRUE	C18:2	Long
+Lysine-C18:2	Rodents	TRUE	C18:2	Long
+Lysine-C18:2	Microbes	TRUE	C18:2	Long
+Lysine-C18:2	Foods	TRUE	C18:2	Long
+Lysine-C18:2	Plants	FALSE	C18:2	Long
+Methionine-C18:2	Humans	TRUE	C18:2	Long
+Methionine-C18:2	Rodents	TRUE	C18:2	Long
+Methionine-C18:2	Microbes	TRUE	C18:2	Long
+Methionine-C18:2	Foods	TRUE	C18:2	Long
+Methionine-C18:2	Plants	FALSE	C18:2	Long
+Phenylalanine-C18:2	Humans	TRUE	C18:2	Long
+Phenylalanine-C18:2	Rodents	TRUE	C18:2	Long
+Phenylalanine-C18:2	Microbes	TRUE	C18:2	Long
+Phenylalanine-C18:2	Foods	TRUE	C18:2	Long
+Phenylalanine-C18:2	Plants	FALSE	C18:2	Long
+Putrescine-C18:2	Humans	TRUE	C18:2	Long
+Putrescine-C18:2	Rodents	FALSE	C18:2	Long
+Putrescine-C18:2	Microbes	FALSE	C18:2	Long
+Putrescine-C18:2	Foods	TRUE	C18:2	Long
+Putrescine-C18:2	Plants	FALSE	C18:2	Long
+Serine-C18:2	Humans	TRUE	C18:2	Long
+Serine-C18:2	Rodents	TRUE	C18:2	Long
+Serine-C18:2	Microbes	TRUE	C18:2	Long
+Serine-C18:2	Foods	TRUE	C18:2	Long
+Serine-C18:2	Plants	FALSE	C18:2	Long
+Serotonin-C18:2	Humans	FALSE	C18:2	Long
+Serotonin-C18:2	Rodents	FALSE	C18:2	Long
+Serotonin-C18:2	Microbes	FALSE	C18:2	Long
+Serotonin-C18:2	Foods	TRUE	C18:2	Long
+Serotonin-C18:2	Plants	TRUE	C18:2	Long
+Spermidine-C18:2	Humans	FALSE	C18:2	Long
+Spermidine-C18:2	Rodents	TRUE	C18:2	Long
+Spermidine-C18:2	Microbes	FALSE	C18:2	Long
+Spermidine-C18:2	Foods	FALSE	C18:2	Long
+Spermidine-C18:2	Plants	FALSE	C18:2	Long
+Taurine-C18:2	Humans	TRUE	C18:2	Long
+Taurine-C18:2	Rodents	TRUE	C18:2	Long
+Taurine-C18:2	Microbes	TRUE	C18:2	Long
+Taurine-C18:2	Foods	TRUE	C18:2	Long
+Taurine-C18:2	Plants	FALSE	C18:2	Long
+Threonine/homoserine-C18:2	Humans	TRUE	C18:2	Long
+Threonine/homoserine-C18:2	Rodents	TRUE	C18:2	Long
+Threonine/homoserine-C18:2	Microbes	TRUE	C18:2	Long
+Threonine/homoserine-C18:2	Foods	FALSE	C18:2	Long
+Threonine/homoserine-C18:2	Plants	TRUE	C18:2	Long
+Tryptamine-C18:2	Humans	TRUE	C18:2	Long
+Tryptamine-C18:2	Rodents	FALSE	C18:2	Long
+Tryptamine-C18:2	Microbes	FALSE	C18:2	Long
+Tryptamine-C18:2	Foods	FALSE	C18:2	Long
+Tryptamine-C18:2	Plants	FALSE	C18:2	Long
+Tryptophan-C18:2	Humans	TRUE	C18:2	Long
+Tryptophan-C18:2	Rodents	TRUE	C18:2	Long
+Tryptophan-C18:2	Microbes	TRUE	C18:2	Long
+Tryptophan-C18:2	Foods	TRUE	C18:2	Long
+Tryptophan-C18:2	Plants	TRUE	C18:2	Long
+Tyramine-C18:2	Humans	TRUE	C18:2	Long
+Tyramine-C18:2	Rodents	TRUE	C18:2	Long
+Tyramine-C18:2	Microbes	TRUE	C18:2	Long
+Tyramine-C18:2	Foods	TRUE	C18:2	Long
+Tyramine-C18:2	Plants	TRUE	C18:2	Long
+Tyrosine-C18:2	Humans	TRUE	C18:2	Long
+Tyrosine-C18:2	Rodents	TRUE	C18:2	Long
+Tyrosine-C18:2	Microbes	TRUE	C18:2	Long
+Tyrosine-C18:2	Foods	TRUE	C18:2	Long
+Tyrosine-C18:2	Plants	FALSE	C18:2	Long
+Valine-C18:2	Humans	TRUE	C18:2	Long
+Valine-C18:2	Rodents	TRUE	C18:2	Long
+Valine-C18:2	Microbes	TRUE	C18:2	Long
+Valine-C18:2	Foods	TRUE	C18:2	Long
+Valine-C18:2	Plants	FALSE	C18:2	Long
+2-aminovaleric acid-C18:3	Humans	TRUE	C18:3	Long
+2-aminovaleric acid-C18:3	Rodents	FALSE	C18:3	Long
+2-aminovaleric acid-C18:3	Microbes	FALSE	C18:3	Long
+2-aminovaleric acid-C18:3	Foods	FALSE	C18:3	Long
+2-aminovaleric acid-C18:3	Plants	TRUE	C18:3	Long
+2-phenethylamine-C18:3	Humans	FALSE	C18:3	Long
+2-phenethylamine-C18:3	Rodents	FALSE	C18:3	Long
+2-phenethylamine-C18:3	Microbes	TRUE	C18:3	Long
+2-phenethylamine-C18:3	Foods	FALSE	C18:3	Long
+2-phenethylamine-C18:3	Plants	TRUE	C18:3	Long
+Arginine-C18:3	Humans	FALSE	C18:3	Long
+Arginine-C18:3	Rodents	TRUE	C18:3	Long
+Arginine-C18:3	Microbes	FALSE	C18:3	Long
+Arginine-C18:3	Foods	TRUE	C18:3	Long
+Arginine-C18:3	Plants	TRUE	C18:3	Long
+Asparagine-C18:3	Humans	FALSE	C18:3	Long
+Asparagine-C18:3	Rodents	FALSE	C18:3	Long
+Asparagine-C18:3	Microbes	FALSE	C18:3	Long
+Asparagine-C18:3	Foods	TRUE	C18:3	Long
+Asparagine-C18:3	Plants	TRUE	C18:3	Long
+GABA-C18:3	Humans	FALSE	C18:3	Long
+GABA-C18:3	Rodents	FALSE	C18:3	Long
+GABA-C18:3	Microbes	TRUE	C18:3	Long
+GABA-C18:3	Foods	TRUE	C18:3	Long
+GABA-C18:3	Plants	TRUE	C18:3	Long
+Histidine-C18:3	Humans	FALSE	C18:3	Long
+Histidine-C18:3	Rodents	TRUE	C18:3	Long
+Histidine-C18:3	Microbes	FALSE	C18:3	Long
+Histidine-C18:3	Foods	FALSE	C18:3	Long
+Histidine-C18:3	Plants	FALSE	C18:3	Long
+Leucine-C18:3	Humans	TRUE	C18:3	Long
+Leucine-C18:3	Rodents	TRUE	C18:3	Long
+Leucine-C18:3	Microbes	TRUE	C18:3	Long
+Leucine-C18:3	Foods	TRUE	C18:3	Long
+Leucine-C18:3	Plants	TRUE	C18:3	Long
+Lysine-C18:3	Humans	FALSE	C18:3	Long
+Lysine-C18:3	Rodents	TRUE	C18:3	Long
+Lysine-C18:3	Microbes	FALSE	C18:3	Long
+Lysine-C18:3	Foods	TRUE	C18:3	Long
+Lysine-C18:3	Plants	FALSE	C18:3	Long
+Methionine-C18:3	Humans	FALSE	C18:3	Long
+Methionine-C18:3	Rodents	TRUE	C18:3	Long
+Methionine-C18:3	Microbes	FALSE	C18:3	Long
+Methionine-C18:3	Foods	TRUE	C18:3	Long
+Methionine-C18:3	Plants	FALSE	C18:3	Long
+Phenylalanine-C18:3	Humans	TRUE	C18:3	Long
+Phenylalanine-C18:3	Rodents	TRUE	C18:3	Long
+Phenylalanine-C18:3	Microbes	FALSE	C18:3	Long
+Phenylalanine-C18:3	Foods	TRUE	C18:3	Long
+Phenylalanine-C18:3	Plants	TRUE	C18:3	Long
+Taurine-C18:3	Humans	FALSE	C18:3	Long
+Taurine-C18:3	Rodents	TRUE	C18:3	Long
+Taurine-C18:3	Microbes	TRUE	C18:3	Long
+Taurine-C18:3	Foods	TRUE	C18:3	Long
+Taurine-C18:3	Plants	FALSE	C18:3	Long
+Threonine/homoserine-C18:3	Humans	FALSE	C18:3	Long
+Threonine/homoserine-C18:3	Rodents	FALSE	C18:3	Long
+Threonine/homoserine-C18:3	Microbes	FALSE	C18:3	Long
+Threonine/homoserine-C18:3	Foods	FALSE	C18:3	Long
+Threonine/homoserine-C18:3	Plants	TRUE	C18:3	Long
+Tryptophan-C18:3	Humans	TRUE	C18:3	Long
+Tryptophan-C18:3	Rodents	TRUE	C18:3	Long
+Tryptophan-C18:3	Microbes	FALSE	C18:3	Long
+Tryptophan-C18:3	Foods	TRUE	C18:3	Long
+Tryptophan-C18:3	Plants	TRUE	C18:3	Long
+Tyramine-C18:3	Humans	TRUE	C18:3	Long
+Tyramine-C18:3	Rodents	FALSE	C18:3	Long
+Tyramine-C18:3	Microbes	FALSE	C18:3	Long
+Tyramine-C18:3	Foods	FALSE	C18:3	Long
+Tyramine-C18:3	Plants	TRUE	C18:3	Long
+Tyrosine-C18:3	Humans	TRUE	C18:3	Long
+Tyrosine-C18:3	Rodents	TRUE	C18:3	Long
+Tyrosine-C18:3	Microbes	FALSE	C18:3	Long
+Tyrosine-C18:3	Foods	TRUE	C18:3	Long
+Tyrosine-C18:3	Plants	TRUE	C18:3	Long
+Valine-C18:3	Humans	TRUE	C18:3	Long
+Valine-C18:3	Rodents	FALSE	C18:3	Long
+Valine-C18:3	Microbes	FALSE	C18:3	Long
+Valine-C18:3	Foods	TRUE	C18:3	Long
+Valine-C18:3	Plants	TRUE	C18:3	Long
+Leucine-C18:4	Humans	FALSE	C18:4	Long
+Leucine-C18:4	Rodents	TRUE	C18:4	Long
+Leucine-C18:4	Microbes	FALSE	C18:4	Long
+Leucine-C18:4	Foods	FALSE	C18:4	Long
+Leucine-C18:4	Plants	TRUE	C18:4	Long
+Tyramine-C18:4	Humans	FALSE	C18:4	Long
+Tyramine-C18:4	Rodents	FALSE	C18:4	Long
+Tyramine-C18:4	Microbes	FALSE	C18:4	Long
+Tyramine-C18:4	Foods	TRUE	C18:4	Long
+Tyramine-C18:4	Plants	TRUE	C18:4	Long
+Tryptamine-C19:0	Humans	FALSE	C19:0	Long
+Tryptamine-C19:0	Rodents	TRUE	C19:0	Long
+Tryptamine-C19:0	Microbes	FALSE	C19:0	Long
+Tryptamine-C19:0	Foods	FALSE	C19:0	Long
+Tryptamine-C19:0	Plants	FALSE	C19:0	Long
+2-phenethylamine-C19:1	Humans	FALSE	C19:1	Long
+2-phenethylamine-C19:1	Rodents	FALSE	C19:1	Long
+2-phenethylamine-C19:1	Microbes	TRUE	C19:1	Long
+2-phenethylamine-C19:1	Foods	FALSE	C19:1	Long
+2-phenethylamine-C19:1	Plants	FALSE	C19:1	Long
+Alanine/Sarcosine-C19:1	Humans	FALSE	C19:1	Long
+Alanine/Sarcosine-C19:1	Rodents	FALSE	C19:1	Long
+Alanine/Sarcosine-C19:1	Microbes	TRUE	C19:1	Long
+Alanine/Sarcosine-C19:1	Foods	FALSE	C19:1	Long
+Alanine/Sarcosine-C19:1	Plants	FALSE	C19:1	Long
+GABA-C19:1	Humans	TRUE	C19:1	Long
+GABA-C19:1	Rodents	FALSE	C19:1	Long
+GABA-C19:1	Microbes	FALSE	C19:1	Long
+GABA-C19:1	Foods	FALSE	C19:1	Long
+GABA-C19:1	Plants	FALSE	C19:1	Long
+Glutamic acid-C19:1	Humans	TRUE	C19:1	Long
+Glutamic acid-C19:1	Rodents	FALSE	C19:1	Long
+Glutamic acid-C19:1	Microbes	FALSE	C19:1	Long
+Glutamic acid-C19:1	Foods	FALSE	C19:1	Long
+Glutamic acid-C19:1	Plants	FALSE	C19:1	Long
+Leucine-C19:1	Humans	TRUE	C19:1	Long
+Leucine-C19:1	Rodents	FALSE	C19:1	Long
+Leucine-C19:1	Microbes	TRUE	C19:1	Long
+Leucine-C19:1	Foods	FALSE	C19:1	Long
+Leucine-C19:1	Plants	FALSE	C19:1	Long
+Phenylalanine-C19:1	Humans	TRUE	C19:1	Long
+Phenylalanine-C19:1	Rodents	TRUE	C19:1	Long
+Phenylalanine-C19:1	Microbes	TRUE	C19:1	Long
+Phenylalanine-C19:1	Foods	FALSE	C19:1	Long
+Phenylalanine-C19:1	Plants	FALSE	C19:1	Long
+Glutamic acid-C19:2	Humans	TRUE	C19:2	Long
+Glutamic acid-C19:2	Rodents	FALSE	C19:2	Long
+Glutamic acid-C19:2	Microbes	FALSE	C19:2	Long
+Glutamic acid-C19:2	Foods	FALSE	C19:2	Long
+Glutamic acid-C19:2	Plants	FALSE	C19:2	Long
+2-aminovaleric acid-C2:0	Humans	TRUE	C2:0	Short
+2-aminovaleric acid-C2:0	Rodents	TRUE	C2:0	Short
+2-aminovaleric acid-C2:0	Microbes	TRUE	C2:0	Short
+2-aminovaleric acid-C2:0	Foods	FALSE	C2:0	Short
+2-aminovaleric acid-C2:0	Plants	FALSE	C2:0	Short
+2-phenethylamine-C2:0	Humans	TRUE	C2:0	Short
+2-phenethylamine-C2:0	Rodents	FALSE	C2:0	Short
+2-phenethylamine-C2:0	Microbes	TRUE	C2:0	Short
+2-phenethylamine-C2:0	Foods	TRUE	C2:0	Short
+2-phenethylamine-C2:0	Plants	TRUE	C2:0	Short
+3-hydroxykynurenine-C2:0	Humans	FALSE	C2:0	Short
+3-hydroxykynurenine-C2:0	Rodents	TRUE	C2:0	Short
+3-hydroxykynurenine-C2:0	Microbes	FALSE	C2:0	Short
+3-hydroxykynurenine-C2:0	Foods	FALSE	C2:0	Short
+3-hydroxykynurenine-C2:0	Plants	FALSE	C2:0	Short
+3-methoxytyramine-C2:0	Humans	FALSE	C2:0	Short
+3-methoxytyramine-C2:0	Rodents	FALSE	C2:0	Short
+3-methoxytyramine-C2:0	Microbes	TRUE	C2:0	Short
+3-methoxytyramine-C2:0	Foods	TRUE	C2:0	Short
+3-methoxytyramine-C2:0	Plants	TRUE	C2:0	Short
+3-methylhistidine-C2:0	Humans	TRUE	C2:0	Short
+3-methylhistidine-C2:0	Rodents	TRUE	C2:0	Short
+3-methylhistidine-C2:0	Microbes	FALSE	C2:0	Short
+3-methylhistidine-C2:0	Foods	FALSE	C2:0	Short
+3-methylhistidine-C2:0	Plants	FALSE	C2:0	Short
+5-aminovaleric acid-C2:0	Humans	FALSE	C2:0	Short
+5-aminovaleric acid-C2:0	Rodents	FALSE	C2:0	Short
+5-aminovaleric acid-C2:0	Microbes	FALSE	C2:0	Short
+5-aminovaleric acid-C2:0	Foods	FALSE	C2:0	Short
+5-aminovaleric acid-C2:0	Plants	TRUE	C2:0	Short
+5-methoxytryptamine-C2:0	Humans	TRUE	C2:0	Short
+5-methoxytryptamine-C2:0	Rodents	FALSE	C2:0	Short
+5-methoxytryptamine-C2:0	Microbes	FALSE	C2:0	Short
+5-methoxytryptamine-C2:0	Foods	FALSE	C2:0	Short
+5-methoxytryptamine-C2:0	Plants	FALSE	C2:0	Short
+Aminoadipic acid-C2:0	Humans	TRUE	C2:0	Short
+Aminoadipic acid-C2:0	Rodents	TRUE	C2:0	Short
+Aminoadipic acid-C2:0	Microbes	FALSE	C2:0	Short
+Aminoadipic acid-C2:0	Foods	FALSE	C2:0	Short
+Aminoadipic acid-C2:0	Plants	TRUE	C2:0	Short
+Amylamine-C2:0	Humans	TRUE	C2:0	Short
+Amylamine-C2:0	Rodents	FALSE	C2:0	Short
+Amylamine-C2:0	Microbes	FALSE	C2:0	Short
+Amylamine-C2:0	Foods	FALSE	C2:0	Short
+Amylamine-C2:0	Plants	FALSE	C2:0	Short
+Arginine-C2:0	Humans	TRUE	C2:0	Short
+Arginine-C2:0	Rodents	TRUE	C2:0	Short
+Arginine-C2:0	Microbes	TRUE	C2:0	Short
+Arginine-C2:0	Foods	FALSE	C2:0	Short
+Arginine-C2:0	Plants	TRUE	C2:0	Short
+Aspartic acid-C2:0	Humans	TRUE	C2:0	Short
+Aspartic acid-C2:0	Rodents	TRUE	C2:0	Short
+Aspartic acid-C2:0	Microbes	FALSE	C2:0	Short
+Aspartic acid-C2:0	Foods	FALSE	C2:0	Short
+Aspartic acid-C2:0	Plants	TRUE	C2:0	Short
+Cadaverine-C2:0	Humans	TRUE	C2:0	Short
+Cadaverine-C2:0	Rodents	TRUE	C2:0	Short
+Cadaverine-C2:0	Microbes	TRUE	C2:0	Short
+Cadaverine-C2:0	Foods	FALSE	C2:0	Short
+Cadaverine-C2:0	Plants	TRUE	C2:0	Short
+Cystathionine-C2:0	Humans	FALSE	C2:0	Short
+Cystathionine-C2:0	Rodents	FALSE	C2:0	Short
+Cystathionine-C2:0	Microbes	TRUE	C2:0	Short
+Cystathionine-C2:0	Foods	FALSE	C2:0	Short
+Cystathionine-C2:0	Plants	FALSE	C2:0	Short
+Glutamic acid-C2:0	Humans	TRUE	C2:0	Short
+Glutamic acid-C2:0	Rodents	TRUE	C2:0	Short
+Glutamic acid-C2:0	Microbes	FALSE	C2:0	Short
+Glutamic acid-C2:0	Foods	FALSE	C2:0	Short
+Glutamic acid-C2:0	Plants	TRUE	C2:0	Short
+Histamine-C2:0	Humans	TRUE	C2:0	Short
+Histamine-C2:0	Rodents	TRUE	C2:0	Short
+Histamine-C2:0	Microbes	FALSE	C2:0	Short
+Histamine-C2:0	Foods	FALSE	C2:0	Short
+Histamine-C2:0	Plants	FALSE	C2:0	Short
+Histidine-C2:0	Humans	TRUE	C2:0	Short
+Histidine-C2:0	Rodents	TRUE	C2:0	Short
+Histidine-C2:0	Microbes	TRUE	C2:0	Short
+Histidine-C2:0	Foods	TRUE	C2:0	Short
+Histidine-C2:0	Plants	FALSE	C2:0	Short
+Kynurenine-C2:0	Humans	TRUE	C2:0	Short
+Kynurenine-C2:0	Rodents	TRUE	C2:0	Short
+Kynurenine-C2:0	Microbes	TRUE	C2:0	Short
+Kynurenine-C2:0	Foods	FALSE	C2:0	Short
+Kynurenine-C2:0	Plants	FALSE	C2:0	Short
+L-DOPA-C2:0	Humans	TRUE	C2:0	Short
+L-DOPA-C2:0	Rodents	FALSE	C2:0	Short
+L-DOPA-C2:0	Microbes	FALSE	C2:0	Short
+L-DOPA-C2:0	Foods	FALSE	C2:0	Short
+L-DOPA-C2:0	Plants	FALSE	C2:0	Short
+Lysine-C2:0	Humans	TRUE	C2:0	Short
+Lysine-C2:0	Rodents	TRUE	C2:0	Short
+Lysine-C2:0	Microbes	TRUE	C2:0	Short
+Lysine-C2:0	Foods	TRUE	C2:0	Short
+Lysine-C2:0	Plants	FALSE	C2:0	Short
+Methionine-C2:0	Humans	TRUE	C2:0	Short
+Methionine-C2:0	Rodents	TRUE	C2:0	Short
+Methionine-C2:0	Microbes	FALSE	C2:0	Short
+Methionine-C2:0	Foods	TRUE	C2:0	Short
+Methionine-C2:0	Plants	FALSE	C2:0	Short
+N-acetylcadaverine-C2:0	Humans	TRUE	C2:0	Short
+N-acetylcadaverine-C2:0	Rodents	TRUE	C2:0	Short
+N-acetylcadaverine-C2:0	Microbes	FALSE	C2:0	Short
+N-acetylcadaverine-C2:0	Foods	FALSE	C2:0	Short
+N-acetylcadaverine-C2:0	Plants	TRUE	C2:0	Short
+N-acetylornithine-C2:0	Humans	TRUE	C2:0	Short
+N-acetylornithine-C2:0	Rodents	TRUE	C2:0	Short
+N-acetylornithine-C2:0	Microbes	FALSE	C2:0	Short
+N-acetylornithine-C2:0	Foods	FALSE	C2:0	Short
+N-acetylornithine-C2:0	Plants	FALSE	C2:0	Short
+N-acetylputrescine-C2:0	Humans	TRUE	C2:0	Short
+N-acetylputrescine-C2:0	Rodents	TRUE	C2:0	Short
+N-acetylputrescine-C2:0	Microbes	FALSE	C2:0	Short
+N-acetylputrescine-C2:0	Foods	FALSE	C2:0	Short
+N-acetylputrescine-C2:0	Plants	TRUE	C2:0	Short
+Phenylalanine-C2:0	Humans	TRUE	C2:0	Short
+Phenylalanine-C2:0	Rodents	TRUE	C2:0	Short
+Phenylalanine-C2:0	Microbes	TRUE	C2:0	Short
+Phenylalanine-C2:0	Foods	TRUE	C2:0	Short
+Phenylalanine-C2:0	Plants	TRUE	C2:0	Short
+Putrescine-C2:0	Humans	TRUE	C2:0	Short
+Putrescine-C2:0	Rodents	TRUE	C2:0	Short
+Putrescine-C2:0	Microbes	TRUE	C2:0	Short
+Putrescine-C2:0	Foods	FALSE	C2:0	Short
+Putrescine-C2:0	Plants	FALSE	C2:0	Short
+Serine-C2:0	Humans	FALSE	C2:0	Short
+Serine-C2:0	Rodents	FALSE	C2:0	Short
+Serine-C2:0	Microbes	FALSE	C2:0	Short
+Serine-C2:0	Foods	FALSE	C2:0	Short
+Serine-C2:0	Plants	TRUE	C2:0	Short
+Serotonin-C2:0	Humans	TRUE	C2:0	Short
+Serotonin-C2:0	Rodents	TRUE	C2:0	Short
+Serotonin-C2:0	Microbes	FALSE	C2:0	Short
+Serotonin-C2:0	Foods	TRUE	C2:0	Short
+Serotonin-C2:0	Plants	TRUE	C2:0	Short
+Spermidine-C2:0	Humans	TRUE	C2:0	Short
+Spermidine-C2:0	Rodents	TRUE	C2:0	Short
+Spermidine-C2:0	Microbes	FALSE	C2:0	Short
+Spermidine-C2:0	Foods	FALSE	C2:0	Short
+Spermidine-C2:0	Plants	TRUE	C2:0	Short
+Threonine/homoserine-C2:0	Humans	TRUE	C2:0	Short
+Threonine/homoserine-C2:0	Rodents	TRUE	C2:0	Short
+Threonine/homoserine-C2:0	Microbes	TRUE	C2:0	Short
+Threonine/homoserine-C2:0	Foods	FALSE	C2:0	Short
+Threonine/homoserine-C2:0	Plants	TRUE	C2:0	Short
+Tryptamine-C2:0	Humans	TRUE	C2:0	Short
+Tryptamine-C2:0	Rodents	FALSE	C2:0	Short
+Tryptamine-C2:0	Microbes	FALSE	C2:0	Short
+Tryptamine-C2:0	Foods	FALSE	C2:0	Short
+Tryptamine-C2:0	Plants	FALSE	C2:0	Short
+Tyramine-C2:0	Humans	TRUE	C2:0	Short
+Tyramine-C2:0	Rodents	TRUE	C2:0	Short
+Tyramine-C2:0	Microbes	FALSE	C2:0	Short
+Tyramine-C2:0	Foods	TRUE	C2:0	Short
+Tyramine-C2:0	Plants	TRUE	C2:0	Short
+Tyrosine-C2:0	Humans	TRUE	C2:0	Short
+Tyrosine-C2:0	Rodents	TRUE	C2:0	Short
+Tyrosine-C2:0	Microbes	TRUE	C2:0	Short
+Tyrosine-C2:0	Foods	TRUE	C2:0	Short
+Tyrosine-C2:0	Plants	TRUE	C2:0	Short
+Valine-C2:0	Humans	TRUE	C2:0	Short
+Valine-C2:0	Rodents	TRUE	C2:0	Short
+Valine-C2:0	Microbes	TRUE	C2:0	Short
+Valine-C2:0	Foods	FALSE	C2:0	Short
+Valine-C2:0	Plants	TRUE	C2:0	Short
+2-phenethylamine-C20:0	Humans	FALSE	C20:0	Long
+2-phenethylamine-C20:0	Rodents	FALSE	C20:0	Long
+2-phenethylamine-C20:0	Microbes	FALSE	C20:0	Long
+2-phenethylamine-C20:0	Foods	TRUE	C20:0	Long
+2-phenethylamine-C20:0	Plants	FALSE	C20:0	Long
+3-methoxytyramine-C20:0	Humans	FALSE	C20:0	Long
+3-methoxytyramine-C20:0	Rodents	FALSE	C20:0	Long
+3-methoxytyramine-C20:0	Microbes	FALSE	C20:0	Long
+3-methoxytyramine-C20:0	Foods	TRUE	C20:0	Long
+3-methoxytyramine-C20:0	Plants	TRUE	C20:0	Long
+Alanine/Sarcosine-C20:0	Humans	FALSE	C20:0	Long
+Alanine/Sarcosine-C20:0	Rodents	TRUE	C20:0	Long
+Alanine/Sarcosine-C20:0	Microbes	FALSE	C20:0	Long
+Alanine/Sarcosine-C20:0	Foods	FALSE	C20:0	Long
+Alanine/Sarcosine-C20:0	Plants	FALSE	C20:0	Long
+Amylamine-C20:0	Humans	FALSE	C20:0	Long
+Amylamine-C20:0	Rodents	FALSE	C20:0	Long
+Amylamine-C20:0	Microbes	FALSE	C20:0	Long
+Amylamine-C20:0	Foods	TRUE	C20:0	Long
+Amylamine-C20:0	Plants	TRUE	C20:0	Long
+Leucine-C20:0	Humans	TRUE	C20:0	Long
+Leucine-C20:0	Rodents	FALSE	C20:0	Long
+Leucine-C20:0	Microbes	FALSE	C20:0	Long
+Leucine-C20:0	Foods	FALSE	C20:0	Long
+Leucine-C20:0	Plants	FALSE	C20:0	Long
+Methionine-C20:0	Humans	FALSE	C20:0	Long
+Methionine-C20:0	Rodents	TRUE	C20:0	Long
+Methionine-C20:0	Microbes	FALSE	C20:0	Long
+Methionine-C20:0	Foods	FALSE	C20:0	Long
+Methionine-C20:0	Plants	FALSE	C20:0	Long
+Serotonin-C20:0	Humans	TRUE	C20:0	Long
+Serotonin-C20:0	Rodents	FALSE	C20:0	Long
+Serotonin-C20:0	Microbes	TRUE	C20:0	Long
+Serotonin-C20:0	Foods	TRUE	C20:0	Long
+Serotonin-C20:0	Plants	TRUE	C20:0	Long
+Tyramine-C20:0	Humans	FALSE	C20:0	Long
+Tyramine-C20:0	Rodents	FALSE	C20:0	Long
+Tyramine-C20:0	Microbes	FALSE	C20:0	Long
+Tyramine-C20:0	Foods	FALSE	C20:0	Long
+Tyramine-C20:0	Plants	TRUE	C20:0	Long
+Leucine-C20:1	Humans	TRUE	C20:1	Long
+Leucine-C20:1	Rodents	TRUE	C20:1	Long
+Leucine-C20:1	Microbes	FALSE	C20:1	Long
+Leucine-C20:1	Foods	FALSE	C20:1	Long
+Leucine-C20:1	Plants	FALSE	C20:1	Long
+Phenylalanine-C20:1	Humans	TRUE	C20:1	Long
+Phenylalanine-C20:1	Rodents	TRUE	C20:1	Long
+Phenylalanine-C20:1	Microbes	FALSE	C20:1	Long
+Phenylalanine-C20:1	Foods	FALSE	C20:1	Long
+Phenylalanine-C20:1	Plants	FALSE	C20:1	Long
+Serotonin-C20:1	Humans	FALSE	C20:1	Long
+Serotonin-C20:1	Rodents	FALSE	C20:1	Long
+Serotonin-C20:1	Microbes	FALSE	C20:1	Long
+Serotonin-C20:1	Foods	TRUE	C20:1	Long
+Serotonin-C20:1	Plants	TRUE	C20:1	Long
+Leucine-C20:2	Humans	TRUE	C20:2	Long
+Leucine-C20:2	Rodents	TRUE	C20:2	Long
+Leucine-C20:2	Microbes	FALSE	C20:2	Long
+Leucine-C20:2	Foods	FALSE	C20:2	Long
+Leucine-C20:2	Plants	FALSE	C20:2	Long
+Phenylalanine-C20:2	Humans	TRUE	C20:2	Long
+Phenylalanine-C20:2	Rodents	TRUE	C20:2	Long
+Phenylalanine-C20:2	Microbes	FALSE	C20:2	Long
+Phenylalanine-C20:2	Foods	FALSE	C20:2	Long
+Phenylalanine-C20:2	Plants	FALSE	C20:2	Long
+Tyramine-C20:2	Humans	TRUE	C20:2	Long
+Tyramine-C20:2	Rodents	FALSE	C20:2	Long
+Tyramine-C20:2	Microbes	FALSE	C20:2	Long
+Tyramine-C20:2	Foods	FALSE	C20:2	Long
+Tyramine-C20:2	Plants	FALSE	C20:2	Long
+Arginine-C20:3	Humans	FALSE	C20:3	Long
+Arginine-C20:3	Rodents	TRUE	C20:3	Long
+Arginine-C20:3	Microbes	FALSE	C20:3	Long
+Arginine-C20:3	Foods	FALSE	C20:3	Long
+Arginine-C20:3	Plants	FALSE	C20:3	Long
+Leucine-C20:3	Humans	TRUE	C20:3	Long
+Leucine-C20:3	Rodents	TRUE	C20:3	Long
+Leucine-C20:3	Microbes	FALSE	C20:3	Long
+Leucine-C20:3	Foods	FALSE	C20:3	Long
+Leucine-C20:3	Plants	FALSE	C20:3	Long
+Methionine-C20:3	Humans	FALSE	C20:3	Long
+Methionine-C20:3	Rodents	TRUE	C20:3	Long
+Methionine-C20:3	Microbes	FALSE	C20:3	Long
+Methionine-C20:3	Foods	FALSE	C20:3	Long
+Methionine-C20:3	Plants	FALSE	C20:3	Long
+Phenylalanine-C20:3	Humans	TRUE	C20:3	Long
+Phenylalanine-C20:3	Rodents	TRUE	C20:3	Long
+Phenylalanine-C20:3	Microbes	FALSE	C20:3	Long
+Phenylalanine-C20:3	Foods	FALSE	C20:3	Long
+Phenylalanine-C20:3	Plants	FALSE	C20:3	Long
+Tyramine-C20:3	Humans	TRUE	C20:3	Long
+Tyramine-C20:3	Rodents	FALSE	C20:3	Long
+Tyramine-C20:3	Microbes	FALSE	C20:3	Long
+Tyramine-C20:3	Foods	FALSE	C20:3	Long
+Tyramine-C20:3	Plants	FALSE	C20:3	Long
+Tyrosine-C20:3	Humans	FALSE	C20:3	Long
+Tyrosine-C20:3	Rodents	TRUE	C20:3	Long
+Tyrosine-C20:3	Microbes	FALSE	C20:3	Long
+Tyrosine-C20:3	Foods	FALSE	C20:3	Long
+Tyrosine-C20:3	Plants	FALSE	C20:3	Long
+2-aminovaleric acid-C20:4	Humans	TRUE	C20:4	Long
+2-aminovaleric acid-C20:4	Rodents	TRUE	C20:4	Long
+2-aminovaleric acid-C20:4	Microbes	FALSE	C20:4	Long
+2-aminovaleric acid-C20:4	Foods	FALSE	C20:4	Long
+2-aminovaleric acid-C20:4	Plants	FALSE	C20:4	Long
+2-phenethylamine-C20:4	Humans	TRUE	C20:4	Long
+2-phenethylamine-C20:4	Rodents	FALSE	C20:4	Long
+2-phenethylamine-C20:4	Microbes	TRUE	C20:4	Long
+2-phenethylamine-C20:4	Foods	FALSE	C20:4	Long
+2-phenethylamine-C20:4	Plants	FALSE	C20:4	Long
+Arginine-C20:4	Humans	FALSE	C20:4	Long
+Arginine-C20:4	Rodents	TRUE	C20:4	Long
+Arginine-C20:4	Microbes	FALSE	C20:4	Long
+Arginine-C20:4	Foods	TRUE	C20:4	Long
+Arginine-C20:4	Plants	FALSE	C20:4	Long
+GABA-C20:4	Humans	FALSE	C20:4	Long
+GABA-C20:4	Rodents	TRUE	C20:4	Long
+GABA-C20:4	Microbes	FALSE	C20:4	Long
+GABA-C20:4	Foods	FALSE	C20:4	Long
+GABA-C20:4	Plants	FALSE	C20:4	Long
+Glutamic acid-C20:4	Humans	FALSE	C20:4	Long
+Glutamic acid-C20:4	Rodents	FALSE	C20:4	Long
+Glutamic acid-C20:4	Microbes	TRUE	C20:4	Long
+Glutamic acid-C20:4	Foods	FALSE	C20:4	Long
+Glutamic acid-C20:4	Plants	FALSE	C20:4	Long
+Glycine-C20:4	Humans	FALSE	C20:4	Long
+Glycine-C20:4	Rodents	TRUE	C20:4	Long
+Glycine-C20:4	Microbes	FALSE	C20:4	Long
+Glycine-C20:4	Foods	FALSE	C20:4	Long
+Glycine-C20:4	Plants	FALSE	C20:4	Long
+Histidine-C20:4	Humans	FALSE	C20:4	Long
+Histidine-C20:4	Rodents	TRUE	C20:4	Long
+Histidine-C20:4	Microbes	FALSE	C20:4	Long
+Histidine-C20:4	Foods	TRUE	C20:4	Long
+Histidine-C20:4	Plants	FALSE	C20:4	Long
+Leucine-C20:4	Humans	TRUE	C20:4	Long
+Leucine-C20:4	Rodents	TRUE	C20:4	Long
+Leucine-C20:4	Microbes	FALSE	C20:4	Long
+Leucine-C20:4	Foods	TRUE	C20:4	Long
+Leucine-C20:4	Plants	FALSE	C20:4	Long
+Lysine-C20:4	Humans	FALSE	C20:4	Long
+Lysine-C20:4	Rodents	TRUE	C20:4	Long
+Lysine-C20:4	Microbes	FALSE	C20:4	Long
+Lysine-C20:4	Foods	TRUE	C20:4	Long
+Lysine-C20:4	Plants	FALSE	C20:4	Long
+Methionine-C20:4	Humans	FALSE	C20:4	Long
+Methionine-C20:4	Rodents	TRUE	C20:4	Long
+Methionine-C20:4	Microbes	FALSE	C20:4	Long
+Methionine-C20:4	Foods	TRUE	C20:4	Long
+Methionine-C20:4	Plants	FALSE	C20:4	Long
+Phenylalanine-C20:4	Humans	TRUE	C20:4	Long
+Phenylalanine-C20:4	Rodents	TRUE	C20:4	Long
+Phenylalanine-C20:4	Microbes	FALSE	C20:4	Long
+Phenylalanine-C20:4	Foods	TRUE	C20:4	Long
+Phenylalanine-C20:4	Plants	FALSE	C20:4	Long
+Taurine-C20:4	Humans	FALSE	C20:4	Long
+Taurine-C20:4	Rodents	TRUE	C20:4	Long
+Taurine-C20:4	Microbes	FALSE	C20:4	Long
+Taurine-C20:4	Foods	TRUE	C20:4	Long
+Taurine-C20:4	Plants	FALSE	C20:4	Long
+Threonine/homoserine-C20:4	Humans	TRUE	C20:4	Long
+Threonine/homoserine-C20:4	Rodents	TRUE	C20:4	Long
+Threonine/homoserine-C20:4	Microbes	FALSE	C20:4	Long
+Threonine/homoserine-C20:4	Foods	FALSE	C20:4	Long
+Threonine/homoserine-C20:4	Plants	FALSE	C20:4	Long
+Tryptamine-C20:4	Humans	TRUE	C20:4	Long
+Tryptamine-C20:4	Rodents	FALSE	C20:4	Long
+Tryptamine-C20:4	Microbes	FALSE	C20:4	Long
+Tryptamine-C20:4	Foods	FALSE	C20:4	Long
+Tryptamine-C20:4	Plants	FALSE	C20:4	Long
+Tryptophan-C20:4	Humans	TRUE	C20:4	Long
+Tryptophan-C20:4	Rodents	TRUE	C20:4	Long
+Tryptophan-C20:4	Microbes	FALSE	C20:4	Long
+Tryptophan-C20:4	Foods	FALSE	C20:4	Long
+Tryptophan-C20:4	Plants	FALSE	C20:4	Long
+Tyrosine-C20:4	Humans	FALSE	C20:4	Long
+Tyrosine-C20:4	Rodents	TRUE	C20:4	Long
+Tyrosine-C20:4	Microbes	FALSE	C20:4	Long
+Tyrosine-C20:4	Foods	TRUE	C20:4	Long
+Tyrosine-C20:4	Plants	FALSE	C20:4	Long
+Glutamic acid-C21:0	Humans	TRUE	C21:0	Long
+Glutamic acid-C21:0	Rodents	FALSE	C21:0	Long
+Glutamic acid-C21:0	Microbes	FALSE	C21:0	Long
+Glutamic acid-C21:0	Foods	FALSE	C21:0	Long
+Glutamic acid-C21:0	Plants	FALSE	C21:0	Long
+Leucine-C21:0	Humans	FALSE	C21:0	Long
+Leucine-C21:0	Rodents	FALSE	C21:0	Long
+Leucine-C21:0	Microbes	TRUE	C21:0	Long
+Leucine-C21:0	Foods	FALSE	C21:0	Long
+Leucine-C21:0	Plants	FALSE	C21:0	Long
+Serotonin-C21:0	Humans	FALSE	C21:0	Long
+Serotonin-C21:0	Rodents	FALSE	C21:0	Long
+Serotonin-C21:0	Microbes	FALSE	C21:0	Long
+Serotonin-C21:0	Foods	TRUE	C21:0	Long
+Serotonin-C21:0	Plants	TRUE	C21:0	Long
+Tryptamine-C21:0	Humans	FALSE	C21:0	Long
+Tryptamine-C21:0	Rodents	FALSE	C21:0	Long
+Tryptamine-C21:0	Microbes	FALSE	C21:0	Long
+Tryptamine-C21:0	Foods	TRUE	C21:0	Long
+Tryptamine-C21:0	Plants	FALSE	C21:0	Long
+Tryptamine-C21:3	Humans	TRUE	C21:3	Long
+Tryptamine-C21:3	Rodents	FALSE	C21:3	Long
+Tryptamine-C21:3	Microbes	FALSE	C21:3	Long
+Tryptamine-C21:3	Foods	FALSE	C21:3	Long
+Tryptamine-C21:3	Plants	FALSE	C21:3	Long
+2-phenethylamine-C22:0	Humans	FALSE	C22:0	Very long
+2-phenethylamine-C22:0	Rodents	FALSE	C22:0	Very long
+2-phenethylamine-C22:0	Microbes	FALSE	C22:0	Very long
+2-phenethylamine-C22:0	Foods	TRUE	C22:0	Very long
+2-phenethylamine-C22:0	Plants	TRUE	C22:0	Very long
+3-methoxytyramine-C22:0	Humans	TRUE	C22:0	Very long
+3-methoxytyramine-C22:0	Rodents	FALSE	C22:0	Very long
+3-methoxytyramine-C22:0	Microbes	FALSE	C22:0	Very long
+3-methoxytyramine-C22:0	Foods	TRUE	C22:0	Very long
+3-methoxytyramine-C22:0	Plants	TRUE	C22:0	Very long
+Amylamine-C22:0	Humans	FALSE	C22:0	Very long
+Amylamine-C22:0	Rodents	FALSE	C22:0	Very long
+Amylamine-C22:0	Microbes	FALSE	C22:0	Very long
+Amylamine-C22:0	Foods	FALSE	C22:0	Very long
+Amylamine-C22:0	Plants	TRUE	C22:0	Very long
+GABA-C22:0	Humans	FALSE	C22:0	Very long
+GABA-C22:0	Rodents	FALSE	C22:0	Very long
+GABA-C22:0	Microbes	FALSE	C22:0	Very long
+GABA-C22:0	Foods	TRUE	C22:0	Very long
+GABA-C22:0	Plants	TRUE	C22:0	Very long
+Serotonin-C22:0	Humans	TRUE	C22:0	Very long
+Serotonin-C22:0	Rodents	FALSE	C22:0	Very long
+Serotonin-C22:0	Microbes	FALSE	C22:0	Very long
+Serotonin-C22:0	Foods	TRUE	C22:0	Very long
+Serotonin-C22:0	Plants	TRUE	C22:0	Very long
+Tryptamine-C22:0	Humans	TRUE	C22:0	Very long
+Tryptamine-C22:0	Rodents	FALSE	C22:0	Very long
+Tryptamine-C22:0	Microbes	FALSE	C22:0	Very long
+Tryptamine-C22:0	Foods	TRUE	C22:0	Very long
+Tryptamine-C22:0	Plants	TRUE	C22:0	Very long
+Tyramine-C22:0	Humans	FALSE	C22:0	Very long
+Tyramine-C22:0	Rodents	FALSE	C22:0	Very long
+Tyramine-C22:0	Microbes	FALSE	C22:0	Very long
+Tyramine-C22:0	Foods	TRUE	C22:0	Very long
+Tyramine-C22:0	Plants	TRUE	C22:0	Very long
+Leucine-C22:1	Humans	TRUE	C22:1	Very long
+Leucine-C22:1	Rodents	FALSE	C22:1	Very long
+Leucine-C22:1	Microbes	FALSE	C22:1	Very long
+Leucine-C22:1	Foods	FALSE	C22:1	Very long
+Leucine-C22:1	Plants	FALSE	C22:1	Very long
+Serotonin-C22:1	Humans	FALSE	C22:1	Very long
+Serotonin-C22:1	Rodents	FALSE	C22:1	Very long
+Serotonin-C22:1	Microbes	FALSE	C22:1	Very long
+Serotonin-C22:1	Foods	TRUE	C22:1	Very long
+Serotonin-C22:1	Plants	TRUE	C22:1	Very long
+Glutamic acid-C22:4	Humans	FALSE	C22:4	Very long
+Glutamic acid-C22:4	Rodents	TRUE	C22:4	Very long
+Glutamic acid-C22:4	Microbes	FALSE	C22:4	Very long
+Glutamic acid-C22:4	Foods	FALSE	C22:4	Very long
+Glutamic acid-C22:4	Plants	FALSE	C22:4	Very long
+Phenylalanine-C22:4	Humans	TRUE	C22:4	Very long
+Phenylalanine-C22:4	Rodents	TRUE	C22:4	Very long
+Phenylalanine-C22:4	Microbes	FALSE	C22:4	Very long
+Phenylalanine-C22:4	Foods	FALSE	C22:4	Very long
+Phenylalanine-C22:4	Plants	FALSE	C22:4	Very long
+Tyramine-C22:4	Humans	TRUE	C22:4	Very long
+Tyramine-C22:4	Rodents	FALSE	C22:4	Very long
+Tyramine-C22:4	Microbes	FALSE	C22:4	Very long
+Tyramine-C22:4	Foods	FALSE	C22:4	Very long
+Tyramine-C22:4	Plants	FALSE	C22:4	Very long
+Serotonin-C23:0	Humans	TRUE	C23:0	Very long
+Serotonin-C23:0	Rodents	FALSE	C23:0	Very long
+Serotonin-C23:0	Microbes	FALSE	C23:0	Very long
+Serotonin-C23:0	Foods	TRUE	C23:0	Very long
+Serotonin-C23:0	Plants	TRUE	C23:0	Very long
+Tryptamine-C23:0	Humans	FALSE	C23:0	Very long
+Tryptamine-C23:0	Rodents	FALSE	C23:0	Very long
+Tryptamine-C23:0	Microbes	FALSE	C23:0	Very long
+Tryptamine-C23:0	Foods	TRUE	C23:0	Very long
+Tryptamine-C23:0	Plants	TRUE	C23:0	Very long
+Tyramine-C23:0	Humans	FALSE	C23:0	Very long
+Tyramine-C23:0	Rodents	FALSE	C23:0	Very long
+Tyramine-C23:0	Microbes	FALSE	C23:0	Very long
+Tyramine-C23:0	Foods	TRUE	C23:0	Very long
+Tyramine-C23:0	Plants	TRUE	C23:0	Very long
+3-methoxytyramine-C24:0	Humans	FALSE	C24:0	Very long
+3-methoxytyramine-C24:0	Rodents	FALSE	C24:0	Very long
+3-methoxytyramine-C24:0	Microbes	FALSE	C24:0	Very long
+3-methoxytyramine-C24:0	Foods	TRUE	C24:0	Very long
+3-methoxytyramine-C24:0	Plants	TRUE	C24:0	Very long
+Dopamine-C24:0	Humans	TRUE	C24:0	Very long
+Dopamine-C24:0	Rodents	FALSE	C24:0	Very long
+Dopamine-C24:0	Microbes	FALSE	C24:0	Very long
+Dopamine-C24:0	Foods	TRUE	C24:0	Very long
+Dopamine-C24:0	Plants	TRUE	C24:0	Very long
+Serotonin-C24:0	Humans	TRUE	C24:0	Very long
+Serotonin-C24:0	Rodents	FALSE	C24:0	Very long
+Serotonin-C24:0	Microbes	FALSE	C24:0	Very long
+Serotonin-C24:0	Foods	TRUE	C24:0	Very long
+Serotonin-C24:0	Plants	TRUE	C24:0	Very long
+Tryptamine-C24:0	Humans	TRUE	C24:0	Very long
+Tryptamine-C24:0	Rodents	FALSE	C24:0	Very long
+Tryptamine-C24:0	Microbes	FALSE	C24:0	Very long
+Tryptamine-C24:0	Foods	TRUE	C24:0	Very long
+Tryptamine-C24:0	Plants	TRUE	C24:0	Very long
+Tryptophan-C24:0	Humans	FALSE	C24:0	Very long
+Tryptophan-C24:0	Rodents	FALSE	C24:0	Very long
+Tryptophan-C24:0	Microbes	FALSE	C24:0	Very long
+Tryptophan-C24:0	Foods	TRUE	C24:0	Very long
+Tryptophan-C24:0	Plants	TRUE	C24:0	Very long
+Tyramine-C24:0	Humans	TRUE	C24:0	Very long
+Tyramine-C24:0	Rodents	FALSE	C24:0	Very long
+Tyramine-C24:0	Microbes	FALSE	C24:0	Very long
+Tyramine-C24:0	Foods	TRUE	C24:0	Very long
+Tyramine-C24:0	Plants	TRUE	C24:0	Very long
+Serine-C24:1	Humans	FALSE	C24:1	Very long
+Serine-C24:1	Rodents	TRUE	C24:1	Very long
+Serine-C24:1	Microbes	TRUE	C24:1	Very long
+Serine-C24:1	Foods	FALSE	C24:1	Very long
+Serine-C24:1	Plants	FALSE	C24:1	Very long
+Serotonin-C24:1	Humans	FALSE	C24:1	Very long
+Serotonin-C24:1	Rodents	FALSE	C24:1	Very long
+Serotonin-C24:1	Microbes	FALSE	C24:1	Very long
+Serotonin-C24:1	Foods	TRUE	C24:1	Very long
+Serotonin-C24:1	Plants	TRUE	C24:1	Very long
+Dopamine-C25:0	Humans	TRUE	C25:0	Very long
+Dopamine-C25:0	Rodents	FALSE	C25:0	Very long
+Dopamine-C25:0	Microbes	FALSE	C25:0	Very long
+Dopamine-C25:0	Foods	TRUE	C25:0	Very long
+Dopamine-C25:0	Plants	TRUE	C25:0	Very long
+Serotonin-C25:0	Humans	FALSE	C25:0	Very long
+Serotonin-C25:0	Rodents	FALSE	C25:0	Very long
+Serotonin-C25:0	Microbes	FALSE	C25:0	Very long
+Serotonin-C25:0	Foods	TRUE	C25:0	Very long
+Serotonin-C25:0	Plants	TRUE	C25:0	Very long
+Tryptamine-C25:0	Humans	FALSE	C25:0	Very long
+Tryptamine-C25:0	Rodents	FALSE	C25:0	Very long
+Tryptamine-C25:0	Microbes	FALSE	C25:0	Very long
+Tryptamine-C25:0	Foods	TRUE	C25:0	Very long
+Tryptamine-C25:0	Plants	FALSE	C25:0	Very long
+Tyramine-C25:0	Humans	FALSE	C25:0	Very long
+Tyramine-C25:0	Rodents	FALSE	C25:0	Very long
+Tyramine-C25:0	Microbes	FALSE	C25:0	Very long
+Tyramine-C25:0	Foods	TRUE	C25:0	Very long
+Tyramine-C25:0	Plants	TRUE	C25:0	Very long
+Dopamine-C26:0	Humans	TRUE	C26:0	Very long
+Dopamine-C26:0	Rodents	FALSE	C26:0	Very long
+Dopamine-C26:0	Microbes	FALSE	C26:0	Very long
+Dopamine-C26:0	Foods	TRUE	C26:0	Very long
+Dopamine-C26:0	Plants	TRUE	C26:0	Very long
+Serotonin-C26:0	Humans	FALSE	C26:0	Very long
+Serotonin-C26:0	Rodents	FALSE	C26:0	Very long
+Serotonin-C26:0	Microbes	FALSE	C26:0	Very long
+Serotonin-C26:0	Foods	TRUE	C26:0	Very long
+Serotonin-C26:0	Plants	TRUE	C26:0	Very long
+Tryptamine-C26:0	Humans	FALSE	C26:0	Very long
+Tryptamine-C26:0	Rodents	FALSE	C26:0	Very long
+Tryptamine-C26:0	Microbes	FALSE	C26:0	Very long
+Tryptamine-C26:0	Foods	TRUE	C26:0	Very long
+Tryptamine-C26:0	Plants	FALSE	C26:0	Very long
+Tryptophan-C26:0	Humans	FALSE	C26:0	Very long
+Tryptophan-C26:0	Rodents	FALSE	C26:0	Very long
+Tryptophan-C26:0	Microbes	FALSE	C26:0	Very long
+Tryptophan-C26:0	Foods	TRUE	C26:0	Very long
+Tryptophan-C26:0	Plants	TRUE	C26:0	Very long
+Tyramine-C26:0	Humans	FALSE	C26:0	Very long
+Tyramine-C26:0	Rodents	FALSE	C26:0	Very long
+Tyramine-C26:0	Microbes	FALSE	C26:0	Very long
+Tyramine-C26:0	Foods	TRUE	C26:0	Very long
+Tyramine-C26:0	Plants	TRUE	C26:0	Very long
+Serotonin-C26:1	Humans	FALSE	C26:1	Very long
+Serotonin-C26:1	Rodents	FALSE	C26:1	Very long
+Serotonin-C26:1	Microbes	FALSE	C26:1	Very long
+Serotonin-C26:1	Foods	TRUE	C26:1	Very long
+Serotonin-C26:1	Plants	FALSE	C26:1	Very long
+Dopamine-C27:0	Humans	FALSE	C27:0	Very long
+Dopamine-C27:0	Rodents	FALSE	C27:0	Very long
+Dopamine-C27:0	Microbes	FALSE	C27:0	Very long
+Dopamine-C27:0	Foods	TRUE	C27:0	Very long
+Dopamine-C27:0	Plants	TRUE	C27:0	Very long
+Tyramine-C27:0	Humans	FALSE	C27:0	Very long
+Tyramine-C27:0	Rodents	FALSE	C27:0	Very long
+Tyramine-C27:0	Microbes	FALSE	C27:0	Very long
+Tyramine-C27:0	Foods	TRUE	C27:0	Very long
+Tyramine-C27:0	Plants	TRUE	C27:0	Very long
+Tyramine-C27:1	Humans	FALSE	C27:1	Very long
+Tyramine-C27:1	Rodents	FALSE	C27:1	Very long
+Tyramine-C27:1	Microbes	FALSE	C27:1	Very long
+Tyramine-C27:1	Foods	TRUE	C27:1	Very long
+Tyramine-C27:1	Plants	TRUE	C27:1	Very long
+Dopamine-C28:0	Humans	FALSE	C28:0	Very long
+Dopamine-C28:0	Rodents	FALSE	C28:0	Very long
+Dopamine-C28:0	Microbes	FALSE	C28:0	Very long
+Dopamine-C28:0	Foods	TRUE	C28:0	Very long
+Dopamine-C28:0	Plants	TRUE	C28:0	Very long
+Leucine-C28:0	Humans	FALSE	C28:0	Very long
+Leucine-C28:0	Rodents	FALSE	C28:0	Very long
+Leucine-C28:0	Microbes	FALSE	C28:0	Very long
+Leucine-C28:0	Foods	TRUE	C28:0	Very long
+Leucine-C28:0	Plants	TRUE	C28:0	Very long
+Serotonin-C28:0	Humans	FALSE	C28:0	Very long
+Serotonin-C28:0	Rodents	FALSE	C28:0	Very long
+Serotonin-C28:0	Microbes	FALSE	C28:0	Very long
+Serotonin-C28:0	Foods	TRUE	C28:0	Very long
+Serotonin-C28:0	Plants	FALSE	C28:0	Very long
+Tyramine-C28:0	Humans	FALSE	C28:0	Very long
+Tyramine-C28:0	Rodents	FALSE	C28:0	Very long
+Tyramine-C28:0	Microbes	FALSE	C28:0	Very long
+Tyramine-C28:0	Foods	FALSE	C28:0	Very long
+Tyramine-C28:0	Plants	TRUE	C28:0	Very long
+Dopamine-C28:1	Humans	FALSE	C28:1	Very long
+Dopamine-C28:1	Rodents	FALSE	C28:1	Very long
+Dopamine-C28:1	Microbes	FALSE	C28:1	Very long
+Dopamine-C28:1	Foods	TRUE	C28:1	Very long
+Dopamine-C28:1	Plants	TRUE	C28:1	Very long
+Serotonin-C28:1	Humans	FALSE	C28:1	Very long
+Serotonin-C28:1	Rodents	FALSE	C28:1	Very long
+Serotonin-C28:1	Microbes	FALSE	C28:1	Very long
+Serotonin-C28:1	Foods	TRUE	C28:1	Very long
+Serotonin-C28:1	Plants	FALSE	C28:1	Very long
+Tyramine-C28:1	Humans	FALSE	C28:1	Very long
+Tyramine-C28:1	Rodents	FALSE	C28:1	Very long
+Tyramine-C28:1	Microbes	FALSE	C28:1	Very long
+Tyramine-C28:1	Foods	TRUE	C28:1	Very long
+Tyramine-C28:1	Plants	TRUE	C28:1	Very long
+Tyramine-C28:2	Humans	FALSE	C28:2	Very long
+Tyramine-C28:2	Rodents	FALSE	C28:2	Very long
+Tyramine-C28:2	Microbes	FALSE	C28:2	Very long
+Tyramine-C28:2	Foods	TRUE	C28:2	Very long
+Tyramine-C28:2	Plants	TRUE	C28:2	Very long
+Dopamine-C29:0	Humans	FALSE	C29:0	Very long
+Dopamine-C29:0	Rodents	FALSE	C29:0	Very long
+Dopamine-C29:0	Microbes	FALSE	C29:0	Very long
+Dopamine-C29:0	Foods	TRUE	C29:0	Very long
+Dopamine-C29:0	Plants	TRUE	C29:0	Very long
+Tyramine-C29:0	Humans	FALSE	C29:0	Very long
+Tyramine-C29:0	Rodents	FALSE	C29:0	Very long
+Tyramine-C29:0	Microbes	FALSE	C29:0	Very long
+Tyramine-C29:0	Foods	TRUE	C29:0	Very long
+Tyramine-C29:0	Plants	TRUE	C29:0	Very long
+Dopamine-C29:1	Humans	FALSE	C29:1	Very long
+Dopamine-C29:1	Rodents	FALSE	C29:1	Very long
+Dopamine-C29:1	Microbes	FALSE	C29:1	Very long
+Dopamine-C29:1	Foods	TRUE	C29:1	Very long
+Dopamine-C29:1	Plants	FALSE	C29:1	Very long
+Tyramine-C29:1	Humans	FALSE	C29:1	Very long
+Tyramine-C29:1	Rodents	FALSE	C29:1	Very long
+Tyramine-C29:1	Microbes	FALSE	C29:1	Very long
+Tyramine-C29:1	Foods	TRUE	C29:1	Very long
+Tyramine-C29:1	Plants	FALSE	C29:1	Very long
+2-aminovaleric acid-C3:0	Humans	TRUE	C3:0	Short
+2-aminovaleric acid-C3:0	Rodents	FALSE	C3:0	Short
+2-aminovaleric acid-C3:0	Microbes	FALSE	C3:0	Short
+2-aminovaleric acid-C3:0	Foods	FALSE	C3:0	Short
+2-aminovaleric acid-C3:0	Plants	FALSE	C3:0	Short
+Amylamine-C3:0	Humans	FALSE	C3:0	Short
+Amylamine-C3:0	Rodents	FALSE	C3:0	Short
+Amylamine-C3:0	Microbes	TRUE	C3:0	Short
+Amylamine-C3:0	Foods	FALSE	C3:0	Short
+Amylamine-C3:0	Plants	FALSE	C3:0	Short
+Cadaverine-C3:0	Humans	TRUE	C3:0	Short
+Cadaverine-C3:0	Rodents	TRUE	C3:0	Short
+Cadaverine-C3:0	Microbes	TRUE	C3:0	Short
+Cadaverine-C3:0	Foods	FALSE	C3:0	Short
+Cadaverine-C3:0	Plants	FALSE	C3:0	Short
+Glutamic acid-C3:0	Humans	TRUE	C3:0	Short
+Glutamic acid-C3:0	Rodents	TRUE	C3:0	Short
+Glutamic acid-C3:0	Microbes	FALSE	C3:0	Short
+Glutamic acid-C3:0	Foods	FALSE	C3:0	Short
+Glutamic acid-C3:0	Plants	FALSE	C3:0	Short
+Histamine-C3:0	Humans	TRUE	C3:0	Short
+Histamine-C3:0	Rodents	TRUE	C3:0	Short
+Histamine-C3:0	Microbes	FALSE	C3:0	Short
+Histamine-C3:0	Foods	FALSE	C3:0	Short
+Histamine-C3:0	Plants	FALSE	C3:0	Short
+Leucine-C3:0	Humans	TRUE	C3:0	Short
+Leucine-C3:0	Rodents	FALSE	C3:0	Short
+Leucine-C3:0	Microbes	FALSE	C3:0	Short
+Leucine-C3:0	Foods	FALSE	C3:0	Short
+Leucine-C3:0	Plants	FALSE	C3:0	Short
+Methionine-C3:0	Humans	TRUE	C3:0	Short
+Methionine-C3:0	Rodents	FALSE	C3:0	Short
+Methionine-C3:0	Microbes	TRUE	C3:0	Short
+Methionine-C3:0	Foods	TRUE	C3:0	Short
+Methionine-C3:0	Plants	FALSE	C3:0	Short
+N-acetylcadaverine-C3:0	Humans	TRUE	C3:0	Short
+N-acetylcadaverine-C3:0	Rodents	TRUE	C3:0	Short
+N-acetylcadaverine-C3:0	Microbes	FALSE	C3:0	Short
+N-acetylcadaverine-C3:0	Foods	FALSE	C3:0	Short
+N-acetylcadaverine-C3:0	Plants	FALSE	C3:0	Short
+Phenylalanine-C3:0	Humans	TRUE	C3:0	Short
+Phenylalanine-C3:0	Rodents	TRUE	C3:0	Short
+Phenylalanine-C3:0	Microbes	FALSE	C3:0	Short
+Phenylalanine-C3:0	Foods	TRUE	C3:0	Short
+Phenylalanine-C3:0	Plants	FALSE	C3:0	Short
+Spermidine-C3:0	Humans	TRUE	C3:0	Short
+Spermidine-C3:0	Rodents	TRUE	C3:0	Short
+Spermidine-C3:0	Microbes	FALSE	C3:0	Short
+Spermidine-C3:0	Foods	FALSE	C3:0	Short
+Spermidine-C3:0	Plants	FALSE	C3:0	Short
+Threonine/homoserine-C3:0	Humans	TRUE	C3:0	Short
+Threonine/homoserine-C3:0	Rodents	TRUE	C3:0	Short
+Threonine/homoserine-C3:0	Microbes	TRUE	C3:0	Short
+Threonine/homoserine-C3:0	Foods	FALSE	C3:0	Short
+Threonine/homoserine-C3:0	Plants	FALSE	C3:0	Short
+Tryptamine-C3:0	Humans	FALSE	C3:0	Short
+Tryptamine-C3:0	Rodents	FALSE	C3:0	Short
+Tryptamine-C3:0	Microbes	TRUE	C3:0	Short
+Tryptamine-C3:0	Foods	FALSE	C3:0	Short
+Tryptamine-C3:0	Plants	FALSE	C3:0	Short
+Tryptophan-C3:0	Humans	TRUE	C3:0	Short
+Tryptophan-C3:0	Rodents	FALSE	C3:0	Short
+Tryptophan-C3:0	Microbes	TRUE	C3:0	Short
+Tryptophan-C3:0	Foods	TRUE	C3:0	Short
+Tryptophan-C3:0	Plants	FALSE	C3:0	Short
+Tyramine-C3:0	Humans	TRUE	C3:0	Short
+Tyramine-C3:0	Rodents	FALSE	C3:0	Short
+Tyramine-C3:0	Microbes	FALSE	C3:0	Short
+Tyramine-C3:0	Foods	FALSE	C3:0	Short
+Tyramine-C3:0	Plants	FALSE	C3:0	Short
+Tyrosine-C3:0	Humans	TRUE	C3:0	Short
+Tyrosine-C3:0	Rodents	FALSE	C3:0	Short
+Tyrosine-C3:0	Microbes	TRUE	C3:0	Short
+Tyrosine-C3:0	Foods	FALSE	C3:0	Short
+Tyrosine-C3:0	Plants	FALSE	C3:0	Short
+Valine-C3:0	Humans	TRUE	C3:0	Short
+Valine-C3:0	Rodents	FALSE	C3:0	Short
+Valine-C3:0	Microbes	FALSE	C3:0	Short
+Valine-C3:0	Foods	FALSE	C3:0	Short
+Valine-C3:0	Plants	FALSE	C3:0	Short
+Dopamine-C30:0	Humans	FALSE	C30:0	Very long
+Dopamine-C30:0	Rodents	FALSE	C30:0	Very long
+Dopamine-C30:0	Microbes	FALSE	C30:0	Very long
+Dopamine-C30:0	Foods	TRUE	C30:0	Very long
+Dopamine-C30:0	Plants	TRUE	C30:0	Very long
+Tyramine-C30:0	Humans	FALSE	C30:0	Very long
+Tyramine-C30:0	Rodents	FALSE	C30:0	Very long
+Tyramine-C30:0	Microbes	FALSE	C30:0	Very long
+Tyramine-C30:0	Foods	TRUE	C30:0	Very long
+Tyramine-C30:0	Plants	TRUE	C30:0	Very long
+Tyramine-C30:1	Humans	FALSE	C30:1	Very long
+Tyramine-C30:1	Rodents	FALSE	C30:1	Very long
+Tyramine-C30:1	Microbes	FALSE	C30:1	Very long
+Tyramine-C30:1	Foods	TRUE	C30:1	Very long
+Tyramine-C30:1	Plants	TRUE	C30:1	Very long
+Tyramine-C30:2	Humans	FALSE	C30:2	Very long
+Tyramine-C30:2	Rodents	FALSE	C30:2	Very long
+Tyramine-C30:2	Microbes	FALSE	C30:2	Very long
+Tyramine-C30:2	Foods	TRUE	C30:2	Very long
+Tyramine-C30:2	Plants	TRUE	C30:2	Very long
+Alanine/Sarcosine-C4:0	Humans	TRUE	C4:0	Short
+Alanine/Sarcosine-C4:0	Rodents	TRUE	C4:0	Short
+Alanine/Sarcosine-C4:0	Microbes	FALSE	C4:0	Short
+Alanine/Sarcosine-C4:0	Foods	FALSE	C4:0	Short
+Alanine/Sarcosine-C4:0	Plants	FALSE	C4:0	Short
+Amylamine-C4:0	Humans	FALSE	C4:0	Short
+Amylamine-C4:0	Rodents	TRUE	C4:0	Short
+Amylamine-C4:0	Microbes	TRUE	C4:0	Short
+Amylamine-C4:0	Foods	FALSE	C4:0	Short
+Amylamine-C4:0	Plants	FALSE	C4:0	Short
+Cadaverine-C4:0	Humans	TRUE	C4:0	Short
+Cadaverine-C4:0	Rodents	TRUE	C4:0	Short
+Cadaverine-C4:0	Microbes	FALSE	C4:0	Short
+Cadaverine-C4:0	Foods	FALSE	C4:0	Short
+Cadaverine-C4:0	Plants	FALSE	C4:0	Short
+GABA-C4:0	Humans	TRUE	C4:0	Short
+GABA-C4:0	Rodents	FALSE	C4:0	Short
+GABA-C4:0	Microbes	FALSE	C4:0	Short
+GABA-C4:0	Foods	FALSE	C4:0	Short
+GABA-C4:0	Plants	FALSE	C4:0	Short
+Glutamic acid-C4:0	Humans	TRUE	C4:0	Short
+Glutamic acid-C4:0	Rodents	TRUE	C4:0	Short
+Glutamic acid-C4:0	Microbes	TRUE	C4:0	Short
+Glutamic acid-C4:0	Foods	FALSE	C4:0	Short
+Glutamic acid-C4:0	Plants	FALSE	C4:0	Short
+Glycine-C4:0	Humans	TRUE	C4:0	Short
+Glycine-C4:0	Rodents	TRUE	C4:0	Short
+Glycine-C4:0	Microbes	TRUE	C4:0	Short
+Glycine-C4:0	Foods	FALSE	C4:0	Short
+Glycine-C4:0	Plants	FALSE	C4:0	Short
+Histamine-C4:0	Humans	TRUE	C4:0	Short
+Histamine-C4:0	Rodents	FALSE	C4:0	Short
+Histamine-C4:0	Microbes	FALSE	C4:0	Short
+Histamine-C4:0	Foods	FALSE	C4:0	Short
+Histamine-C4:0	Plants	FALSE	C4:0	Short
+Histidine-C4:0	Humans	TRUE	C4:0	Short
+Histidine-C4:0	Rodents	TRUE	C4:0	Short
+Histidine-C4:0	Microbes	FALSE	C4:0	Short
+Histidine-C4:0	Foods	TRUE	C4:0	Short
+Histidine-C4:0	Plants	FALSE	C4:0	Short
+Leucine-C4:0	Humans	TRUE	C4:0	Short
+Leucine-C4:0	Rodents	TRUE	C4:0	Short
+Leucine-C4:0	Microbes	TRUE	C4:0	Short
+Leucine-C4:0	Foods	TRUE	C4:0	Short
+Leucine-C4:0	Plants	FALSE	C4:0	Short
+Lysine-C4:0	Humans	TRUE	C4:0	Short
+Lysine-C4:0	Rodents	TRUE	C4:0	Short
+Lysine-C4:0	Microbes	TRUE	C4:0	Short
+Lysine-C4:0	Foods	TRUE	C4:0	Short
+Lysine-C4:0	Plants	FALSE	C4:0	Short
+Methionine-C4:0	Humans	TRUE	C4:0	Short
+Methionine-C4:0	Rodents	TRUE	C4:0	Short
+Methionine-C4:0	Microbes	TRUE	C4:0	Short
+Methionine-C4:0	Foods	TRUE	C4:0	Short
+Methionine-C4:0	Plants	FALSE	C4:0	Short
+N-acetylcadaverine-C4:0	Humans	TRUE	C4:0	Short
+N-acetylcadaverine-C4:0	Rodents	FALSE	C4:0	Short
+N-acetylcadaverine-C4:0	Microbes	FALSE	C4:0	Short
+N-acetylcadaverine-C4:0	Foods	FALSE	C4:0	Short
+N-acetylcadaverine-C4:0	Plants	FALSE	C4:0	Short
+N-acetylornithine-C4:0	Humans	TRUE	C4:0	Short
+N-acetylornithine-C4:0	Rodents	TRUE	C4:0	Short
+N-acetylornithine-C4:0	Microbes	FALSE	C4:0	Short
+N-acetylornithine-C4:0	Foods	FALSE	C4:0	Short
+N-acetylornithine-C4:0	Plants	FALSE	C4:0	Short
+N-acetylputrescine-C4:0	Humans	TRUE	C4:0	Short
+N-acetylputrescine-C4:0	Rodents	FALSE	C4:0	Short
+N-acetylputrescine-C4:0	Microbes	FALSE	C4:0	Short
+N-acetylputrescine-C4:0	Foods	FALSE	C4:0	Short
+N-acetylputrescine-C4:0	Plants	FALSE	C4:0	Short
+Phenylalanine-C4:0	Humans	TRUE	C4:0	Short
+Phenylalanine-C4:0	Rodents	TRUE	C4:0	Short
+Phenylalanine-C4:0	Microbes	TRUE	C4:0	Short
+Phenylalanine-C4:0	Foods	TRUE	C4:0	Short
+Phenylalanine-C4:0	Plants	FALSE	C4:0	Short
+Putrescine-C4:0	Humans	TRUE	C4:0	Short
+Putrescine-C4:0	Rodents	TRUE	C4:0	Short
+Putrescine-C4:0	Microbes	FALSE	C4:0	Short
+Putrescine-C4:0	Foods	FALSE	C4:0	Short
+Putrescine-C4:0	Plants	FALSE	C4:0	Short
+Spermidine-C4:0	Humans	TRUE	C4:0	Short
+Spermidine-C4:0	Rodents	TRUE	C4:0	Short
+Spermidine-C4:0	Microbes	FALSE	C4:0	Short
+Spermidine-C4:0	Foods	FALSE	C4:0	Short
+Spermidine-C4:0	Plants	FALSE	C4:0	Short
+Threonine/homoserine-C4:0	Humans	TRUE	C4:0	Short
+Threonine/homoserine-C4:0	Rodents	FALSE	C4:0	Short
+Threonine/homoserine-C4:0	Microbes	TRUE	C4:0	Short
+Threonine/homoserine-C4:0	Foods	FALSE	C4:0	Short
+Threonine/homoserine-C4:0	Plants	FALSE	C4:0	Short
+Tryptophan-C4:0	Humans	TRUE	C4:0	Short
+Tryptophan-C4:0	Rodents	TRUE	C4:0	Short
+Tryptophan-C4:0	Microbes	TRUE	C4:0	Short
+Tryptophan-C4:0	Foods	TRUE	C4:0	Short
+Tryptophan-C4:0	Plants	FALSE	C4:0	Short
+Tyramine-C4:0	Humans	TRUE	C4:0	Short
+Tyramine-C4:0	Rodents	FALSE	C4:0	Short
+Tyramine-C4:0	Microbes	TRUE	C4:0	Short
+Tyramine-C4:0	Foods	FALSE	C4:0	Short
+Tyramine-C4:0	Plants	TRUE	C4:0	Short
+Tyrosine-C4:0	Humans	TRUE	C4:0	Short
+Tyrosine-C4:0	Rodents	TRUE	C4:0	Short
+Tyrosine-C4:0	Microbes	TRUE	C4:0	Short
+Tyrosine-C4:0	Foods	TRUE	C4:0	Short
+Tyrosine-C4:0	Plants	TRUE	C4:0	Short
+Cadaverine-C4:1	Humans	TRUE	C4:1	Short
+Cadaverine-C4:1	Rodents	FALSE	C4:1	Short
+Cadaverine-C4:1	Microbes	FALSE	C4:1	Short
+Cadaverine-C4:1	Foods	FALSE	C4:1	Short
+Cadaverine-C4:1	Plants	FALSE	C4:1	Short
+N-acetylputrescine-C4:1	Humans	TRUE	C4:1	Short
+N-acetylputrescine-C4:1	Rodents	FALSE	C4:1	Short
+N-acetylputrescine-C4:1	Microbes	FALSE	C4:1	Short
+N-acetylputrescine-C4:1	Foods	FALSE	C4:1	Short
+N-acetylputrescine-C4:1	Plants	FALSE	C4:1	Short
+Tryptophan-C4:1	Humans	FALSE	C4:1	Short
+Tryptophan-C4:1	Rodents	FALSE	C4:1	Short
+Tryptophan-C4:1	Microbes	FALSE	C4:1	Short
+Tryptophan-C4:1	Foods	TRUE	C4:1	Short
+Tryptophan-C4:1	Plants	FALSE	C4:1	Short
+2-aminovaleric acid-C5:0	Humans	TRUE	C5:0	Short
+2-aminovaleric acid-C5:0	Rodents	TRUE	C5:0	Short
+2-aminovaleric acid-C5:0	Microbes	TRUE	C5:0	Short
+2-aminovaleric acid-C5:0	Foods	FALSE	C5:0	Short
+2-aminovaleric acid-C5:0	Plants	FALSE	C5:0	Short
+2-phenethylamine-C5:0	Humans	TRUE	C5:0	Short
+2-phenethylamine-C5:0	Rodents	FALSE	C5:0	Short
+2-phenethylamine-C5:0	Microbes	TRUE	C5:0	Short
+2-phenethylamine-C5:0	Foods	FALSE	C5:0	Short
+2-phenethylamine-C5:0	Plants	FALSE	C5:0	Short
+Alanine/Sarcosine-C5:0	Humans	TRUE	C5:0	Short
+Alanine/Sarcosine-C5:0	Rodents	FALSE	C5:0	Short
+Alanine/Sarcosine-C5:0	Microbes	TRUE	C5:0	Short
+Alanine/Sarcosine-C5:0	Foods	FALSE	C5:0	Short
+Alanine/Sarcosine-C5:0	Plants	FALSE	C5:0	Short
+Amylamine-C5:0	Humans	TRUE	C5:0	Short
+Amylamine-C5:0	Rodents	TRUE	C5:0	Short
+Amylamine-C5:0	Microbes	FALSE	C5:0	Short
+Amylamine-C5:0	Foods	FALSE	C5:0	Short
+Amylamine-C5:0	Plants	FALSE	C5:0	Short
+Arginine-C5:0	Humans	TRUE	C5:0	Short
+Arginine-C5:0	Rodents	TRUE	C5:0	Short
+Arginine-C5:0	Microbes	TRUE	C5:0	Short
+Arginine-C5:0	Foods	TRUE	C5:0	Short
+Arginine-C5:0	Plants	TRUE	C5:0	Short
+Cadaverine-C5:0	Humans	TRUE	C5:0	Short
+Cadaverine-C5:0	Rodents	TRUE	C5:0	Short
+Cadaverine-C5:0	Microbes	TRUE	C5:0	Short
+Cadaverine-C5:0	Foods	FALSE	C5:0	Short
+Cadaverine-C5:0	Plants	FALSE	C5:0	Short
+Citrulline-C5:0	Humans	TRUE	C5:0	Short
+Citrulline-C5:0	Rodents	FALSE	C5:0	Short
+Citrulline-C5:0	Microbes	FALSE	C5:0	Short
+Citrulline-C5:0	Foods	FALSE	C5:0	Short
+Citrulline-C5:0	Plants	FALSE	C5:0	Short
+Cystathionine-C5:0	Humans	TRUE	C5:0	Short
+Cystathionine-C5:0	Rodents	FALSE	C5:0	Short
+Cystathionine-C5:0	Microbes	FALSE	C5:0	Short
+Cystathionine-C5:0	Foods	FALSE	C5:0	Short
+Cystathionine-C5:0	Plants	FALSE	C5:0	Short
+GABA-C5:0	Humans	TRUE	C5:0	Short
+GABA-C5:0	Rodents	FALSE	C5:0	Short
+GABA-C5:0	Microbes	TRUE	C5:0	Short
+GABA-C5:0	Foods	FALSE	C5:0	Short
+GABA-C5:0	Plants	FALSE	C5:0	Short
+Glutamine-C5:0	Humans	TRUE	C5:0	Short
+Glutamine-C5:0	Rodents	TRUE	C5:0	Short
+Glutamine-C5:0	Microbes	TRUE	C5:0	Short
+Glutamine-C5:0	Foods	FALSE	C5:0	Short
+Glutamine-C5:0	Plants	FALSE	C5:0	Short
+Histamine-C5:0	Humans	TRUE	C5:0	Short
+Histamine-C5:0	Rodents	TRUE	C5:0	Short
+Histamine-C5:0	Microbes	FALSE	C5:0	Short
+Histamine-C5:0	Foods	FALSE	C5:0	Short
+Histamine-C5:0	Plants	FALSE	C5:0	Short
+Histidine-C5:0	Humans	TRUE	C5:0	Short
+Histidine-C5:0	Rodents	TRUE	C5:0	Short
+Histidine-C5:0	Microbes	FALSE	C5:0	Short
+Histidine-C5:0	Foods	FALSE	C5:0	Short
+Histidine-C5:0	Plants	FALSE	C5:0	Short
+Leucine-C5:0	Humans	TRUE	C5:0	Short
+Leucine-C5:0	Rodents	TRUE	C5:0	Short
+Leucine-C5:0	Microbes	FALSE	C5:0	Short
+Leucine-C5:0	Foods	TRUE	C5:0	Short
+Leucine-C5:0	Plants	FALSE	C5:0	Short
+Lysine-C5:0	Humans	TRUE	C5:0	Short
+Lysine-C5:0	Rodents	TRUE	C5:0	Short
+Lysine-C5:0	Microbes	FALSE	C5:0	Short
+Lysine-C5:0	Foods	FALSE	C5:0	Short
+Lysine-C5:0	Plants	FALSE	C5:0	Short
+Methionine-C5:0	Humans	TRUE	C5:0	Short
+Methionine-C5:0	Rodents	FALSE	C5:0	Short
+Methionine-C5:0	Microbes	TRUE	C5:0	Short
+Methionine-C5:0	Foods	TRUE	C5:0	Short
+Methionine-C5:0	Plants	FALSE	C5:0	Short
+Phenylalanine-C5:0	Humans	TRUE	C5:0	Short
+Phenylalanine-C5:0	Rodents	TRUE	C5:0	Short
+Phenylalanine-C5:0	Microbes	TRUE	C5:0	Short
+Phenylalanine-C5:0	Foods	TRUE	C5:0	Short
+Phenylalanine-C5:0	Plants	FALSE	C5:0	Short
+Putrescine-C5:0	Humans	TRUE	C5:0	Short
+Putrescine-C5:0	Rodents	TRUE	C5:0	Short
+Putrescine-C5:0	Microbes	FALSE	C5:0	Short
+Putrescine-C5:0	Foods	FALSE	C5:0	Short
+Putrescine-C5:0	Plants	FALSE	C5:0	Short
+Threonine/homoserine-C5:0	Humans	FALSE	C5:0	Short
+Threonine/homoserine-C5:0	Rodents	FALSE	C5:0	Short
+Threonine/homoserine-C5:0	Microbes	TRUE	C5:0	Short
+Threonine/homoserine-C5:0	Foods	FALSE	C5:0	Short
+Threonine/homoserine-C5:0	Plants	FALSE	C5:0	Short
+Tryptamine-C5:0	Humans	FALSE	C5:0	Short
+Tryptamine-C5:0	Rodents	FALSE	C5:0	Short
+Tryptamine-C5:0	Microbes	TRUE	C5:0	Short
+Tryptamine-C5:0	Foods	FALSE	C5:0	Short
+Tryptamine-C5:0	Plants	FALSE	C5:0	Short
+Tryptophan-C5:0	Humans	TRUE	C5:0	Short
+Tryptophan-C5:0	Rodents	TRUE	C5:0	Short
+Tryptophan-C5:0	Microbes	TRUE	C5:0	Short
+Tryptophan-C5:0	Foods	FALSE	C5:0	Short
+Tryptophan-C5:0	Plants	FALSE	C5:0	Short
+Tyrosine-C5:0	Humans	TRUE	C5:0	Short
+Tyrosine-C5:0	Rodents	TRUE	C5:0	Short
+Tyrosine-C5:0	Microbes	TRUE	C5:0	Short
+Tyrosine-C5:0	Foods	FALSE	C5:0	Short
+Tyrosine-C5:0	Plants	FALSE	C5:0	Short
+Cadaverine-C5:1	Humans	TRUE	C5:1	Short
+Cadaverine-C5:1	Rodents	TRUE	C5:1	Short
+Cadaverine-C5:1	Microbes	TRUE	C5:1	Short
+Cadaverine-C5:1	Foods	FALSE	C5:1	Short
+Cadaverine-C5:1	Plants	FALSE	C5:1	Short
+Glycine-C5:1	Humans	TRUE	C5:1	Short
+Glycine-C5:1	Rodents	TRUE	C5:1	Short
+Glycine-C5:1	Microbes	FALSE	C5:1	Short
+Glycine-C5:1	Foods	FALSE	C5:1	Short
+Glycine-C5:1	Plants	TRUE	C5:1	Short
+Valine-C5:1	Humans	FALSE	C5:1	Short
+Valine-C5:1	Rodents	TRUE	C5:1	Short
+Valine-C5:1	Microbes	FALSE	C5:1	Short
+Valine-C5:1	Foods	FALSE	C5:1	Short
+Valine-C5:1	Plants	FALSE	C5:1	Short
+Cadaverine-C5:2	Humans	TRUE	C5:2	Short
+Cadaverine-C5:2	Rodents	FALSE	C5:2	Short
+Cadaverine-C5:2	Microbes	FALSE	C5:2	Short
+Cadaverine-C5:2	Foods	FALSE	C5:2	Short
+Cadaverine-C5:2	Plants	FALSE	C5:2	Short
+2-phenethylamine-C6:0	Humans	FALSE	C6:0	Short
+2-phenethylamine-C6:0	Rodents	FALSE	C6:0	Short
+2-phenethylamine-C6:0	Microbes	TRUE	C6:0	Short
+2-phenethylamine-C6:0	Foods	TRUE	C6:0	Short
+2-phenethylamine-C6:0	Plants	TRUE	C6:0	Short
+Alanine/Sarcosine-C6:0	Humans	TRUE	C6:0	Short
+Alanine/Sarcosine-C6:0	Rodents	TRUE	C6:0	Short
+Alanine/Sarcosine-C6:0	Microbes	TRUE	C6:0	Short
+Alanine/Sarcosine-C6:0	Foods	FALSE	C6:0	Short
+Alanine/Sarcosine-C6:0	Plants	FALSE	C6:0	Short
+Amylamine-C6:0	Humans	TRUE	C6:0	Short
+Amylamine-C6:0	Rodents	TRUE	C6:0	Short
+Amylamine-C6:0	Microbes	FALSE	C6:0	Short
+Amylamine-C6:0	Foods	FALSE	C6:0	Short
+Amylamine-C6:0	Plants	TRUE	C6:0	Short
+Arginine-C6:0	Humans	TRUE	C6:0	Short
+Arginine-C6:0	Rodents	TRUE	C6:0	Short
+Arginine-C6:0	Microbes	TRUE	C6:0	Short
+Arginine-C6:0	Foods	TRUE	C6:0	Short
+Arginine-C6:0	Plants	FALSE	C6:0	Short
+Aspartic acid-C6:0	Humans	TRUE	C6:0	Short
+Aspartic acid-C6:0	Rodents	FALSE	C6:0	Short
+Aspartic acid-C6:0	Microbes	FALSE	C6:0	Short
+Aspartic acid-C6:0	Foods	FALSE	C6:0	Short
+Aspartic acid-C6:0	Plants	TRUE	C6:0	Short
+Cadaverine-C6:0	Humans	TRUE	C6:0	Short
+Cadaverine-C6:0	Rodents	TRUE	C6:0	Short
+Cadaverine-C6:0	Microbes	FALSE	C6:0	Short
+Cadaverine-C6:0	Foods	FALSE	C6:0	Short
+Cadaverine-C6:0	Plants	FALSE	C6:0	Short
+Cystathionine-C6:0	Humans	TRUE	C6:0	Short
+Cystathionine-C6:0	Rodents	FALSE	C6:0	Short
+Cystathionine-C6:0	Microbes	FALSE	C6:0	Short
+Cystathionine-C6:0	Foods	FALSE	C6:0	Short
+Cystathionine-C6:0	Plants	FALSE	C6:0	Short
+GABA-C6:0	Humans	TRUE	C6:0	Short
+GABA-C6:0	Rodents	FALSE	C6:0	Short
+GABA-C6:0	Microbes	TRUE	C6:0	Short
+GABA-C6:0	Foods	FALSE	C6:0	Short
+GABA-C6:0	Plants	TRUE	C6:0	Short
+Glutamic acid-C6:0	Humans	TRUE	C6:0	Short
+Glutamic acid-C6:0	Rodents	TRUE	C6:0	Short
+Glutamic acid-C6:0	Microbes	TRUE	C6:0	Short
+Glutamic acid-C6:0	Foods	FALSE	C6:0	Short
+Glutamic acid-C6:0	Plants	TRUE	C6:0	Short
+Glutamine-C6:0	Humans	TRUE	C6:0	Short
+Glutamine-C6:0	Rodents	TRUE	C6:0	Short
+Glutamine-C6:0	Microbes	TRUE	C6:0	Short
+Glutamine-C6:0	Foods	TRUE	C6:0	Short
+Glutamine-C6:0	Plants	TRUE	C6:0	Short
+Glycine-C6:0	Humans	TRUE	C6:0	Short
+Glycine-C6:0	Rodents	TRUE	C6:0	Short
+Glycine-C6:0	Microbes	FALSE	C6:0	Short
+Glycine-C6:0	Foods	FALSE	C6:0	Short
+Glycine-C6:0	Plants	FALSE	C6:0	Short
+Histamine-C6:0	Humans	TRUE	C6:0	Short
+Histamine-C6:0	Rodents	FALSE	C6:0	Short
+Histamine-C6:0	Microbes	FALSE	C6:0	Short
+Histamine-C6:0	Foods	TRUE	C6:0	Short
+Histamine-C6:0	Plants	TRUE	C6:0	Short
+Histidine-C6:0	Humans	TRUE	C6:0	Short
+Histidine-C6:0	Rodents	TRUE	C6:0	Short
+Histidine-C6:0	Microbes	TRUE	C6:0	Short
+Histidine-C6:0	Foods	TRUE	C6:0	Short
+Histidine-C6:0	Plants	FALSE	C6:0	Short
+Leucine-C6:0	Humans	TRUE	C6:0	Short
+Leucine-C6:0	Rodents	TRUE	C6:0	Short
+Leucine-C6:0	Microbes	TRUE	C6:0	Short
+Leucine-C6:0	Foods	TRUE	C6:0	Short
+Leucine-C6:0	Plants	FALSE	C6:0	Short
+Methionine-C6:0	Humans	TRUE	C6:0	Short
+Methionine-C6:0	Rodents	TRUE	C6:0	Short
+Methionine-C6:0	Microbes	TRUE	C6:0	Short
+Methionine-C6:0	Foods	TRUE	C6:0	Short
+Methionine-C6:0	Plants	FALSE	C6:0	Short
+Phenylalanine-C6:0	Humans	TRUE	C6:0	Short
+Phenylalanine-C6:0	Rodents	TRUE	C6:0	Short
+Phenylalanine-C6:0	Microbes	TRUE	C6:0	Short
+Phenylalanine-C6:0	Foods	TRUE	C6:0	Short
+Phenylalanine-C6:0	Plants	TRUE	C6:0	Short
+Putrescine-C6:0	Humans	TRUE	C6:0	Short
+Putrescine-C6:0	Rodents	TRUE	C6:0	Short
+Putrescine-C6:0	Microbes	FALSE	C6:0	Short
+Putrescine-C6:0	Foods	FALSE	C6:0	Short
+Putrescine-C6:0	Plants	FALSE	C6:0	Short
+Threonine/homoserine-C6:0	Humans	TRUE	C6:0	Short
+Threonine/homoserine-C6:0	Rodents	FALSE	C6:0	Short
+Threonine/homoserine-C6:0	Microbes	TRUE	C6:0	Short
+Threonine/homoserine-C6:0	Foods	FALSE	C6:0	Short
+Threonine/homoserine-C6:0	Plants	FALSE	C6:0	Short
+Tryptophan-C6:0	Humans	TRUE	C6:0	Short
+Tryptophan-C6:0	Rodents	FALSE	C6:0	Short
+Tryptophan-C6:0	Microbes	FALSE	C6:0	Short
+Tryptophan-C6:0	Foods	FALSE	C6:0	Short
+Tryptophan-C6:0	Plants	FALSE	C6:0	Short
+Tyramine-C6:0	Humans	TRUE	C6:0	Short
+Tyramine-C6:0	Rodents	TRUE	C6:0	Short
+Tyramine-C6:0	Microbes	FALSE	C6:0	Short
+Tyramine-C6:0	Foods	FALSE	C6:0	Short
+Tyramine-C6:0	Plants	TRUE	C6:0	Short
+Tyrosine-C6:0	Humans	TRUE	C6:0	Short
+Tyrosine-C6:0	Rodents	FALSE	C6:0	Short
+Tyrosine-C6:0	Microbes	TRUE	C6:0	Short
+Tyrosine-C6:0	Foods	TRUE	C6:0	Short
+Tyrosine-C6:0	Plants	TRUE	C6:0	Short
+Glutamic acid-C6:1	Humans	TRUE	C6:1	Short
+Glutamic acid-C6:1	Rodents	FALSE	C6:1	Short
+Glutamic acid-C6:1	Microbes	FALSE	C6:1	Short
+Glutamic acid-C6:1	Foods	FALSE	C6:1	Short
+Glutamic acid-C6:1	Plants	FALSE	C6:1	Short
+Glutamine-C6:1	Humans	TRUE	C6:1	Short
+Glutamine-C6:1	Rodents	FALSE	C6:1	Short
+Glutamine-C6:1	Microbes	TRUE	C6:1	Short
+Glutamine-C6:1	Foods	FALSE	C6:1	Short
+Glutamine-C6:1	Plants	FALSE	C6:1	Short
+Histidine-C6:1	Humans	TRUE	C6:1	Short
+Histidine-C6:1	Rodents	FALSE	C6:1	Short
+Histidine-C6:1	Microbes	FALSE	C6:1	Short
+Histidine-C6:1	Foods	FALSE	C6:1	Short
+Histidine-C6:1	Plants	FALSE	C6:1	Short
+Tryptophan-C6:1	Humans	FALSE	C6:1	Short
+Tryptophan-C6:1	Rodents	FALSE	C6:1	Short
+Tryptophan-C6:1	Microbes	TRUE	C6:1	Short
+Tryptophan-C6:1	Foods	FALSE	C6:1	Short
+Tryptophan-C6:1	Plants	FALSE	C6:1	Short
+Tyramine-C6:1	Humans	FALSE	C6:1	Short
+Tyramine-C6:1	Rodents	FALSE	C6:1	Short
+Tyramine-C6:1	Microbes	FALSE	C6:1	Short
+Tyramine-C6:1	Foods	FALSE	C6:1	Short
+Tyramine-C6:1	Plants	TRUE	C6:1	Short
+Glutamine-C6:2	Humans	TRUE	C6:2	Short
+Glutamine-C6:2	Rodents	FALSE	C6:2	Short
+Glutamine-C6:2	Microbes	FALSE	C6:2	Short
+Glutamine-C6:2	Foods	FALSE	C6:2	Short
+Glutamine-C6:2	Plants	FALSE	C6:2	Short
+2-phenethylamine-C7:0	Humans	FALSE	C7:0	Medium
+2-phenethylamine-C7:0	Rodents	FALSE	C7:0	Medium
+2-phenethylamine-C7:0	Microbes	TRUE	C7:0	Medium
+2-phenethylamine-C7:0	Foods	TRUE	C7:0	Medium
+2-phenethylamine-C7:0	Plants	FALSE	C7:0	Medium
+Amylamine-C7:0	Humans	TRUE	C7:0	Medium
+Amylamine-C7:0	Rodents	FALSE	C7:0	Medium
+Amylamine-C7:0	Microbes	FALSE	C7:0	Medium
+Amylamine-C7:0	Foods	FALSE	C7:0	Medium
+Amylamine-C7:0	Plants	FALSE	C7:0	Medium
+Cadaverine-C7:0	Humans	TRUE	C7:0	Medium
+Cadaverine-C7:0	Rodents	FALSE	C7:0	Medium
+Cadaverine-C7:0	Microbes	TRUE	C7:0	Medium
+Cadaverine-C7:0	Foods	FALSE	C7:0	Medium
+Cadaverine-C7:0	Plants	FALSE	C7:0	Medium
+Glutamine-C7:0	Humans	TRUE	C7:0	Medium
+Glutamine-C7:0	Rodents	FALSE	C7:0	Medium
+Glutamine-C7:0	Microbes	FALSE	C7:0	Medium
+Glutamine-C7:0	Foods	FALSE	C7:0	Medium
+Glutamine-C7:0	Plants	FALSE	C7:0	Medium
+Leucine-C7:0	Humans	TRUE	C7:0	Medium
+Leucine-C7:0	Rodents	FALSE	C7:0	Medium
+Leucine-C7:0	Microbes	FALSE	C7:0	Medium
+Leucine-C7:0	Foods	FALSE	C7:0	Medium
+Leucine-C7:0	Plants	FALSE	C7:0	Medium
+Lysine-C7:0	Humans	TRUE	C7:0	Medium
+Lysine-C7:0	Rodents	TRUE	C7:0	Medium
+Lysine-C7:0	Microbes	TRUE	C7:0	Medium
+Lysine-C7:0	Foods	FALSE	C7:0	Medium
+Lysine-C7:0	Plants	FALSE	C7:0	Medium
+Phenylalanine-C7:0	Humans	TRUE	C7:0	Medium
+Phenylalanine-C7:0	Rodents	FALSE	C7:0	Medium
+Phenylalanine-C7:0	Microbes	FALSE	C7:0	Medium
+Phenylalanine-C7:0	Foods	FALSE	C7:0	Medium
+Phenylalanine-C7:0	Plants	FALSE	C7:0	Medium
+Threonine/homoserine-C7:0	Humans	TRUE	C7:0	Medium
+Threonine/homoserine-C7:0	Rodents	FALSE	C7:0	Medium
+Threonine/homoserine-C7:0	Microbes	FALSE	C7:0	Medium
+Threonine/homoserine-C7:0	Foods	FALSE	C7:0	Medium
+Threonine/homoserine-C7:0	Plants	FALSE	C7:0	Medium
+Tryptophan-C7:0	Humans	FALSE	C7:0	Medium
+Tryptophan-C7:0	Rodents	TRUE	C7:0	Medium
+Tryptophan-C7:0	Microbes	TRUE	C7:0	Medium
+Tryptophan-C7:0	Foods	FALSE	C7:0	Medium
+Tryptophan-C7:0	Plants	FALSE	C7:0	Medium
+Glutamine-C7:1	Humans	TRUE	C7:1	Medium
+Glutamine-C7:1	Rodents	FALSE	C7:1	Medium
+Glutamine-C7:1	Microbes	FALSE	C7:1	Medium
+Glutamine-C7:1	Foods	FALSE	C7:1	Medium
+Glutamine-C7:1	Plants	FALSE	C7:1	Medium
+Glycine-C7:1	Humans	TRUE	C7:1	Medium
+Glycine-C7:1	Rodents	TRUE	C7:1	Medium
+Glycine-C7:1	Microbes	FALSE	C7:1	Medium
+Glycine-C7:1	Foods	FALSE	C7:1	Medium
+Glycine-C7:1	Plants	FALSE	C7:1	Medium
+Glutamine-C7:2	Humans	TRUE	C7:2	Medium
+Glutamine-C7:2	Rodents	FALSE	C7:2	Medium
+Glutamine-C7:2	Microbes	FALSE	C7:2	Medium
+Glutamine-C7:2	Foods	FALSE	C7:2	Medium
+Glutamine-C7:2	Plants	FALSE	C7:2	Medium
+Glutathione-C7:3	Humans	FALSE	C7:3	Medium
+Glutathione-C7:3	Rodents	FALSE	C7:3	Medium
+Glutathione-C7:3	Microbes	FALSE	C7:3	Medium
+Glutathione-C7:3	Foods	TRUE	C7:3	Medium
+Glutathione-C7:3	Plants	TRUE	C7:3	Medium
+2-phenethylamine-C8:0	Humans	FALSE	C8:0	Medium
+2-phenethylamine-C8:0	Rodents	FALSE	C8:0	Medium
+2-phenethylamine-C8:0	Microbes	TRUE	C8:0	Medium
+2-phenethylamine-C8:0	Foods	TRUE	C8:0	Medium
+2-phenethylamine-C8:0	Plants	TRUE	C8:0	Medium
+Alanine/Sarcosine-C8:0	Humans	TRUE	C8:0	Medium
+Alanine/Sarcosine-C8:0	Rodents	FALSE	C8:0	Medium
+Alanine/Sarcosine-C8:0	Microbes	FALSE	C8:0	Medium
+Alanine/Sarcosine-C8:0	Foods	FALSE	C8:0	Medium
+Alanine/Sarcosine-C8:0	Plants	FALSE	C8:0	Medium
+Arginine-C8:0	Humans	TRUE	C8:0	Medium
+Arginine-C8:0	Rodents	FALSE	C8:0	Medium
+Arginine-C8:0	Microbes	TRUE	C8:0	Medium
+Arginine-C8:0	Foods	TRUE	C8:0	Medium
+Arginine-C8:0	Plants	FALSE	C8:0	Medium
+Cadaverine-C8:0	Humans	TRUE	C8:0	Medium
+Cadaverine-C8:0	Rodents	FALSE	C8:0	Medium
+Cadaverine-C8:0	Microbes	TRUE	C8:0	Medium
+Cadaverine-C8:0	Foods	FALSE	C8:0	Medium
+Cadaverine-C8:0	Plants	FALSE	C8:0	Medium
+GABA-C8:0	Humans	TRUE	C8:0	Medium
+GABA-C8:0	Rodents	FALSE	C8:0	Medium
+GABA-C8:0	Microbes	TRUE	C8:0	Medium
+GABA-C8:0	Foods	FALSE	C8:0	Medium
+GABA-C8:0	Plants	FALSE	C8:0	Medium
+Glutamic acid-C8:0	Humans	TRUE	C8:0	Medium
+Glutamic acid-C8:0	Rodents	FALSE	C8:0	Medium
+Glutamic acid-C8:0	Microbes	TRUE	C8:0	Medium
+Glutamic acid-C8:0	Foods	FALSE	C8:0	Medium
+Glutamic acid-C8:0	Plants	TRUE	C8:0	Medium
+Glycine-C8:0	Humans	TRUE	C8:0	Medium
+Glycine-C8:0	Rodents	TRUE	C8:0	Medium
+Glycine-C8:0	Microbes	FALSE	C8:0	Medium
+Glycine-C8:0	Foods	FALSE	C8:0	Medium
+Glycine-C8:0	Plants	FALSE	C8:0	Medium
+Histamine-C8:0	Humans	FALSE	C8:0	Medium
+Histamine-C8:0	Rodents	FALSE	C8:0	Medium
+Histamine-C8:0	Microbes	FALSE	C8:0	Medium
+Histamine-C8:0	Foods	TRUE	C8:0	Medium
+Histamine-C8:0	Plants	TRUE	C8:0	Medium
+Histidine-C8:0	Humans	TRUE	C8:0	Medium
+Histidine-C8:0	Rodents	TRUE	C8:0	Medium
+Histidine-C8:0	Microbes	FALSE	C8:0	Medium
+Histidine-C8:0	Foods	TRUE	C8:0	Medium
+Histidine-C8:0	Plants	TRUE	C8:0	Medium
+Leucine-C8:0	Humans	TRUE	C8:0	Medium
+Leucine-C8:0	Rodents	FALSE	C8:0	Medium
+Leucine-C8:0	Microbes	TRUE	C8:0	Medium
+Leucine-C8:0	Foods	TRUE	C8:0	Medium
+Leucine-C8:0	Plants	TRUE	C8:0	Medium
+Lysine-C8:0	Humans	TRUE	C8:0	Medium
+Lysine-C8:0	Rodents	TRUE	C8:0	Medium
+Lysine-C8:0	Microbes	TRUE	C8:0	Medium
+Lysine-C8:0	Foods	TRUE	C8:0	Medium
+Lysine-C8:0	Plants	FALSE	C8:0	Medium
+Methionine-C8:0	Humans	TRUE	C8:0	Medium
+Methionine-C8:0	Rodents	FALSE	C8:0	Medium
+Methionine-C8:0	Microbes	TRUE	C8:0	Medium
+Methionine-C8:0	Foods	TRUE	C8:0	Medium
+Methionine-C8:0	Plants	TRUE	C8:0	Medium
+Phenylalanine-C8:0	Humans	TRUE	C8:0	Medium
+Phenylalanine-C8:0	Rodents	FALSE	C8:0	Medium
+Phenylalanine-C8:0	Microbes	TRUE	C8:0	Medium
+Phenylalanine-C8:0	Foods	TRUE	C8:0	Medium
+Phenylalanine-C8:0	Plants	TRUE	C8:0	Medium
+Putrescine-C8:0	Humans	TRUE	C8:0	Medium
+Putrescine-C8:0	Rodents	FALSE	C8:0	Medium
+Putrescine-C8:0	Microbes	FALSE	C8:0	Medium
+Putrescine-C8:0	Foods	FALSE	C8:0	Medium
+Putrescine-C8:0	Plants	FALSE	C8:0	Medium
+Serine-C8:0	Humans	TRUE	C8:0	Medium
+Serine-C8:0	Rodents	TRUE	C8:0	Medium
+Serine-C8:0	Microbes	TRUE	C8:0	Medium
+Serine-C8:0	Foods	FALSE	C8:0	Medium
+Serine-C8:0	Plants	FALSE	C8:0	Medium
+Threonine/homoserine-C8:0	Humans	TRUE	C8:0	Medium
+Threonine/homoserine-C8:0	Rodents	FALSE	C8:0	Medium
+Threonine/homoserine-C8:0	Microbes	TRUE	C8:0	Medium
+Threonine/homoserine-C8:0	Foods	FALSE	C8:0	Medium
+Threonine/homoserine-C8:0	Plants	TRUE	C8:0	Medium
+Tryptophan-C8:0	Humans	TRUE	C8:0	Medium
+Tryptophan-C8:0	Rodents	FALSE	C8:0	Medium
+Tryptophan-C8:0	Microbes	TRUE	C8:0	Medium
+Tryptophan-C8:0	Foods	FALSE	C8:0	Medium
+Tryptophan-C8:0	Plants	FALSE	C8:0	Medium
+Tyramine-C8:0	Humans	TRUE	C8:0	Medium
+Tyramine-C8:0	Rodents	FALSE	C8:0	Medium
+Tyramine-C8:0	Microbes	FALSE	C8:0	Medium
+Tyramine-C8:0	Foods	FALSE	C8:0	Medium
+Tyramine-C8:0	Plants	FALSE	C8:0	Medium
+Tyrosine-C8:0	Humans	TRUE	C8:0	Medium
+Tyrosine-C8:0	Rodents	FALSE	C8:0	Medium
+Tyrosine-C8:0	Microbes	TRUE	C8:0	Medium
+Tyrosine-C8:0	Foods	TRUE	C8:0	Medium
+Tyrosine-C8:0	Plants	TRUE	C8:0	Medium
+2-phenethylamine-C8:1	Humans	FALSE	C8:1	Medium
+2-phenethylamine-C8:1	Rodents	FALSE	C8:1	Medium
+2-phenethylamine-C8:1	Microbes	TRUE	C8:1	Medium
+2-phenethylamine-C8:1	Foods	TRUE	C8:1	Medium
+2-phenethylamine-C8:1	Plants	FALSE	C8:1	Medium
+Alanine/Sarcosine-C8:1	Humans	TRUE	C8:1	Medium
+Alanine/Sarcosine-C8:1	Rodents	FALSE	C8:1	Medium
+Alanine/Sarcosine-C8:1	Microbes	FALSE	C8:1	Medium
+Alanine/Sarcosine-C8:1	Foods	FALSE	C8:1	Medium
+Alanine/Sarcosine-C8:1	Plants	FALSE	C8:1	Medium
+Glutamine-C8:1	Humans	TRUE	C8:1	Medium
+Glutamine-C8:1	Rodents	FALSE	C8:1	Medium
+Glutamine-C8:1	Microbes	FALSE	C8:1	Medium
+Glutamine-C8:1	Foods	FALSE	C8:1	Medium
+Glutamine-C8:1	Plants	FALSE	C8:1	Medium
+Histidine-C8:1	Humans	TRUE	C8:1	Medium
+Histidine-C8:1	Rodents	FALSE	C8:1	Medium
+Histidine-C8:1	Microbes	FALSE	C8:1	Medium
+Histidine-C8:1	Foods	FALSE	C8:1	Medium
+Histidine-C8:1	Plants	FALSE	C8:1	Medium
+Leucine-C8:1	Humans	TRUE	C8:1	Medium
+Leucine-C8:1	Rodents	FALSE	C8:1	Medium
+Leucine-C8:1	Microbes	TRUE	C8:1	Medium
+Leucine-C8:1	Foods	FALSE	C8:1	Medium
+Leucine-C8:1	Plants	FALSE	C8:1	Medium
+Tryptophan-C8:1	Humans	FALSE	C8:1	Medium
+Tryptophan-C8:1	Rodents	FALSE	C8:1	Medium
+Tryptophan-C8:1	Microbes	TRUE	C8:1	Medium
+Tryptophan-C8:1	Foods	FALSE	C8:1	Medium
+Tryptophan-C8:1	Plants	FALSE	C8:1	Medium
+Glutamine-C8:2	Humans	TRUE	C8:2	Medium
+Glutamine-C8:2	Rodents	FALSE	C8:2	Medium
+Glutamine-C8:2	Microbes	FALSE	C8:2	Medium
+Glutamine-C8:2	Foods	FALSE	C8:2	Medium
+Glutamine-C8:2	Plants	FALSE	C8:2	Medium
+Glycine-C8:2	Humans	FALSE	C8:2	Medium
+Glycine-C8:2	Rodents	TRUE	C8:2	Medium
+Glycine-C8:2	Microbes	FALSE	C8:2	Medium
+Glycine-C8:2	Foods	FALSE	C8:2	Medium
+Glycine-C8:2	Plants	FALSE	C8:2	Medium
+Tyramine-C8:3	Humans	TRUE	C8:3	Medium
+Tyramine-C8:3	Rodents	FALSE	C8:3	Medium
+Tyramine-C8:3	Microbes	FALSE	C8:3	Medium
+Tyramine-C8:3	Foods	FALSE	C8:3	Medium
+Tyramine-C8:3	Plants	FALSE	C8:3	Medium
+Amylamine-C9:0	Humans	FALSE	C9:0	Medium
+Amylamine-C9:0	Rodents	FALSE	C9:0	Medium
+Amylamine-C9:0	Microbes	FALSE	C9:0	Medium
+Amylamine-C9:0	Foods	FALSE	C9:0	Medium
+Amylamine-C9:0	Plants	TRUE	C9:0	Medium
+Glutamic acid-C9:0	Humans	FALSE	C9:0	Medium
+Glutamic acid-C9:0	Rodents	FALSE	C9:0	Medium
+Glutamic acid-C9:0	Microbes	TRUE	C9:0	Medium
+Glutamic acid-C9:0	Foods	FALSE	C9:0	Medium
+Glutamic acid-C9:0	Plants	FALSE	C9:0	Medium
+Glutamine-C9:0	Humans	TRUE	C9:0	Medium
+Glutamine-C9:0	Rodents	FALSE	C9:0	Medium
+Glutamine-C9:0	Microbes	TRUE	C9:0	Medium
+Glutamine-C9:0	Foods	FALSE	C9:0	Medium
+Glutamine-C9:0	Plants	FALSE	C9:0	Medium
+Leucine-C9:0	Humans	TRUE	C9:0	Medium
+Leucine-C9:0	Rodents	FALSE	C9:0	Medium
+Leucine-C9:0	Microbes	TRUE	C9:0	Medium
+Leucine-C9:0	Foods	FALSE	C9:0	Medium
+Leucine-C9:0	Plants	FALSE	C9:0	Medium
+Lysine-C9:0	Humans	FALSE	C9:0	Medium
+Lysine-C9:0	Rodents	FALSE	C9:0	Medium
+Lysine-C9:0	Microbes	TRUE	C9:0	Medium
+Lysine-C9:0	Foods	FALSE	C9:0	Medium
+Lysine-C9:0	Plants	FALSE	C9:0	Medium
+Phenylalanine-C9:0	Humans	FALSE	C9:0	Medium
+Phenylalanine-C9:0	Rodents	FALSE	C9:0	Medium
+Phenylalanine-C9:0	Microbes	TRUE	C9:0	Medium
+Phenylalanine-C9:0	Foods	FALSE	C9:0	Medium
+Phenylalanine-C9:0	Plants	FALSE	C9:0	Medium
+Serine-C9:0	Humans	FALSE	C9:0	Medium
+Serine-C9:0	Rodents	FALSE	C9:0	Medium
+Serine-C9:0	Microbes	TRUE	C9:0	Medium
+Serine-C9:0	Foods	FALSE	C9:0	Medium
+Serine-C9:0	Plants	FALSE	C9:0	Medium
+Threonine/homoserine-C9:0	Humans	FALSE	C9:0	Medium
+Threonine/homoserine-C9:0	Rodents	FALSE	C9:0	Medium
+Threonine/homoserine-C9:0	Microbes	TRUE	C9:0	Medium
+Threonine/homoserine-C9:0	Foods	FALSE	C9:0	Medium
+Threonine/homoserine-C9:0	Plants	FALSE	C9:0	Medium
+Tryptophan-C9:0	Humans	FALSE	C9:0	Medium
+Tryptophan-C9:0	Rodents	FALSE	C9:0	Medium
+Tryptophan-C9:0	Microbes	TRUE	C9:0	Medium
+Tryptophan-C9:0	Foods	FALSE	C9:0	Medium
+Tryptophan-C9:0	Plants	FALSE	C9:0	Medium
+Glutamine-C9:1	Humans	TRUE	C9:1	Medium
+Glutamine-C9:1	Rodents	FALSE	C9:1	Medium
+Glutamine-C9:1	Microbes	FALSE	C9:1	Medium
+Glutamine-C9:1	Foods	FALSE	C9:1	Medium
+Glutamine-C9:1	Plants	FALSE	C9:1	Medium
+Glutathione-C9:1	Humans	FALSE	C9:1	Medium
+Glutathione-C9:1	Rodents	TRUE	C9:1	Medium
+Glutathione-C9:1	Microbes	FALSE	C9:1	Medium
+Glutathione-C9:1	Foods	FALSE	C9:1	Medium
+Glutathione-C9:1	Plants	FALSE	C9:1	Medium
+Glutamine-C9:2	Humans	TRUE	C9:2	Medium
+Glutamine-C9:2	Rodents	FALSE	C9:2	Medium
+Glutamine-C9:2	Microbes	FALSE	C9:2	Medium
+Glutamine-C9:2	Foods	FALSE	C9:2	Medium
+Glutamine-C9:2	Plants	FALSE	C9:2	Medium
+Arginine-C9:4	Humans	TRUE	C9:4	Medium
+Arginine-C9:4	Rodents	TRUE	C9:4	Medium
+Arginine-C9:4	Microbes	FALSE	C9:4	Medium
+Arginine-C9:4	Foods	FALSE	C9:4	Medium
+Arginine-C9:4	Plants	FALSE	C9:4	Medium
+Histidine-C9:4	Humans	FALSE	C9:4	Medium
+Histidine-C9:4	Rodents	FALSE	C9:4	Medium
+Histidine-C9:4	Microbes	TRUE	C9:4	Medium
+Histidine-C9:4	Foods	TRUE	C9:4	Medium
+Histidine-C9:4	Plants	FALSE	C9:4	Medium
+Leucine-C9:4	Humans	TRUE	C9:4	Medium
+Leucine-C9:4	Rodents	TRUE	C9:4	Medium
+Leucine-C9:4	Microbes	TRUE	C9:4	Medium
+Leucine-C9:4	Foods	FALSE	C9:4	Medium
+Leucine-C9:4	Plants	FALSE	C9:4	Medium
+Methionine-C9:4	Humans	TRUE	C9:4	Medium
+Methionine-C9:4	Rodents	FALSE	C9:4	Medium
+Methionine-C9:4	Microbes	TRUE	C9:4	Medium
+Methionine-C9:4	Foods	FALSE	C9:4	Medium
+Methionine-C9:4	Plants	FALSE	C9:4	Medium
+Phenylalanine-C9:4	Humans	TRUE	C9:4	Medium
+Phenylalanine-C9:4	Rodents	FALSE	C9:4	Medium
+Phenylalanine-C9:4	Microbes	FALSE	C9:4	Medium
+Phenylalanine-C9:4	Foods	FALSE	C9:4	Medium
+Phenylalanine-C9:4	Plants	FALSE	C9:4	Medium
+Tyramine-C9:4	Humans	TRUE	C9:4	Medium
+Tyramine-C9:4	Rodents	FALSE	C9:4	Medium
+Tyramine-C9:4	Microbes	TRUE	C9:4	Medium
+Tyramine-C9:4	Foods	FALSE	C9:4	Medium
+Tyramine-C9:4	Plants	FALSE	C9:4	Medium
+Tyrosine-C9:4	Humans	TRUE	C9:4	Medium
+Tyrosine-C9:4	Rodents	FALSE	C9:4	Medium
+Tyrosine-C9:4	Microbes	FALSE	C9:4	Medium
+Tyrosine-C9:4	Foods	FALSE	C9:4	Medium
+Tyrosine-C9:4	Plants	FALSE	C9:4	Medium
