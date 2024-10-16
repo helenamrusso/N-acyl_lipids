@@ -1,6 +1,6 @@
 library(UpSetR)
 
-body_refined_human <- list(
+Nacyl_lipids <- list(
   Humans = c('Tyrosine-C2:0', 'Tyrosine-C18:2', 'Tyrosine-C14:0', 'Tyrosine-C12:0', 'Tyrosine-C3:0', 'Tyrosine-C4:0', 'Tyrosine-C18:1', 'Tyrosine-C16:0', 'Tyrosine-C5:0', 'Tyrosine-C6:0', 'Tyrosine-C10:2', 'Tyrosine-C10:0', 'Tyrosine-C8:0', 'Tyrosine-C9:4', 'Tyrosine-C18:0', 'Tyrosine-C18:3', 'Arginine-C10:0', 'Arginine-C5:0', 'Arginine-C2:0', 'Arginine-C8:0', 'Arginine-C12:0', 'Arginine-C14:0', 'Arginine-C6:0', 'Arginine-C18:1', 'Arginine-C16:0', 'Arginine-C18:2', 'Arginine-C9:4', 'Arginine-C18:0', 'Leucine-C9:0', 'Leucine-C15:1',
              'Leucine-C16:0', 'Leucine-C18:1', 'Leucine-C22:1', 'Leucine-C18:2', 'Leucine-C5:0', 'Leucine-C14:1', 'Leucine-C20:1', 'Leucine-C17:0', 'Leucine-C4:0', 'Leucine-C16:2', 'Leucine-C8:0', 'Leucine-C18:3', 'Leucine-C20:4', 'Leucine-C12:0', 'Leucine-C6:0', 'Leucine-C20:2', 'Leucine-C10:0', 'Leucine-C14:0', 'Leucine-C10:1', 'Leucine-C15:0', 'Leucine-C7:0', 'Leucine-C16:1', 'Leucine-C18:0', 'Leucine-C12:2', 'Leucine-C8:1', 'Leucine-C12:1', 'Leucine-C17:1', 'Leucine-C20:0', 'Leucine-C9:4', 'Leucine-C3:0',
              'Leucine-C10:2', 'Leucine-C20:3', 'Leucine-C19:1', '2-phenethylamine-C16:1', '2-phenethylamine-C18:1', '2-phenethylamine-C14:0', '2-phenethylamine-C2:0', '2-phenethylamine-C16:0', '2-phenethylamine-C20:4', '2-phenethylamine-C15:0', '2-phenethylamine-C5:0', '2-phenethylamine-C18:2', 'N-acetylcadaverine-C2:0', 'N-acetylcadaverine-C4:0', 'N-acetylcadaverine-C3:0', 'N-acetylcadaverine-C18:1', 'Alanine/Sarcosine-C12:0', 'Alanine/Sarcosine-C10:0', 'Alanine/Sarcosine-C4:0', 'Alanine/Sarcosine-C8:0', 'Alanine/Sarcosine-C18:2', 'Alanine/Sarcosine-C14:0', 'Alanine/Sarcosine-C5:0', 'Alanine/Sarcosine-C18:1', 'Alanine/Sarcosine-C8:1', 'Alanine/Sarcosine-C15:0', 'Alanine/Sarcosine-C16:0', 'Alanine/Sarcosine-C11:0', 'Alanine/Sarcosine-C18:0', 'Alanine/Sarcosine-C14:3',
@@ -52,8 +52,8 @@ body_refined_human <- list(
              'Threonine/homoserine-C18:3', 'Threonine/homoserine-C18:2', 'Threonine/homoserine-C2:0', 'Threonine/homoserine-C16:0', 'Threonine/homoserine-C8:0', '5-aminovaleric acid-C2:0', 'GABA-C18:3', 'GABA-C16:1', 'GABA-C6:0', 'GABA-C16:0', 'GABA-C22:0', 'Serine-C16:0', 'Serine-C14:0', 'Serine-C2:0', 'Aspartic acid-C16:0', 'Aspartic acid-C18:2', 'Aspartic acid-C2:0', 'Aspartic acid-C6:0', 'Glutathione-C10:0', 'Glutathione-C7:3', 'Tryptophan-C16:0', 'Tryptophan-C18:2', 'Tryptophan-C26:0', 'Tryptophan-C24:0', 'Tryptophan-C18:3', 'Phenylalanine-C2:0', 'Phenylalanine-C6:0', 'Phenylalanine-C8:0', 'Phenylalanine-C18:3', 'Spermidine-C2:0',
              'Spermidine-C10:2', 'Spermidine-C10:1', 'Tryptamine-C22:0', 'Tryptamine-C23:0', 'Tryptamine-C24:0', 'Putrescine-C16:0', 'Putrescine-C14:0', 'Histamine-C8:0', 'Histamine-C6:0', 'Cadaverine-C2:0', 'Asparagine-C18:2', 'Asparagine-C18:1', 'Asparagine-C16:0', 'Asparagine-C18:3', 'Histidine-C8:0', 'Histidine-C12:0', 'Histidine-C10:0', 'Histidine-C18:2', 'Glutamine-C18:2', 'Glutamine-C10:0', 'Glutamine-C6:0', 'Glutamine-C16:0', 'Serotonin-C16:0', 'Serotonin-C2:0', 'Serotonin-C22:1', 'Serotonin-C20:1', 'Serotonin-C20:0', 'Serotonin-C18:0', 'Serotonin-C24:0', 'Serotonin-C25:0',
              'Serotonin-C22:0', 'Serotonin-C24:1', 'Serotonin-C21:0', 'Serotonin-C18:2', 'Serotonin-C26:0', 'Serotonin-C18:1', 'Serotonin-C23:0', 'Glycine-C5:1', 'Lysine-C10:0', 'Aminoadipic acid-C2:0', '3-methoxytyramine-C2:0', '3-methoxytyramine-C20:0', '3-methoxytyramine-C22:0', '3-methoxytyramine-C24:0', 'Methionine-C8:0', '2-aminovaleric acid-C18:3', '2-aminovaleric acid-C16:0')
-  )
+)
 
 
-upset(fromList(body_refined_human), order.by = c("freq","degree"),
+upset(fromList(Nacyl_lipids), order.by = c("freq","degree"),
       nsets = 100, nintersects=100)
