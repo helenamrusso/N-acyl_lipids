@@ -1,0 +1,493 @@
+filename	SampleType	Mouse_group	Bacteria	BodyPart	Bacteria_Family	Bacteria_Order	Bacteria_Class	Bacteria_Phyllum
+Blank_00_PlateA_no_inj_20210724230542.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_00_PlateB_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_00_PlateC_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_00_PlateD_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_01_PlateA_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_01_PlateB_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_01_PlateC_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_01_PlateD_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_02_PlateA_no_inj_Presequence.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_02_PlateB_no_inj_Presequence.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_02_PlateC_no_inj_Presequence.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_02_PlateD_no_inj_Presequence.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_03_PlateA_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_03_PlateB_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_03_PlateC_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_03_PlateD_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_04_PlateA_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_04_PlateB_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_04_PlateC_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_04_PlateD_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_05_PlateA_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_05_PlateB_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_05_PlateC_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_05_PlateD_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_06_PlateA_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_06_PlateB_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_06_PlateC_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_06_PlateD_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_07_PlateA_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_07_PlateB_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_07_PlateC_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_07_PlateD_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_08_PlateA_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_08_PlateB_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_08_PlateC_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_09_PlateA_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_09_PlateB_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_09_PlateC_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_10_PlateA_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_10_PlateB_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_10_PlateC_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_11_PlateA_no_inj_End.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_11_PlateB_no_inj_End.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_11_PlateC_no_inj_End.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_11_PlateD_no_inj_End.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_12_PlateA_no_inj_End.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_12_PlateB_no_inj_End.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_12_PlateC_no_inj_End.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_12_PlateD_no_inj_End.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowA_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowA_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowA_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowB_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowB_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowB_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowC_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowC_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowC_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowD_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowD_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowD_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowE_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowE_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowE_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowF_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowF_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowF_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowG_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowG_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowG_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowH_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowH_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateA_RowH_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowA_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowA_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowA_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowB_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowB_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowB_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowC_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowC_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowC_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowD_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowD_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowD_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowE_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowE_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowE_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowF_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowF_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowF_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowG_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowG_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowG_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowH_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowH_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateB_RowH_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowA_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowA_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowA_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowB_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowB_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowB_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowC_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowC_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowC_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowD_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowD_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowD_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowE_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowE_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowE_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowF_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowF_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowF_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowG_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowG_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowG_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowH_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowH_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateC_RowH_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateD_RowA_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateD_RowA_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateD_RowA_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateD_RowB_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateD_RowB_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateD_RowB_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateD_RowC_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateD_RowC_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateD_RowC_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateD_RowD_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateD_RowD_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateD_RowD_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateD_RowE_1_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateD_RowE_2_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Blank_PlateD_RowE_3_no_inj.mzML	Blank	blank	blank	blank	Blank	Blank	Blank	Blank
+Diet_blank-1_(5k67).mzML	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank
+Diet_blank-2_(5k67).mzML	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank
+Diet_blank-3_(5k67).mzML	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank
+Diet_blank-4_(5k67).mzML	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank	Diet_Blank
+GF_CO-1.mzML	Mus musculus	GF	GF	colon	GF	GF	GF	GF
+GF_CO-2.mzML	Mus musculus	GF	GF	colon	GF	GF	GF	GF
+GF_CO-3.mzML	Mus musculus	GF	GF	colon	GF	GF	GF	GF
+GF_CO-4.mzML	Mus musculus	GF	GF	colon	GF	GF	GF	GF
+GF_CO-5.mzML	Mus musculus	GF	GF	colon	GF	GF	GF	GF
+GF_CO-6.mzML	Mus musculus	GF	GF	colon	GF	GF	GF	GF
+GF_SI-1.mzML	Mus musculus	GF	GF	small intestine	GF	GF	GF	GF
+GF_SI-2.mzML	Mus musculus	GF	GF	small intestine	GF	GF	GF	GF
+GF_SI-3.mzML	Mus musculus	GF	GF	small intestine	GF	GF	GF	GF
+GF_SI-4.mzML	Mus musculus	GF	GF	small intestine	GF	GF	GF	GF
+GF_SI-5.mzML	Mus musculus	GF	GF	small intestine	GF	GF	GF	GF
+GF_SI-6.mzML	Mus musculus	GF	GF	small intestine	GF	GF	GF	GF
+Acinetobacter_lwoffii_AO35_CO-1.mzML	Mus musculus	monocolonized	Acinetobacter lwoffii AO35	colon	Moraxellaceae	Moraxellales	Gammaproteobacteria	Pseudomonadota
+Acinetobacter_lwoffii_AO35_CO-2.mzML	Mus musculus	monocolonized	Acinetobacter lwoffii AO35	colon	Moraxellaceae	Moraxellales	Gammaproteobacteria	Pseudomonadota
+Acinetobacter_lwoffii_AO35_CO-3.mzML	Mus musculus	monocolonized	Acinetobacter lwoffii AO35	colon	Moraxellaceae	Moraxellales	Gammaproteobacteria	Pseudomonadota
+Acinetobacter_lwoffii_AO35_SI-1.mzML	Mus musculus	monocolonized	Acinetobacter lwoffii AO35	small intestine	Moraxellaceae	Moraxellales	Gammaproteobacteria	Pseudomonadota
+Acinetobacter_lwoffii_AO35_SI-2.mzML	Mus musculus	monocolonized	Acinetobacter lwoffii AO35	small intestine	Moraxellaceae	Moraxellales	Gammaproteobacteria	Pseudomonadota
+Acinetobacter_lwoffii_AO35_SI-3.mzML	Mus musculus	monocolonized	Acinetobacter lwoffii AO35	small intestine	Moraxellaceae	Moraxellales	Gammaproteobacteria	Pseudomonadota
+Akkermansia_muciniphila_BAA-835_CO-1.mzML	Mus musculus	monocolonized	Akkermansia muciniphila BAA-835	colon	Akkermansiaceae	Verrucomicrobiales	Verrucomicrobiae	Verrucomicrobiota
+Akkermansia_muciniphila_BAA-835_CO-2.mzML	Mus musculus	monocolonized	Akkermansia muciniphila BAA-835	colon	Akkermansiaceae	Verrucomicrobiales	Verrucomicrobiae	Verrucomicrobiota
+Akkermansia_muciniphila_BAA-835_CO-3.mzML	Mus musculus	monocolonized	Akkermansia muciniphila BAA-835	colon	Akkermansiaceae	Verrucomicrobiales	Verrucomicrobiae	Verrucomicrobiota
+Akkermansia_muciniphila_BAA-835_SI-1.mzML	Mus musculus	monocolonized	Akkermansia muciniphila BAA-835	small intestine	Akkermansiaceae	Verrucomicrobiales	Verrucomicrobiae	Verrucomicrobiota
+Akkermansia_muciniphila_BAA-835_SI-2.mzML	Mus musculus	monocolonized	Akkermansia muciniphila BAA-835	small intestine	Akkermansiaceae	Verrucomicrobiales	Verrucomicrobiae	Verrucomicrobiota
+Akkermansia_muciniphila_BAA-835_SI-3.mzML	Mus musculus	monocolonized	Akkermansia muciniphila BAA-835	small intestine	Akkermansiaceae	Verrucomicrobiales	Verrucomicrobiae	Verrucomicrobiota
+Bacteroides_cellulosilyticus_DSM_14838_CO-1.mzML	Mus musculus	monocolonized	Bacteroides cellulosilyticus DSM 14838	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_cellulosilyticus_DSM_14838_CO-2.mzML	Mus musculus	monocolonized	Bacteroides cellulosilyticus DSM 14838	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_cellulosilyticus_DSM_14838_CO-3.mzML	Mus musculus	monocolonized	Bacteroides cellulosilyticus DSM 14838	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_cellulosilyticus_DSM_14838_SI-1.mzML	Mus musculus	monocolonized	Bacteroides cellulosilyticus DSM 14838	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_cellulosilyticus_DSM_14838_SI-2.mzML	Mus musculus	monocolonized	Bacteroides cellulosilyticus DSM 14838	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_cellulosilyticus_DSM_14838_SI-3.mzML	Mus musculus	monocolonized	Bacteroides cellulosilyticus DSM 14838	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_dorei_DSM_17855_CO-1.mzML	Mus musculus	monocolonized	Bacteroides dorei DSM 17855	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_dorei_DSM_17855_CO-2.mzML	Mus musculus	monocolonized	Bacteroides dorei DSM 17855	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_dorei_DSM_17855_CO-3.mzML	Mus musculus	monocolonized	Bacteroides dorei DSM 17855	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_dorei_DSM_17855_SI-1.mzML	Mus musculus	monocolonized	Bacteroides dorei DSM 17855	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_dorei_DSM_17855_SI-2.mzML	Mus musculus	monocolonized	Bacteroides dorei DSM 17855	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_dorei_DSM_17855_SI-3.mzML	Mus musculus	monocolonized	Bacteroides dorei DSM 17855	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_fragilis_NCTC9343_CO-1.mzML	Mus musculus	monocolonized	Bacteroides fragilis NCTC9343	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_fragilis_NCTC9343_CO-2.mzML	Mus musculus	monocolonized	Bacteroides fragilis NCTC9343	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_fragilis_NCTC9343_CO-3.mzML	Mus musculus	monocolonized	Bacteroides fragilis NCTC9343	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_fragilis_NCTC9343_SI-1.mzML	Mus musculus	monocolonized	Bacteroides fragilis NCTC9343	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_fragilis_NCTC9343_SI-2.mzML	Mus musculus	monocolonized	Bacteroides fragilis NCTC9343	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_fragilis_NCTC9343_SI-3.mzML	Mus musculus	monocolonized	Bacteroides fragilis NCTC9343	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_massiliensis_DSM_17679_CO-1.mzML	Mus musculus	monocolonized	Bacteroides massiliensis DSM 17679	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_massiliensis_DSM_17679_CO-2.mzML	Mus musculus	monocolonized	Bacteroides massiliensis DSM 17679	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_massiliensis_DSM_17679_CO-3.mzML	Mus musculus	monocolonized	Bacteroides massiliensis DSM 17679	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_massiliensis_DSM_17679_SI-1.mzML	Mus musculus	monocolonized	Bacteroides massiliensis DSM 17679	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_massiliensis_DSM_17679_SI-2.mzML	Mus musculus	monocolonized	Bacteroides massiliensis DSM 17679	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_massiliensis_DSM_17679_SI-3.mzML	Mus musculus	monocolonized	Bacteroides massiliensis DSM 17679	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_ovatus_ATCC8483_CO-1.mzML	Mus musculus	monocolonized	Bacteroides ovatus ATCC8483	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_ovatus_ATCC8483_CO-2.mzML	Mus musculus	monocolonized	Bacteroides ovatus ATCC8483	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_ovatus_ATCC8483_CO-3.mzML	Mus musculus	monocolonized	Bacteroides ovatus ATCC8483	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_ovatus_ATCC8483_SI-1.mzML	Mus musculus	monocolonized	Bacteroides ovatus ATCC8483	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_ovatus_ATCC8483_SI-2.mzML	Mus musculus	monocolonized	Bacteroides ovatus ATCC8483	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_ovatus_ATCC8483_SI-3.mzML	Mus musculus	monocolonized	Bacteroides ovatus ATCC8483	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_salanitronis_DSM_18170_CO-1.mzML	Mus musculus	monocolonized	Bacteroides salanitronis DSM 18170	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_salanitronis_DSM_18170_CO-2.mzML	Mus musculus	monocolonized	Bacteroides salanitronis DSM 18170	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_salanitronis_DSM_18170_CO-3.mzML	Mus musculus	monocolonized	Bacteroides salanitronis DSM 18170	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_salanitronis_DSM_18170_SI-1.mzML	Mus musculus	monocolonized	Bacteroides salanitronis DSM 18170	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_salanitronis_DSM_18170_SI-2.mzML	Mus musculus	monocolonized	Bacteroides salanitronis DSM 18170	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_salanitronis_DSM_18170_SI-3.mzML	Mus musculus	monocolonized	Bacteroides salanitronis DSM 18170	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_thetatiotaomicron_ATCC29741_CO-1.mzML	Mus musculus	monocolonized	Bacteroides thetatiotaomicron ATCC29741	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_thetatiotaomicron_ATCC29741_CO-2.mzML	Mus musculus	monocolonized	Bacteroides thetatiotaomicron ATCC29741	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_thetatiotaomicron_ATCC29741_CO-3.mzML	Mus musculus	monocolonized	Bacteroides thetatiotaomicron ATCC29741	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_thetatiotaomicron_ATCC29741_SI-1.mzML	Mus musculus	monocolonized	Bacteroides thetatiotaomicron ATCC29741	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_thetatiotaomicron_ATCC29741_SI-2.mzML	Mus musculus	monocolonized	Bacteroides thetatiotaomicron ATCC29741	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_thetatiotaomicron_ATCC29741_SI-3.mzML	Mus musculus	monocolonized	Bacteroides thetatiotaomicron ATCC29741	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_uniformis_AO9_CO-1.mzML	Mus musculus	monocolonized	Bacteroides uniformis AO9	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_uniformis_AO9_CO-2.mzML	Mus musculus	monocolonized	Bacteroides uniformis AO9	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_uniformis_AO9_CO-3.mzML	Mus musculus	monocolonized	Bacteroides uniformis AO9	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_uniformis_AO9_SI-1.mzML	Mus musculus	monocolonized	Bacteroides uniformis AO9	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_uniformis_AO9_SI-2.mzML	Mus musculus	monocolonized	Bacteroides uniformis AO9	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_uniformis_AO9_SI-3.mzML	Mus musculus	monocolonized	Bacteroides uniformis AO9	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_vulgatus_ATCC8482_CO-1.mzML	Mus musculus	monocolonized	Bacteroides vulgatus ATCC8482	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_vulgatus_ATCC8482_CO-2.mzML	Mus musculus	monocolonized	Bacteroides vulgatus ATCC8482	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_vulgatus_ATCC8482_CO-3.mzML	Mus musculus	monocolonized	Bacteroides vulgatus ATCC8482	colon	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_vulgatus_ATCC8482_SI-1.mzML	Mus musculus	monocolonized	Bacteroides vulgatus ATCC8482	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_vulgatus_ATCC8482_SI-2.mzML	Mus musculus	monocolonized	Bacteroides vulgatus ATCC8482	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bacteroides_vulgatus_ATCC8482_SI-3.mzML	Mus musculus	monocolonized	Bacteroides vulgatus ATCC8482	small intestine	Bacteroidaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Bifidobacterium_adolescentis_Strain_L2-32__CO-1.mzML	Mus musculus	monocolonized	Bifidobacterium adolescentis Strain L2-32 	colon	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Bifidobacterium_adolescentis_Strain_L2-32__CO-2.mzML	Mus musculus	monocolonized	Bifidobacterium adolescentis Strain L2-32 	colon	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Bifidobacterium_adolescentis_Strain_L2-32__CO-3.mzML	Mus musculus	monocolonized	Bifidobacterium adolescentis Strain L2-32 	colon	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Bifidobacterium_adolescentis_Strain_L2-32__SI-1.mzML	Mus musculus	monocolonized	Bifidobacterium adolescentis Strain L2-32 	small intestine	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Bifidobacterium_adolescentis_Strain_L2-32__SI-2.mzML	Mus musculus	monocolonized	Bifidobacterium adolescentis Strain L2-32 	small intestine	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Bifidobacterium_adolescentis_Strain_L2-32__SI-3.mzML	Mus musculus	monocolonized	Bifidobacterium adolescentis Strain L2-32 	small intestine	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Bifidobacterium_breve_Strain_EX336960VC19_CO-1.mzML	Mus musculus	monocolonized	Bifidobacterium breve Strain EX336960VC19	colon	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Bifidobacterium_breve_Strain_EX336960VC19_CO-2.mzML	Mus musculus	monocolonized	Bifidobacterium breve Strain EX336960VC19	colon	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Bifidobacterium_breve_Strain_EX336960VC19_CO-3.mzML	Mus musculus	monocolonized	Bifidobacterium breve Strain EX336960VC19	colon	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Bifidobacterium_breve_Strain_EX336960VC19_SI-1.mzML	Mus musculus	monocolonized	Bifidobacterium breve Strain EX336960VC19	small intestine	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Bifidobacterium_breve_Strain_EX336960VC19_SI-2.mzML	Mus musculus	monocolonized	Bifidobacterium breve Strain EX336960VC19	small intestine	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Bifidobacterium_breve_Strain_EX336960VC19_SI-3.mzML	Mus musculus	monocolonized	Bifidobacterium breve Strain EX336960VC19	small intestine	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Bifidobacterium_longum_strain_44_CO-1.mzML	Mus musculus	monocolonized	Bifidobacterium longum strain 44	colon	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Bifidobacterium_longum_strain_44_CO-2.mzML	Mus musculus	monocolonized	Bifidobacterium longum strain 44	colon	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Bifidobacterium_longum_strain_44_CO-3.mzML	Mus musculus	monocolonized	Bifidobacterium longum strain 44	colon	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Bifidobacterium_longum_strain_44_SI-1.mzML	Mus musculus	monocolonized	Bifidobacterium longum strain 44	small intestine	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Bifidobacterium_longum_strain_44_SI-2.mzML	Mus musculus	monocolonized	Bifidobacterium longum strain 44	small intestine	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Bifidobacterium_longum_strain_44_SI-3.mzML	Mus musculus	monocolonized	Bifidobacterium longum strain 44	small intestine	Bifidobacteriaceae	Bifidobacteriales	Actinomycetes	Actinomycetota
+Campylobacter_jejuni_Strain_AS-84-79_CO-1.mzML	Mus musculus	monocolonized	Campylobacter jejuni Strain AS-84-79	colon	Campylobacteraceae	Campylobacterales	Epsilonproteobacteria	Campylobacterota
+Campylobacter_jejuni_Strain_AS-84-79_CO-2.mzML	Mus musculus	monocolonized	Campylobacter jejuni Strain AS-84-79	colon	Campylobacteraceae	Campylobacterales	Epsilonproteobacteria	Campylobacterota
+Campylobacter_jejuni_Strain_AS-84-79_SI-1.mzML	Mus musculus	monocolonized	Campylobacter jejuni Strain AS-84-79	small intestine	Campylobacteraceae	Campylobacterales	Epsilonproteobacteria	Campylobacterota
+Campylobacter_jejuni_Strain_AS-84-79_SI-2.mzML	Mus musculus	monocolonized	Campylobacter jejuni Strain AS-84-79	small intestine	Campylobacteraceae	Campylobacterales	Epsilonproteobacteria	Campylobacterota
+Closhidium_histolytica_AO25_CO-1.mzML	Mus musculus	monocolonized	Closhidium histolytica AO25	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Closhidium_histolytica_AO25_CO-2.mzML	Mus musculus	monocolonized	Closhidium histolytica AO25	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Closhidium_histolytica_AO25_CO-3.mzML	Mus musculus	monocolonized	Closhidium histolytica AO25	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Closhidium_histolytica_AO25_SI-1.mzML	Mus musculus	monocolonized	Closhidium histolytica AO25	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Closhidium_histolytica_AO25_SI-2.mzML	Mus musculus	monocolonized	Closhidium histolytica AO25	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Closhidium_histolytica_AO25_SI-3.mzML	Mus musculus	monocolonized	Closhidium histolytica AO25	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_perfringes_ATCC13124_CO-1.mzML	Mus musculus	monocolonized	Clostridium perfringes ATCC13124	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_perfringes_ATCC13124_CO-2.mzML	Mus musculus	monocolonized	Clostridium perfringes ATCC13124	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_perfringes_ATCC13124_CO-3.mzML	Mus musculus	monocolonized	Clostridium perfringes ATCC13124	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_perfringes_ATCC13124_SI-1.mzML	Mus musculus	monocolonized	Clostridium perfringes ATCC13124	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_perfringes_ATCC13124_SI-2.mzML	Mus musculus	monocolonized	Clostridium perfringes ATCC13124	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_perfringes_ATCC13124_SI-3.mzML	Mus musculus	monocolonized	Clostridium perfringes ATCC13124	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_ramosum_AO31_CO-1.mzML	Mus musculus	monocolonized	Clostridium ramosum AO31	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_ramosum_AO31_CO-2.mzML	Mus musculus	monocolonized	Clostridium ramosum AO31	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_ramosum_AO31_CO-3.mzML	Mus musculus	monocolonized	Clostridium ramosum AO31	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_ramosum_AO31_SI-1.mzML	Mus musculus	monocolonized	Clostridium ramosum AO31	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_ramosum_AO31_SI-2.mzML	Mus musculus	monocolonized	Clostridium ramosum AO31	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_ramosum_AO31_SI-3.mzML	Mus musculus	monocolonized	Clostridium ramosum AO31	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_scindens_ATCC35704_CO-1.mzML	Mus musculus	monocolonized	Clostridium scindens ATCC35704	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_scindens_ATCC35704_CO-2.mzML	Mus musculus	monocolonized	Clostridium scindens ATCC35704	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_scindens_ATCC35704_CO-3.mzML	Mus musculus	monocolonized	Clostridium scindens ATCC35704	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_scindens_ATCC35704_SI-1.mzML	Mus musculus	monocolonized	Clostridium scindens ATCC35704	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_scindens_ATCC35704_SI-2.mzML	Mus musculus	monocolonized	Clostridium scindens ATCC35704	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_scindens_ATCC35704_SI-3.mzML	Mus musculus	monocolonized	Clostridium scindens ATCC35704	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_sordelli_AO32_CO-1.mzML	Mus musculus	monocolonized	Clostridium sordelli AO32	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_sordelli_AO32_CO-2.mzML	Mus musculus	monocolonized	Clostridium sordelli AO32	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_sordelli_AO32_CO-3.mzML	Mus musculus	monocolonized	Clostridium sordelli AO32	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_sordelli_AO32_SI-1.mzML	Mus musculus	monocolonized	Clostridium sordelli AO32	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_sordelli_AO32_SI-2.mzML	Mus musculus	monocolonized	Clostridium sordelli AO32	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_sordelli_AO32_SI-3.mzML	Mus musculus	monocolonized	Clostridium sordelli AO32	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_sporogenes_ATCC_15579_CO-1.mzML	Mus musculus	monocolonized	Clostridium sporogenes ATCC 15579	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_sporogenes_ATCC_15579_CO-2.mzML	Mus musculus	monocolonized	Clostridium sporogenes ATCC 15579	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_sporogenes_ATCC_15579_CO-3.mzML	Mus musculus	monocolonized	Clostridium sporogenes ATCC 15579	colon	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_sporogenes_ATCC_15579_SI-1.mzML	Mus musculus	monocolonized	Clostridium sporogenes ATCC 15579	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_sporogenes_ATCC_15579_SI-2.mzML	Mus musculus	monocolonized	Clostridium sporogenes ATCC 15579	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Clostridium_sporogenes_ATCC_15579_SI-3.mzML	Mus musculus	monocolonized	Clostridium sporogenes ATCC 15579	small intestine	Clostridiaceae	Eubacteriales	Clostridia	Bacillota
+Collinsella_aerofaciens_strain_DSM_3979_CO-2.mzML	Mus musculus	monocolonized	Collinsella aerofaciens strain DSM 3979	colon	Coriobacteriaceae	Coriobacteriales	Coriobacteriia	Actinomycetota
+Collinsella_aerofaciens_strain_DSM_3979_CO-3.mzML	Mus musculus	monocolonized	Collinsella aerofaciens strain DSM 3979	colon	Coriobacteriaceae	Coriobacteriales	Coriobacteriia	Actinomycetota
+Collinsella_aerofaciens_strain_DSM_3979_SI-1.mzML	Mus musculus	monocolonized	Collinsella aerofaciens strain DSM 3979	small intestine	Coriobacteriaceae	Coriobacteriales	Coriobacteriia	Actinomycetota
+Collinsella_aerofaciens_strain_DSM_3979_SI-2.mzML	Mus musculus	monocolonized	Collinsella aerofaciens strain DSM 3979	small intestine	Coriobacteriaceae	Coriobacteriales	Coriobacteriia	Actinomycetota
+Collinsella_aerofaciens_strain_DSM_3979_SI-3.mzML	Mus musculus	monocolonized	Collinsella aerofaciens strain DSM 3979	small intestine	Coriobacteriaceae	Coriobacteriales	Coriobacteriia	Actinomycetota
+Collinsella_aerofaciens_strain_SM_3979_CO-1.mzML	Mus musculus	monocolonized	Collinsella aerofaciens strain DSM 3979	colon	Coriobacteriaceae	Coriobacteriales	Coriobacteriia	Actinomycetota
+Enterococcus_faecalis_SF19_CO-1.mzML	Mus musculus	monocolonized	Enterococcus faecalis SF19	colon	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecalis_SF19_CO-2.mzML	Mus musculus	monocolonized	Enterococcus faecalis SF19	colon	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecalis_SF19_CO-3.mzML	Mus musculus	monocolonized	Enterococcus faecalis SF19	colon	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecalis_SF19_SI-1.mzML	Mus musculus	monocolonized	Enterococcus faecalis SF19	small intestine	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecalis_SF19_SI-2.mzML	Mus musculus	monocolonized	Enterococcus faecalis SF19	small intestine	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecalis_SF19_SI-3.mzML	Mus musculus	monocolonized	Enterococcus faecalis SF19	small intestine	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecalis_TX0104_CO-1.mzML	Mus musculus	monocolonized	Enterococcus faecalis TX0104	colon	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecalis_TX0104_CO-2.mzML	Mus musculus	monocolonized	Enterococcus faecalis TX0104	colon	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecalis_TX0104_CO-3.mzML	Mus musculus	monocolonized	Enterococcus faecalis TX0104	colon	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecalis_TX0104_SI-1.mzML	Mus musculus	monocolonized	Enterococcus faecalis TX0104	small intestine	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecalis_TX0104_SI-2.mzML	Mus musculus	monocolonized	Enterococcus faecalis TX0104	small intestine	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecalis_TX0104_SI-3.mzML	Mus musculus	monocolonized	Enterococcus faecalis TX0104	small intestine	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecalis_V583_CO-1.mzML	Mus musculus	monocolonized	Enterococcus faecalis V583	colon	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecalis_V583_CO-2.mzML	Mus musculus	monocolonized	Enterococcus faecalis V583	colon	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecalis_V583_CO-3.mzML	Mus musculus	monocolonized	Enterococcus faecalis V583	colon	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecalis_V583_SI-1.mzML	Mus musculus	monocolonized	Enterococcus faecalis V583	small intestine	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecalis_V583_SI-2.mzML	Mus musculus	monocolonized	Enterococcus faecalis V583	small intestine	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecalis_V583_SI-3.mzML	Mus musculus	monocolonized	Enterococcus faecalis V583	small intestine	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecium_TX1330_CO-1.mzML	Mus musculus	monocolonized	Enterococcus faecium TX1330	colon	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecium_TX1330_CO-2.mzML	Mus musculus	monocolonized	Enterococcus faecium TX1330	colon	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecium_TX1330_CO-3.mzML	Mus musculus	monocolonized	Enterococcus faecium TX1330	colon	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecium_TX1330_SI-1.mzML	Mus musculus	monocolonized	Enterococcus faecium TX1330	small intestine	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecium_TX1330_SI-2.mzML	Mus musculus	monocolonized	Enterococcus faecium TX1330	small intestine	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Enterococcus_faecium_TX1330_SI-3.mzML	Mus musculus	monocolonized	Enterococcus faecium TX1330	small intestine	Enterococcaceae	Lactobacillales	Bacilli	Bacillota
+Escherichia_coli_Nissle_1917_CO-1.mzML	Mus musculus	monocolonized	Escherichia coli Nissle 1917	colon	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Pseudomonadota
+Escherichia_coli_Nissle_1917_CO-2.mzML	Mus musculus	monocolonized	Escherichia coli Nissle 1917	colon	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Pseudomonadota
+Escherichia_coli_Nissle_1917_CO-3.mzML	Mus musculus	monocolonized	Escherichia coli Nissle 1917	colon	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Pseudomonadota
+Escherichia_coli_Nissle_1917_SI-1.mzML	Mus musculus	monocolonized	Escherichia coli Nissle 1917	small intestine	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Pseudomonadota
+Escherichia_coli_Nissle_1917_SI-2.mzML	Mus musculus	monocolonized	Escherichia coli Nissle 1917	small intestine	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Pseudomonadota
+Escherichia_coli_Nissle_1917_SI-3.mzML	Mus musculus	monocolonized	Escherichia coli Nissle 1917	small intestine	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Pseudomonadota
+Faecalibacterium_Prausnitzii_ATCC_27768_CO-1.mzML	Mus musculus	monocolonized	Faecalibacterium Prausnitzii ATCC 27768	colon	Oscillospiraceae	Eubacteriales	Clostridia	Bacillota
+Faecalibacterium_Prausnitzii_ATCC_27768_CO-2.mzML	Mus musculus	monocolonized	Faecalibacterium Prausnitzii ATCC 27768	colon	Oscillospiraceae	Eubacteriales	Clostridia	Bacillota
+Faecalibacterium_Prausnitzii_ATCC_27768_CO-3.mzML	Mus musculus	monocolonized	Faecalibacterium Prausnitzii ATCC 27768	colon	Oscillospiraceae	Eubacteriales	Clostridia	Bacillota
+Faecalibacterium_Prausnitzii_ATCC_27768_SI-1.mzML	Mus musculus	monocolonized	Faecalibacterium Prausnitzii ATCC 27768	small intestine	Oscillospiraceae	Eubacteriales	Clostridia	Bacillota
+Faecalibacterium_Prausnitzii_ATCC_27768_SI-2.mzML	Mus musculus	monocolonized	Faecalibacterium Prausnitzii ATCC 27768	small intestine	Oscillospiraceae	Eubacteriales	Clostridia	Bacillota
+Faecalibacterium_Prausnitzii_ATCC_27768_SI-3.mzML	Mus musculus	monocolonized	Faecalibacterium Prausnitzii ATCC 27768	small intestine	Oscillospiraceae	Eubacteriales	Clostridia	Bacillota
+Fusicatenibacter_saccharivorans_DSM_26062_CO-1.mzML	Mus musculus	monocolonized	Fusicatenibacter saccharivorans DSM 26062	colon	Lachnospiraceae	Lachnospirales	Clostridia	Bacillota
+Fusicatenibacter_saccharivorans_DSM_26062_CO-2.mzML	Mus musculus	monocolonized	Fusicatenibacter saccharivorans DSM 26062	colon	Lachnospiraceae	Lachnospirales	Clostridia	Bacillota
+Fusicatenibacter_saccharivorans_DSM_26062_CO-3.mzML	Mus musculus	monocolonized	Fusicatenibacter saccharivorans DSM 26062	colon	Lachnospiraceae	Lachnospirales	Clostridia	Bacillota
+Fusicatenibacter_saccharivorans_DSM_26062_SI-1.mzML	Mus musculus	monocolonized	Fusicatenibacter saccharivorans DSM 26062	small intestine	Lachnospiraceae	Lachnospirales	Clostridia	Bacillota
+Fusicatenibacter_saccharivorans_DSM_26062_SI-2.mzML	Mus musculus	monocolonized	Fusicatenibacter saccharivorans DSM 26062	small intestine	Lachnospiraceae	Lachnospirales	Clostridia	Bacillota
+Fusicatenibacter_saccharivorans_DSM_26062_SI-3.mzML	Mus musculus	monocolonized	Fusicatenibacter saccharivorans DSM 26062	small intestine	Lachnospiraceae	Lachnospirales	Clostridia	Bacillota
+Fusobacterium_mortiforum_CO-1.mzML	Mus musculus	monocolonized	Fusobacterium varium AO16	colon	Fusobacteriaceae	Fusobacteriales	Fusobacteriia	Fusobacteriota
+Fusobacterium_mortiforum_CO-2.mzML	Mus musculus	monocolonized	Fusobacterium varium AO16	colon	Fusobacteriaceae	Fusobacteriales	Fusobacteriia	Fusobacteriota
+Fusobacterium_mortiforum_CO-3.mzML	Mus musculus	monocolonized	Fusobacterium varium AO16	colon	Fusobacteriaceae	Fusobacteriales	Fusobacteriia	Fusobacteriota
+Fusobacterium_mortiforum_SI-1.mzML	Mus musculus	monocolonized	Fusobacterium varium AO16	small intestine	Fusobacteriaceae	Fusobacteriales	Fusobacteriia	Fusobacteriota
+Fusobacterium_mortiforum_SI-2.mzML	Mus musculus	monocolonized	Fusobacterium varium AO16	small intestine	Fusobacteriaceae	Fusobacteriales	Fusobacteriia	Fusobacteriota
+Fusobacterium_mortiforum_SI-3.mzML	Mus musculus	monocolonized	Fusobacterium varium AO16	small intestine	Fusobacteriaceae	Fusobacteriales	Fusobacteriia	Fusobacteriota
+Klebsiella_sp_4_1_44FAA_CO-1.mzML	Mus musculus	monocolonized	Klebsiella sp 4 1 44FAA	colon	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Pseudomonadota
+Klebsiella_sp_4_1_44FAA_CO-2.mzML	Mus musculus	monocolonized	Klebsiella sp 4 1 44FAA	colon	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Pseudomonadota
+Klebsiella_sp_4_1_44FAA_CO-3.mzML	Mus musculus	monocolonized	Klebsiella sp 4 1 44FAA	colon	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Pseudomonadota
+Klebsiella_sp_4_1_44FAA_SI-1.mzML	Mus musculus	monocolonized	Klebsiella sp 4 1 44FAA	small intestine	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Pseudomonadota
+Klebsiella_sp_4_1_44FAA_SI-2.mzML	Mus musculus	monocolonized	Klebsiella sp 4 1 44FAA	small intestine	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Pseudomonadota
+Klebsiella_sp_4_1_44FAA_SI-3.mzML	Mus musculus	monocolonized	Klebsiella sp 4 1 44FAA	small intestine	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Pseudomonadota
+Lachnospiraceae_sp_Strain_2_1_58FAA_CO-1.mzML	Mus musculus	monocolonized	Lachnospiraceae sp Strain 2 1 58FAA	colon	Lachnospiraceae	Lachnospirales	Clostridia	Bacillota
+Lachnospiraceae_sp_Strain_2_1_58FAA_CO-2.mzML	Mus musculus	monocolonized	Lachnospiraceae sp Strain 2 1 58FAA	colon	Lachnospiraceae	Lachnospirales	Clostridia	Bacillota
+Lachnospiraceae_sp_Strain_2_1_58FAA_CO-3.mzML	Mus musculus	monocolonized	Lachnospiraceae sp Strain 2 1 58FAA	colon	Lachnospiraceae	Lachnospirales	Clostridia	Bacillota
+Lachnospiraceae_sp_Strain_2_1_58FAA_SI-1.mzML	Mus musculus	monocolonized	Lachnospiraceae sp Strain 2 1 58FAA	small intestine	Lachnospiraceae	Lachnospirales	Clostridia	Bacillota
+Lachnospiraceae_sp_Strain_2_1_58FAA_SI-2.mzML	Mus musculus	monocolonized	Lachnospiraceae sp Strain 2 1 58FAA	small intestine	Lachnospiraceae	Lachnospirales	Clostridia	Bacillota
+Lachnospiraceae_sp_Strain_2_1_58FAA_SI-3.mzML	Mus musculus	monocolonized	Lachnospiraceae sp Strain 2 1 58FAA	small intestine	Lachnospiraceae	Lachnospirales	Clostridia	Bacillota
+Lactobacillus_acidophilus_ATCC_832_CO-1.mzML	Mus musculus	monocolonized	Lactobacillus acidophilus ATCC 832	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_acidophilus_ATCC_832_CO-2.mzML	Mus musculus	monocolonized	Lactobacillus acidophilus ATCC 832	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_acidophilus_ATCC_832_SI-1.mzML	Mus musculus	monocolonized	Lactobacillus acidophilus ATCC 832	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_acidophilus_ATCC_832_SI-2.mzML	Mus musculus	monocolonized	Lactobacillus acidophilus ATCC 832	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_gasseri_ATCC_33323_CO-1.mzML	Mus musculus	monocolonized	Lactobacillus gasseri ATCC 33323	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_gasseri_ATCC_33323_CO-2.mzML	Mus musculus	monocolonized	Lactobacillus gasseri ATCC 33323	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_gasseri_ATCC_33323_CO-3.mzML	Mus musculus	monocolonized	Lactobacillus gasseri ATCC 33323	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_gasseri_ATCC_33323_SI-1.mzML	Mus musculus	monocolonized	Lactobacillus gasseri ATCC 33323	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_gasseri_ATCC_33323_SI-2.mzML	Mus musculus	monocolonized	Lactobacillus gasseri ATCC 33323	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_gasseri_ATCC_33323_SI-3.mzML	Mus musculus	monocolonized	Lactobacillus gasseri ATCC 33323	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_gasseri_MV-22_CO-1.mzML	Mus musculus	monocolonized	Lactobacillus gasseri MV-22	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_gasseri_MV-22_CO-2.mzML	Mus musculus	monocolonized	Lactobacillus gasseri MV-22	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_gasseri_MV-22_CO-3.mzML	Mus musculus	monocolonized	Lactobacillus gasseri MV-22	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_gasseri_MV-22_SI-1.mzML	Mus musculus	monocolonized	Lactobacillus gasseri MV-22	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_gasseri_MV-22_SI-2.mzML	Mus musculus	monocolonized	Lactobacillus gasseri MV-22	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_gasseri_MV-22_SI-3.mzML	Mus musculus	monocolonized	Lactobacillus gasseri MV-22	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_Johnsonii_CO-1.mzML	Mus musculus	monocolonized	Lactobacillus Johnsonii	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_Johnsonii_CO-2.mzML	Mus musculus	monocolonized	Lactobacillus Johnsonii	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_Johnsonii_CO-3.mzML	Mus musculus	monocolonized	Lactobacillus Johnsonii	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_Johnsonii_SI-1.mzML	Mus musculus	monocolonized	Lactobacillus Johnsonii	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_Johnsonii_SI-2.mzML	Mus musculus	monocolonized	Lactobacillus Johnsonii	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_Johnsonii_SI-3.mzML	Mus musculus	monocolonized	Lactobacillus Johnsonii	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_plantarum_ATCC_BAA793_CO-1.mzML	Mus musculus	monocolonized	Lactobacillus plantarum ATCC BAA793	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_plantarum_ATCC_BAA793_CO-2.mzML	Mus musculus	monocolonized	Lactobacillus plantarum ATCC BAA793	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_plantarum_ATCC_BAA793_SI-1.mzML	Mus musculus	monocolonized	Lactobacillus plantarum ATCC BAA793	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_plantarum_ATCC_BAA793_SI-2.mzML	Mus musculus	monocolonized	Lactobacillus plantarum ATCC BAA793	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_reuteri_CF48-3A_CO-1.mzML	Mus musculus	monocolonized	Lactobacillus reuteri CF48-3A	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_reuteri_CF48-3A_CO-2.mzML	Mus musculus	monocolonized	Lactobacillus reuteri CF48-3A	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_reuteri_CF48-3A_CO-3.mzML	Mus musculus	monocolonized	Lactobacillus reuteri CF48-3A	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_reuteri_CF48-3A_SI-1.mzML	Mus musculus	monocolonized	Lactobacillus reuteri CF48-3A	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_reuteri_CF48-3A_SI-2.mzML	Mus musculus	monocolonized	Lactobacillus reuteri CF48-3A	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_reuteri_CF48-3A_SI-3.mzML	Mus musculus	monocolonized	Lactobacillus reuteri CF48-3A	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_rhamnosus_ATCC_8530_CO-1.mzML	Mus musculus	monocolonized	Lactobacillus rhamnosus ATCC 8530	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_rhamnosus_ATCC_8530_CO-2.mzML	Mus musculus	monocolonized	Lactobacillus rhamnosus ATCC 8530	colon	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_rhamnosus_ATCC_8530_SI-1.mzML	Mus musculus	monocolonized	Lactobacillus rhamnosus ATCC 8530	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Lactobacillus_rhamnosus_ATCC_8530_SI-2.mzML	Mus musculus	monocolonized	Lactobacillus rhamnosus ATCC 8530	small intestine	Lactobacillaceae	Lactobacillales	Bacilli	Bacillota
+Neisseria_mucosa_strain_C102_CO-1.mzML	Mus musculus	monocolonized	Neisseria mucosa strain C102	colon	Neisseriaceae	Neisseriales	Betaproteobacteria	Pseudomonadota
+Neisseria_mucosa_strain_C102_CO-2.mzML	Mus musculus	monocolonized	Neisseria mucosa strain C102	colon	Neisseriaceae	Neisseriales	Betaproteobacteria	Pseudomonadota
+Neisseria_mucosa_strain_C102_CO-3.mzML	Mus musculus	monocolonized	Neisseria mucosa strain C102	colon	Neisseriaceae	Neisseriales	Betaproteobacteria	Pseudomonadota
+Neisseria_mucosa_strain_C102_SI-1.mzML	Mus musculus	monocolonized	Neisseria mucosa strain C102	small intestine	Neisseriaceae	Neisseriales	Betaproteobacteria	Pseudomonadota
+Neisseria_mucosa_strain_C102_SI-2.mzML	Mus musculus	monocolonized	Neisseria mucosa strain C102	small intestine	Neisseriaceae	Neisseriales	Betaproteobacteria	Pseudomonadota
+Neisseria_mucosa_strain_C102_SI-3.mzML	Mus musculus	monocolonized	Neisseria mucosa strain C102	small intestine	Neisseriaceae	Neisseriales	Betaproteobacteria	Pseudomonadota
+Parabacteroides_Distasonas_CLO3T12C09_CO-1.mzML	Mus musculus	monocolonized	Parabacteroides Distasonas CLO3T12C09	colon	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Parabacteroides_Distasonas_CLO3T12C09_CO-2.mzML	Mus musculus	monocolonized	Parabacteroides Distasonas CLO3T12C09	colon	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Parabacteroides_Distasonas_CLO3T12C09_CO-3.mzML	Mus musculus	monocolonized	Parabacteroides Distasonas CLO3T12C09	colon	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Parabacteroides_Distasonas_CLO3T12C09_SI-1.mzML	Mus musculus	monocolonized	Parabacteroides Distasonas CLO3T12C09	small intestine	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Parabacteroides_Distasonas_CLO3T12C09_SI-2.mzML	Mus musculus	monocolonized	Parabacteroides Distasonas CLO3T12C09	small intestine	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Parabacteroides_Distasonas_CLO3T12C09_SI-3.mzML	Mus musculus	monocolonized	Parabacteroides Distasonas CLO3T12C09	small intestine	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Parabacteroides_goldsteinii_CLO2T12C30_CO-1.mzML	Mus musculus	monocolonized	Parabacteroides goldsteinii CLO2T12C30	colon	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Parabacteroides_goldsteinii_CLO2T12C30_CO-2.mzML	Mus musculus	monocolonized	Parabacteroides goldsteinii CLO2T12C30	colon	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Parabacteroides_goldsteinii_CLO2T12C30_CO-3.mzML	Mus musculus	monocolonized	Parabacteroides goldsteinii CLO2T12C30	colon	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Parabacteroides_goldsteinii_CLO2T12C30_SI-1.mzML	Mus musculus	monocolonized	Parabacteroides goldsteinii CLO2T12C30	small intestine	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Parabacteroides_goldsteinii_CLO2T12C30_SI-2.mzML	Mus musculus	monocolonized	Parabacteroides goldsteinii CLO2T12C30	small intestine	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Parabacteroides_goldsteinii_CLO2T12C30_SI-3.mzML	Mus musculus	monocolonized	Parabacteroides goldsteinii CLO2T12C30	small intestine	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Parabacteroides_merdae_CL03T12C32_CO-1.mzML	Mus musculus	monocolonized	Parabacteroides merdae CL03T12C32	colon	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Parabacteroides_merdae_CL03T12C32_CO-2.mzML	Mus musculus	monocolonized	Parabacteroides merdae CL03T12C32	colon	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Parabacteroides_merdae_CL03T12C32_CO-3.mzML	Mus musculus	monocolonized	Parabacteroides merdae CL03T12C32	colon	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Parabacteroides_merdae_CL03T12C32_SI-1.mzML	Mus musculus	monocolonized	Parabacteroides merdae CL03T12C32	small intestine	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Parabacteroides_merdae_CL03T12C32_SI-2.mzML	Mus musculus	monocolonized	Parabacteroides merdae CL03T12C32	small intestine	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Parabacteroides_merdae_CL03T12C32_SI-3.mzML	Mus musculus	monocolonized	Parabacteroides merdae CL03T12C32	small intestine	Tannerellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Paraprevotella_clara_DSM_19731_CO-1.mzML	Mus musculus	monocolonized	Paraprevotella clara DSM 19731	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Paraprevotella_clara_DSM_19731_CO-2.mzML	Mus musculus	monocolonized	Paraprevotella clara DSM 19731	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Paraprevotella_clara_DSM_19731_CO-3.mzML	Mus musculus	monocolonized	Paraprevotella clara DSM 19731	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Paraprevotella_clara_DSM_19731_SI-1.mzML	Mus musculus	monocolonized	Paraprevotella clara DSM 19731	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Paraprevotella_clara_DSM_19731_SI-2.mzML	Mus musculus	monocolonized	Paraprevotella clara DSM 19731	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Paraprevotella_clara_DSM_19731_SI-3.mzML	Mus musculus	monocolonized	Paraprevotella clara DSM 19731	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Paraprevotella_xylaniphila_DSM_19681_CO-1.mzML	Mus musculus	monocolonized	Paraprevotella xylaniphila DSM 19681	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Paraprevotella_xylaniphila_DSM_19681_CO-2.mzML	Mus musculus	monocolonized	Paraprevotella xylaniphila DSM 19681	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Paraprevotella_xylaniphila_DSM_19681_CO-3.mzML	Mus musculus	monocolonized	Paraprevotella xylaniphila DSM 19681	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Paraprevotella_xylaniphila_DSM_19681_SI-1.mzML	Mus musculus	monocolonized	Paraprevotella xylaniphila DSM 19681	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Paraprevotella_xylaniphila_DSM_19681_SI-2.mzML	Mus musculus	monocolonized	Paraprevotella xylaniphila DSM 19681	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Paraprevotella_xylaniphila_DSM_19681_SI-3.mzML	Mus musculus	monocolonized	Paraprevotella xylaniphila DSM 19681	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Peptostreptococcus_magnus_AO29_CO-1.mzML	Mus musculus	monocolonized	Peptostreptococcus magnus AO29	colon	Peptostreptococcaceae	Peptostreptococcales	Clostridia	Bacillota
+Peptostreptococcus_magnus_AO29_CO-2.mzML	Mus musculus	monocolonized	Peptostreptococcus magnus AO29	colon	Peptostreptococcaceae	Peptostreptococcales	Clostridia	Bacillota
+Peptostreptococcus_magnus_AO29_CO-3.mzML	Mus musculus	monocolonized	Peptostreptococcus magnus AO29	colon	Peptostreptococcaceae	Peptostreptococcales	Clostridia	Bacillota
+Peptostreptococcus_magnus_AO29_SI-1.mzML	Mus musculus	monocolonized	Peptostreptococcus magnus AO29	small intestine	Peptostreptococcaceae	Peptostreptococcales	Clostridia	Bacillota
+Peptostreptococcus_magnus_AO29_SI-2.mzML	Mus musculus	monocolonized	Peptostreptococcus magnus AO29	small intestine	Peptostreptococcaceae	Peptostreptococcales	Clostridia	Bacillota
+Peptostreptococcus_magnus_AO29_SI-3.mzML	Mus musculus	monocolonized	Peptostreptococcus magnus AO29	small intestine	Peptostreptococcaceae	Peptostreptococcales	Clostridia	Bacillota
+Prevotella_bivia_AO2_CO-1.mzML	Mus musculus	monocolonized	Prevotella bivia AO2	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_bivia_AO2_CO-2.mzML	Mus musculus	monocolonized	Prevotella bivia AO2	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_bivia_AO2_CO-3.mzML	Mus musculus	monocolonized	Prevotella bivia AO2	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_bivia_AO2_SI-1.mzML	Mus musculus	monocolonized	Prevotella bivia AO2	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_bivia_AO2_SI-2.mzML	Mus musculus	monocolonized	Prevotella bivia AO2	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_bivia_AO2_SI-3.mzML	Mus musculus	monocolonized	Prevotella bivia AO2	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_buccae_AO21_CO-1.mzML	Mus musculus	monocolonized	Prevotella buccae AO21	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_buccae_AO21_CO-2.mzML	Mus musculus	monocolonized	Prevotella buccae AO21	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_buccae_AO21_CO-3.mzML	Mus musculus	monocolonized	Prevotella buccae AO21	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_buccae_AO21_SI-1.mzML	Mus musculus	monocolonized	Prevotella buccae AO21	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_buccae_AO21_SI-2.mzML	Mus musculus	monocolonized	Prevotella buccae AO21	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_buccae_AO21_SI-3.mzML	Mus musculus	monocolonized	Prevotella buccae AO21	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_copri_DSM_18205_CO-1.mzML	Mus musculus	monocolonized	Prevotella copri DSM 18205	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_copri_DSM_18205_CO-2.mzML	Mus musculus	monocolonized	Prevotella copri DSM 18205	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_copri_DSM_18205_CO-3.mzML	Mus musculus	monocolonized	Prevotella copri DSM 18205	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_copri_DSM_18205_SI-1.mzML	Mus musculus	monocolonized	Prevotella copri DSM 18205	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_copri_DSM_18205_SI-2.mzML	Mus musculus	monocolonized	Prevotella copri DSM 18205	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_copri_DSM_18205_SI-3.mzML	Mus musculus	monocolonized	Prevotella copri DSM 18205	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_disiens_AO22_CO-1.mzML	Mus musculus	monocolonized	Prevotella disiens AO22	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_disiens_AO22_CO-2.mzML	Mus musculus	monocolonized	Prevotella disiens AO22	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_disiens_AO22_CO-3.mzML	Mus musculus	monocolonized	Prevotella disiens AO22	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_disiens_AO22_SI-1.mzML	Mus musculus	monocolonized	Prevotella disiens AO22	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_disiens_AO22_SI-2.mzML	Mus musculus	monocolonized	Prevotella disiens AO22	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_disiens_AO22_SI-3.mzML	Mus musculus	monocolonized	Prevotella disiens AO22	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_stercorea_DSM_18206_CO-1.mzML	Mus musculus	monocolonized	Prevotella stercorea DSM 18206	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_stercorea_DSM_18206_CO-2.mzML	Mus musculus	monocolonized	Prevotella stercorea DSM 18206	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_stercorea_DSM_18206_CO-3.mzML	Mus musculus	monocolonized	Prevotella stercorea DSM 18206	colon	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_stercorea_DSM_18206_SI-1.mzML	Mus musculus	monocolonized	Prevotella stercorea DSM 18206	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_stercorea_DSM_18206_SI-2.mzML	Mus musculus	monocolonized	Prevotella stercorea DSM 18206	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Prevotella_stercorea_DSM_18206_SI-3.mzML	Mus musculus	monocolonized	Prevotella stercorea DSM 18206	small intestine	Prevotellaceae	Bacteroidales	Bacteroidia	Bacteroidota
+Ruminococcus_gnavus_ATCC29149_CO-1.mzML	Mus musculus	monocolonized	Ruminococcus gnavus ATCC29149	colon	Oscillospiraceae	Eubacteriales	Clostridia	Bacillota
+Ruminococcus_gnavus_ATCC29149_CO-2.mzML	Mus musculus	monocolonized	Ruminococcus gnavus ATCC29149	colon	Oscillospiraceae	Eubacteriales	Clostridia	Bacillota
+Ruminococcus_gnavus_ATCC29149_CO-3.mzML	Mus musculus	monocolonized	Ruminococcus gnavus ATCC29149	colon	Oscillospiraceae	Eubacteriales	Clostridia	Bacillota
+Ruminococcus_gnavus_ATCC29149_SI-1.mzML	Mus musculus	monocolonized	Ruminococcus gnavus ATCC29149	small intestine	Oscillospiraceae	Eubacteriales	Clostridia	Bacillota
+Ruminococcus_gnavus_ATCC29149_SI-2.mzML	Mus musculus	monocolonized	Ruminococcus gnavus ATCC29149	small intestine	Oscillospiraceae	Eubacteriales	Clostridia	Bacillota
+Ruminococcus_gnavus_ATCC29149_SI-3.mzML	Mus musculus	monocolonized	Ruminococcus gnavus ATCC29149	small intestine	Oscillospiraceae	Eubacteriales	Clostridia	Bacillota
+Streptococcus_mitis_bv2_F0392_CO-1.mzML	Mus musculus	monocolonized	Streptococcus mitis bv2 F0392	colon	Streptococcaceae	Lactobacillales	Bacilli	Bacillota
+Streptococcus_mitis_bv2_F0392_CO-2.mzML	Mus musculus	monocolonized	Streptococcus mitis bv2 F0392	colon	Streptococcaceae	Lactobacillales	Bacilli	Bacillota
+Streptococcus_mitis_bv2_F0392_CO-3.mzML	Mus musculus	monocolonized	Streptococcus mitis bv2 F0392	colon	Streptococcaceae	Lactobacillales	Bacilli	Bacillota
+Streptococcus_mitis_bv2_F0392_SI-1.mzML	Mus musculus	monocolonized	Streptococcus mitis bv2 F0392	small intestine	Streptococcaceae	Lactobacillales	Bacilli	Bacillota
+Streptococcus_mitis_bv2_F0392_SI-2.mzML	Mus musculus	monocolonized	Streptococcus mitis bv2 F0392	small intestine	Streptococcaceae	Lactobacillales	Bacilli	Bacillota
+Streptococcus_mitis_bv2_F0392_SI-3.mzML	Mus musculus	monocolonized	Streptococcus mitis bv2 F0392	small intestine	Streptococcaceae	Lactobacillales	Bacilli	Bacillota
+QC_Mix_PlateA_01.mzML	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC
+QC_Mix_PlateA_02.mzML	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC
+QC_Mix_PlateA_03_End_of_Plate.mzML	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC
+QC_Mix_PlateB_01.mzML	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC
+QC_Mix_PlateB_02.mzML	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC
+QC_Mix_PlateB_03_End_of_Plate.mzML	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC
+QC_Mix_PlateC_01.mzML	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC
+QC_Mix_PlateC_02.mzML	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC
+QC_Mix_PlateC_03_End_of_Plate.mzML	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC
+QC_Mix_PlateD_01.mzML	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC
+QC_Mix_PlateD_02.mzML	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC
+QC_Mix_PlateD_03_End_of_Plate.mzML	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC	Blank_QC
+SFB_CO-1.mzML	Mus musculus	SFB	SFB	colon	SFB	SFB	SFB	SFB
+SFB_CO-2.mzML	Mus musculus	SFB	SFB	colon	SFB	SFB	SFB	SFB
+SFB_CO-3.mzML	Mus musculus	SFB	SFB	colon	SFB	SFB	SFB	SFB
+SFB_SI-1.mzML	Mus musculus	SFB	SFB	small intestine	SFB	SFB	SFB	SFB
+SFB_SI-2.mzML	Mus musculus	SFB	SFB	small intestine	SFB	SFB	SFB	SFB
+SFB_SI-3.mzML	Mus musculus	SFB	SFB	small intestine	SFB	SFB	SFB	SFB
+SPF_CO-1.mzML	Mus musculus	SPF	SPF	colon	SPF	SPF	SPF	SPF
+SPF_CO-2.mzML	Mus musculus	SPF	SPF	colon	SPF	SPF	SPF	SPF
+SPF_CO-3.mzML	Mus musculus	SPF	SPF	colon	SPF	SPF	SPF	SPF
+SPF_CO-4.mzML	Mus musculus	SPF	SPF	colon	SPF	SPF	SPF	SPF
+SPF_CO-5.mzML	Mus musculus	SPF	SPF	colon	SPF	SPF	SPF	SPF
+SPF_CO-6.mzML	Mus musculus	SPF	SPF	colon	SPF	SPF	SPF	SPF
+SPF_SI-1.mzML	Mus musculus	SPF	SPF	small intestine	SPF	SPF	SPF	SPF
+SPF_SI-2.mzML	Mus musculus	SPF	SPF	small intestine	SPF	SPF	SPF	SPF
+SPF_SI-3.mzML	Mus musculus	SPF	SPF	small intestine	SPF	SPF	SPF	SPF
+SPF_SI-4.mzML	Mus musculus	SPF	SPF	small intestine	SPF	SPF	SPF	SPF
+SPF_SI-5.mzML	Mus musculus	SPF	SPF	small intestine	SPF	SPF	SPF	SPF
+SPF_SI-6.mzML	Mus musculus	SPF	SPF	small intestine	SPF	SPF	SPF	SPF
