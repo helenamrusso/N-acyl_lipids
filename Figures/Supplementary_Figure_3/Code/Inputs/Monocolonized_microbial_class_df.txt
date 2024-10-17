@@ -1,0 +1,57 @@
+microbe	class
+Diet_Blank	None
+SPF	None
+SFB	None
+Lactobacillus Johnsonii	Bacilli
+Lactobacillus acidophilus ATCC 832	Bacilli
+Lactobacillus gasseri MV-22	Bacilli
+Lactobacillus gasseri ATCC 33323	Bacilli
+Lactobacillus plantarum ATCC BAA793	Bacilli
+Lactobacillus reuteri CF48-3A	Bacilli
+Lactobacillus rhamnosus ATCC 8530	Bacilli
+Enterococcus faecalis V583	Bacilli
+Enterococcus faecalis TX0104	Bacilli
+Enterococcus faecalis SF19	Bacilli
+Enterococcus faecium TX1330	Bacilli
+Streptococcus mitis bv2 F0392	Bacilli
+Clostridium perfringes ATCC13124	Clostridia
+Clostridium sporogenes ATCC 15579	Clostridia
+Closhidium histolytica AO25	Clostridia
+Lachnospiraceae sp Strain 2 1 58FAA	Clostridia
+Fusicatenibacter saccharivorans DSM 26062	Clostridia
+Clostridium scindens ATCC35704	Clostridia
+Ruminococcus gnavus ATCC29149	Clostridia
+Faecalibacterium Prausnitzii ATCC 27768	Clostridia
+Clostridium sordelli AO32	Clostridia
+Clostridium ramosum AO31	Erysipelotrichia
+Peptostreptococcus magnus AO29	Tissierellia
+Bifidobacterium longum strain 44	Actinomycetes
+Bifidobacterium breve Strain EX336960VC19	Actinomycetes
+Bifidobacterium adolescentis Strain L2-32 	Actinomycetes
+Collinsella aerofaciens strain DSM 3979	Coriobacteriia
+Escherichia coli Nissle 1917	Gammaproteobacteria
+Klebsiella sp 4 1 44FAA	Gammaproteobacteria
+Acinetobacter lwoffii AO35	Gammaproteobacteria
+Neisseria mucosa strain C102	Betaproteobacteria
+Paraprevotella clara DSM 19731	Bacteroidia
+Paraprevotella xylaniphila DSM 19681	Bacteroidia
+Prevotella bivia AO2	Bacteroidia
+Prevotella buccae AO21	Bacteroidia
+Prevotella disiens AO22	Bacteroidia
+Prevotella stercorea DSM 18206	Bacteroidia
+Prevotella copri DSM 18205	Bacteroidia
+Bacteroides vulgatus ATCC8482	Bacteroidia
+Bacteroides salanitronis DSM 18170	Bacteroidia
+Bacteroides dorei DSM 17855	Bacteroidia
+Bacteroides massiliensis DSM 17679	Bacteroidia
+Bacteroides thetatiotaomicron ATCC29741	Bacteroidia
+Bacteroides uniformis AO9	Bacteroidia
+Bacteroides fragilis NCTC9343	Bacteroidia
+Bacteroides cellulosilyticus DSM 14838	Bacteroidia
+Bacteroides ovatus ATCC8483	Bacteroidia
+Parabacteroides Distasonas CLO3T12C09	Bacteroidia
+Parabacteroides goldsteinii CLO2T12C30	Bacteroidia
+Parabacteroides merdae CL03T12C32	Bacteroidia
+Campylobacter jejuni Strain AS-84-79	Epsilonproteobacteria
+Fusobacterium varium AO16	Fusobacteriia
+Akkermansia muciniphila BAA-835	Verrucomicrobiae
