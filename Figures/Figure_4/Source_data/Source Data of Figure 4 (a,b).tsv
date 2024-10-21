@@ -1,0 +1,87 @@
+ATTRIBUTE_Bacteria	filename	Histamine-C2:0 (µM)	Histamine-C3:0 (µM)
+Medium (0h)	BHI_1_0h_100H2O.mzML	0	0
+Medium (0h)	BHI_2_0h_100H2O.mzML	0	0
+Medium (0h)	BHI_3_0h_100H2O.mzML	0	0
+Medium (72h)	BHI_1_72h_100H2O.mzML	0	0
+Medium (72h)	BHI_2_72h_100H2O.mzML	0	0
+Medium (72h)	BHI_3_72h_100H2O.mzML	0	0
+Medium+C+P+H (0h)	BHI+C+P+H_1_0h_100H2O.mzML	0	0
+Medium+C+P+H (0h)	BHI+C+P+H_2_0h_100H2O.mzML	0	0
+Medium+C+P+H (0h)	BHI+C+P+H_3_0h_100H2O.mzML	0	0
+Medium+C+P+H (0h)	BHI+C+P+H_4_0h_100H2O.mzML	0	0
+Medium+C+P+H (72h)	BHI+C+P+H_1_72h_100H2O.mzML	0	0
+Medium+C+P+H (72h)	BHI+C+P+H_2_72h_100H2O.mzML	0	0
+Medium+C+P+H (72h)	BHI+C+P+H_3_72h_100H2O.mzML	0	0
+Medium+C+P+H (72h)	BHI+C+P+H_4_72h_100H2O.mzML	0	0
+Catenibacterium mitsuokai DSM 15897 (0h)	Cm_1_0h_100H2O.mzML	0	0
+Catenibacterium mitsuokai DSM 15897 (0h)	Cm_2_0h_100H2O.mzML	0	0
+Catenibacterium mitsuokai DSM 15897 (0h)	Cm_3_0h_100H2O.mzML	0	0
+Catenibacterium mitsuokai DSM 15897 (0h)	Cm_4_0h_100H2O.mzML	0	0
+Catenibacterium mitsuokai DSM 15897 (72h)	Cm_1_72h_100H2O.mzML	1.123447546	0
+Catenibacterium mitsuokai DSM 15897 (72h)	Cm_2_72h_100H2O.mzML	1.37719212	0
+Catenibacterium mitsuokai DSM 15897 (72h)	Cm_3_72h_100H2O.mzML	1.272128859	0
+Catenibacterium mitsuokai DSM 15897 (72h)	Cm_4_72h_100H2O.mzML	1.077471262	0
+Collinsella aerofaciens ATCC 25986 (0h)	Ca_1_0h_100H2O.mzML	0	0
+Collinsella aerofaciens ATCC 25986 (0h)	Ca_2_0h_100H2O.mzML	0	0
+Collinsella aerofaciens ATCC 25986 (0h)	Ca_3_0h_100H2O.mzML	0	0
+Collinsella aerofaciens ATCC 25986 (0h)	Ca_4_0h_100H2O.mzML	0	0
+Collinsella aerofaciens ATCC 25986 (72h)	Ca_1_72h_100H2O.mzML	1.604479961	0.139429028
+Collinsella aerofaciens ATCC 25986 (72h)	Ca_2_72h_100H2O.mzML	2.22175585	0.115403228
+Collinsella aerofaciens ATCC 25986 (72h)	Ca_3_72h_100H2O.mzML	2.099021151	0.175239398
+Collinsella aerofaciens ATCC 25986 (72h)	Ca_4_72h_100H2O.mzML	1.711009497	0.174738163
+Dorea longicatena DSM 13814 (0h)	Dl_1_0h_100H2O.mzML	0	0
+Dorea longicatena DSM 13814 (0h)	Dl_2_0h_100H2O.mzML	0	0
+Dorea longicatena DSM 13814 (0h)	Dl_3_0h_100H2O.mzML	0	0
+Dorea longicatena DSM 13814 (0h)	Dl_4_0h_100H2O.mzML	0	0
+Dorea longicatena DSM 13814 (72h)	Dl_1_72h_100H2O.mzML	0	0.033008258
+Dorea longicatena DSM 13814 (72h)	Dl_2_72h_100H2O.mzML	0	0.037535597
+Dorea longicatena DSM 13814 (72h)	Dl_3_72h_100H2O.mzML	0	0.025303493
+Dorea longicatena DSM 13814 (72h)	Dl_4_72h_100H2O.mzML	0	0.081284618
+Eubacterium siraeum DSM 15702 (0h)	Es_1_0h_100H2O.mzML	0	0
+Eubacterium siraeum DSM 15702 (0h)	Es_2_0h_100H2O.mzML	0	0
+Eubacterium siraeum DSM 15702 (0h)	Es_3_0h_100H2O.mzML	0	0
+Eubacterium siraeum DSM 15702 (0h)	Es_4_0h_100H2O.mzML	0	0
+Eubacterium siraeum DSM 15702 (72h)	Es_1_72h_100H2O.mzML	0	0
+Eubacterium siraeum DSM 15702 (72h)	Es_2_72h_100H2O.mzML	0	0
+Eubacterium siraeum DSM 15702 (72h)	Es_3_72h_100H2O.mzML	0	0
+Eubacterium siraeum DSM 15702 (72h)	Es_4_72h_100H2O.mzML	0	0
+Holdemanella biformis DSM 3989 (0h)	Hb_1_0h_100H2O.mzML	0	0
+Holdemanella biformis DSM 3989 (0h)	Hb_2_0h_100H2O.mzML	0	0
+Holdemanella biformis DSM 3989 (0h)	Hb_3_0h_100H2O.mzML	0	0
+Holdemanella biformis DSM 3989 (0h)	Hb_4_0h_100H2O.mzML	0	0
+Holdemanella biformis DSM 3989 (72h)	Hb_1_72h_100H2O.mzML	0.321623833	0.017484859
+Holdemanella biformis DSM 3989 (72h)	Hb_2_72h_100H2O.mzML	0.269848105	0.031421244
+Holdemanella biformis DSM 3989 (72h)	Hb_3_72h_100H2O.mzML	0.497912089	0.019526956
+Holdemanella biformis DSM 3989 (72h)	Hb_4_72h_100H2O.mzML	0.42787112	0.027446393
+Megasphaera sp. DSMZ 102144 (0h)	Me_1_0h_100H2O.mzML	0	0
+Megasphaera sp. DSMZ 102144 (0h)	Me_2_0h_100H2O.mzML	0	0
+Megasphaera sp. DSMZ 102144 (0h)	Me_3_0h_100H2O.mzML	0	0
+Megasphaera sp. DSMZ 102144 (0h)	Me_4_0h_100H2O.mzML	0	0
+Megasphaera sp. DSMZ 102144 (72h)	Me_1_72h_100H2O.mzML	0	0
+Megasphaera sp. DSMZ 102144 (72h)	Me_2_72h_100H2O.mzML	0	0
+Megasphaera sp. DSMZ 102144 (72h)	Me_3_72h_100H2O.mzML	0	0
+Megasphaera sp. DSMZ 102144 (72h)	Me_4_72h_100H2O.mzML	0	0
+Prevotella buccae D17 (0h)	Pb_1_0h_100H2O.mzML	0	0
+Prevotella buccae D17 (0h)	Pb_2_0h_100H2O.mzML	0	0
+Prevotella buccae D17 (0h)	Pb_3_0h_100H2O.mzML	0	0
+Prevotella buccae D17 (0h)	Pb_4_0h_100H2O.mzML	0	0
+Prevotella buccae D17 (72h)	Pb_1_72h_100H2O.mzML	0.550837745	0.341639802
+Prevotella buccae D17 (72h)	Pb_2_72h_100H2O.mzML	0.408128918	0.364378784
+Prevotella buccae D17 (72h)	Pb_3_72h_100H2O.mzML	0.405556728	0.376424677
+Prevotella buccae D17 (72h)	Pb_4_72h_100H2O.mzML	0.302139257	0.340555615
+Roseburia inulinivorans DSM 16841 (0h)	Ri_1_0h_100H2O.mzML	0	0
+Roseburia inulinivorans DSM 16841 (0h)	Ri_2_0h_100H2O.mzML	0	0
+Roseburia inulinivorans DSM 16841 (0h)	Ri_3_0h_100H2O.mzML	0	0
+Roseburia inulinivorans DSM 16841 (0h)	Ri_4_0h_100H2O.mzML	0	0
+Roseburia inulinivorans DSM 16841 (72h)	Ri_1_72h_100H2O.mzML	0	0
+Roseburia inulinivorans DSM 16841 (72h)	Ri_2_72h_100H2O.mzML	0	0
+Roseburia inulinivorans DSM 16841 (72h)	Ri_3_72h_100H2O.mzML	0	0
+Roseburia inulinivorans DSM 16841 (72h)	Ri_4_72h_100H2O.mzML	0	0
+Streptococcus thermophilus LMD-9 (0h)	St_1_0h_100H2O.mzML	0	0
+Streptococcus thermophilus LMD-9 (0h)	St_2_0h_100H2O.mzML	0	0
+Streptococcus thermophilus LMD-9 (0h)	St_3_0h_100H2O.mzML	0	0
+Streptococcus thermophilus LMD-9 (0h)	St_4_0h_100H2O.mzML	0	0
+Streptococcus thermophilus LMD-9 (72h)	St_1_72h_100H2O.mzML	0	0
+Streptococcus thermophilus LMD-9 (72h)	St_2_72h_100H2O.mzML	0	0
+Streptococcus thermophilus LMD-9 (72h)	St_3_72h_100H2O.mzML	0	0
+Streptococcus thermophilus LMD-9 (72h)	St_4_72h_100H2O.mzML	0	0
