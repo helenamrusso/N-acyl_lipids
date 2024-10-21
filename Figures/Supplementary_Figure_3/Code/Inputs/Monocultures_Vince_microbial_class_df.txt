@@ -1,0 +1,72 @@
+microbe	class
+Clostridium hathewayi DSM 13479	Clostridia
+Clostridium sp M62 1	Clostridia
+Ruminococcus gnavus ATCC 29149	Clostridia
+Ruminococcus torques ATCC 27756	Clostridia
+Ruminococcus lactaris ATCC 29176	Clostridia
+Coprococcus eutactus ATCC 27759	Clostridia
+Coprococcus comes ATCC 27758	Clostridia
+Clostridium scindens ATCC 35704	Clostridia
+Clostridium hylemonae DSM 15053	Clostridia
+Blautia hansenii DSM 20583	Clostridia
+Blautia hydrogenotrophica DSM 10507	Clostridia
+Clostridium asparagiforme DSM 15981	Clostridia
+Clostridium bolteae ATCC BAA-613	Clostridia
+Dorea formicigenerans ATCC 27755	Clostridia
+Dorea longicatena DSM 13814	Clostridia
+Butyrivibrio crossotus DSM 2876	Clostridia
+Clostridium nexile DSM 1787	Clostridia
+Eubacterium eligens ATCC 27750	Clostridia
+Bryantella formatexigens DSM 14469	Clostridia
+Clostridium saccharolyticum WM1	Clostridia
+Eubacterium hallii DSM 3353	Clostridia
+Eubacterium rectale ATCC 33656	Clostridia
+Roseburia inulinivorans DSM 16841	Clostridia
+Anaerostipes caccae DSM 14662	Clostridia
+Clostridium methylpentosum DSM 5476	Clostridia
+Clostridium leptum DSM 753	Clostridia
+Ruminococcus gauvreauii DSM 19829	Clostridia
+Oscillibacter sp KLE 1728	Clostridia
+Anaerotruncus colihominis DSM 17241	Clostridia
+Bacteroides pectinophilus ATCC 43243	Clostridia
+Intestinimonas butyriciproducens DSM 26588	Clostridia
+Eubacterium ventriosum ATCC 27560	Clostridia
+Catenibacterium mitsuokai DSM 15897	Erysipelotrichia
+Clostridium spiroforme DSM 1552	Erysipelotrichia
+Holdemania filiformis DSM 12042	Erysipelotrichia
+Granulicatella adiacens ATCC 49175	Bacilli
+Lactobacillus ruminis ATCC 25644	Bacilli
+Acidaminococcus fermentans DSM 20731	Negativicutes
+Acidaminococcus intestini sp D21	Negativicutes
+Collinsella stercoris DSM 13279	Coriobacteriia
+Collinsella aerofaciens ATCC 25986	Coriobacteriia
+Bifidobacterium breve DSM 20213	Actinomycetes
+Bifidobacterium catenulatum DSM 16992	Actinomycetes
+Bifidobacterium pseudocatenulatum DSM 20438	Actinomycetes
+Bacteroides cellulosilyticus DSM 14838	Bacteroidia
+Bacteroides finegoldii DSM 17565	Bacteroidia
+Bacteroides xylanisolvens DSMZ 18836	Bacteroidia
+Bacteroides stercoris ATCC 43183	Bacteroidia
+Bacteroides fragilis 3 1 12	Bacteroidia
+Bacteroides thetaiotaomicron VPI-5482	Bacteroidia
+Bacteroides uniformis ATCC 8492	Bacteroidia
+Bacteroides caccae ATCC 43185	Bacteroidia
+Bacteroides eggerthii DSM 20697	Bacteroidia
+Bacteroides sp D2	Bacteroidia
+Bacteroides ovatus ATCC 8483	Bacteroidia
+Bacteroides rodentium DSM 26882	Bacteroidia
+Bacteroides intestinalis DSM 17393	Bacteroidia
+Bacteroides plebeius DSM 17135	Bacteroidia
+Bacteroides dorei 5 1 36 D4	Bacteroidia
+Bacteroides vulgatus ATCC 8482	Bacteroidia
+Butyricimonas virosa DSM 23226	Bacteroidia
+Odoribacter splanchnicus DSM 20712	Bacteroidia
+Prevotella buccae D17	Bacteroidia
+Prevotella buccalis ATCC 35310	Bacteroidia
+Parabacteroides merdae ATCC 43184	Bacteroidia
+Parabacteroides sp D13	Bacteroidia
+Parabacteroides distasonis ATCC 8503	Bacteroidia
+Parabacteroides johnsonii DSM 18315	Bacteroidia
+Alistipes finegoldii DSM 17242	Bacteroidia
+Alistipes putredinis DSM 17216	Bacteroidia
+Akkermansia muciniphila ATCC BAA-835	Verrucomicrobiae

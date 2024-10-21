@@ -1,0 +1,79 @@
+strain	Taxonomy_IDs_species	NCBI_name	Taxonomy_IDs_strain
+Acidaminococcus_fermentans_DSM_20731	905	Acidaminococcus fermentans DSM 20731	591001
+Acidaminococcus_intestini_sp_D21	187327	Acidaminococcus intestini	187327
+Akkermansia_muciniphila_ATCC_BAA-835	239935	Akkermansia muciniphila ATCC BAA-835	349741
+Alistipes_finegoldii_DSM_17242	214856	Alistipes finegoldii DSM 17242	679935
+Anaerostipes_caccae_DSM_14662	105841	Anaerostipes caccae	105841
+Bacteroides_caccae_ATCC_43185	47678	Bacteroides caccae ATCC 43185	411901
+Bacteroides_cellulosilyticus_DSM_14838	246787	Bacteroides cellulosilyticus DSM 14838	537012
+Bacteroides_dorei_DSM_17855	357276	Phocaeicola dorei DSM 17855	483217
+Bacteroides_finegoldii_DSM_17565	338188	Bacteroides finegoldii DSM 17565	483215
+Bacteroides_intestinalis_DSM_17393	329854	Bacteroides intestinalis DSM 17393	471870
+Bacteroides_pectinophilus_ATCC_43243	384638	[Bacteroides] pectinophilus ATCC 43243	483218
+Bacteroides_plebeius_DSM_17135	310297	Phocaeicola plebeius DSM 17135	484018
+Bacteroides_sp_1_1_6	816	unclassified Bacteroides	2646097
+Bacteroides_sp_2_1_22	816	Bacteroides sp. 2_1_22	469588
+Bacteroides_sp_9_1_42FAA	816	Bacteroides sp. 9_1_42FAA	457395
+Bacteroides_stercoris_ATCC_43183	46506	Bacteroides stercoris ATCC 43183	449673
+Bacteroides_thetaiotaomicron_VPI-5482	818	Bacteroides thetaiotaomicron VPI-5482	226186
+Bacteroides_uniformis_ATCC_8492	820	Bacteroides uniformis ATCC 8492	411479
+Bacteroides_xylanisolvens_DSMZ_18836	371601	Bacteroides xylanisolvens	371601
+Bifidobacterium_breve_DSM_20213	1685	Bifidobacterium breve DSM 20213	518634
+Bifidobacterium_catenulatum_DSM_16992	1686	Bifidobacterium catenulatum DSM 16992	566552
+Bifidobacterium_pseudocatenulatum_DSM_20438	28026	Bifidobacterium pseudocatenulatum DSM 20438	547043
+Blautia_hansenii_DSM_20583	1322	Blautia hansenii DSM 20583	537007
+Bryantella_formatexigens_DSM_14469	168384	Marvinbryantia formatexigens DSM 14469	478749
+Butyrivibrio_crossotus_DSM_2876	45851	Butyrivibrio crossotus DSM 2876	511680
+Catenibacterium_mitsuokai_DSM_15897	100886	Catenibacterium mitsuokai DSM 15897	451640
+Clostridium_asparagiforme_DSM_15981	333367	[Clostridium] asparagiforme DSM 15981	518636
+Clostridium_bolteae_ATCC_BAA-613	411902	Enterocloster bolteae ATCC BAA-613	411902
+Clostridium_hylemonae_DSM_15053	89153	[Clostridium] hylemonae DSM 15053	553973
+Clostridium_methylpentosum_DSM_5476	84026	[Clostridium] methylpentosum DSM 5476	537013
+Clostridium_saccharolyticum_WM1	84030	[Clostridium] saccharolyticum WM1	610130
+Clostridium_sp_L2-50	2614128	Clostridium sp. L2-50	411489
+Clostridium_spiroforme_DSM_1552	29348	Thomasclavelia spiroformis DSM 1552	428126
+Collinsella_stercoris_DSM_13279	147206	Collinsella stercoris DSM 13279	445975
+Coprococcus_eutactus_ATCC_27759	33043	Coprococcus eutactus ATCC 27759	411474
+Dorea_longicatena_DSM_13814	88431	Dorea longicatena DSM 13814	411462
+Eubacterium_hallii_DSM_3353	39488	Anaerobutyricum hallii DSM 3353	411469
+Eubacterium_ventriosum_ATCC_27560	39496	Eubacterium ventriosum ATCC 27560	411463
+Granulicatella_adiacens_ATCC_49175	46124	Granulicatella adiacens ATCC 49175	638301
+Intestinimonas_butyriciproducens_DSM_26588	1297617	Intestinimonas butyriciproducens	1297617
+Lactobacillus_ruminis_ATCC_25644	1623	Ligilactobacillus ruminis ATCC 25644	525362
+Odoribacter_splanchnicus_DSM_20712	28118	Odoribacter splanchnicus DSM 20712	709991
+Parabacteroides_distasonis_ATCC_8503	823	Parabacteroides distasonis ATCC 8503	435591
+Parabacteroides_johnsonii_DSM_18315	387661	Parabacteroides johnsonii DSM 18315	537006
+Parabacteroides_merdae_ATCC_43184	46503	Parabacteroides merdae ATCC 43184	411477
+Prevotella_buccae_D17	28126	Segatella buccae D17	575611
+Roseburia_inulinivorans_DSM_16841	360807	Roseburia inulinivorans DSM 16841	622312
+Ruminococcus_gauvreauii_DSM_19829	438033	Ruminococcus gauvreauii DSM 19829	1123075
+Ruminococcus_lactaris_ATCC_29176	46228	[Ruminococcus] lactaris ATCC 29176	471875
+Alistipes_putredinis_DSM_17216	28117	Alistipes putredinis DSM 17216	445970
+Anaerotruncus_colihominis_DSM_17241	169435	Anaerotruncus colihominis DSM 17241	445972
+Bacteroides_dorei_5_1_36_D4	357276	Phocaeicola dorei 5_1_36/D4	556260
+Bacteroides_eggerthii_DSM_20697	28111	Bacteroides eggerthii DSM 20697	483216
+Bacteroides_fragilis_3_1_12	817	Bacteroides fragilis 3_1_12	457424
+Bacteroides_ovatus_ATCC_8483	28116	Bacteroides ovatus ATCC 8483	411476
+Bacteroides_rodentium_DSM_26882	691816	Bacteroides rodentium	691816
+Bacteroides_sp_2_1_16	2646097	unclassified Bacteroides	2646097
+Bacteroides_sp_3_1_19	2646097	Bacteroides sp. 3_1_19	469592
+Bacteroides_sp_D2	2646097	Bacteroides sp. D2	556259
+Bacteroides_vulgatus_ATCC_8482	821	Phocaeicola vulgatus ATCC 8482	435590
+Blautia_hydrogenotrophica_DSM_10507	53443	Blautia hydrogenotrophica DSM 10507	476272
+Butyricimonas_virosa_DSM_23226	544645	Butyricimonas virosa DSM 23226	1121130
+Clostridium_hathewayi_DSM_13479	154046	Hungatella hathewayi DSM 13479	566550
+Clostridium_leptum_DSM_753	1535	[Clostridium] leptum DSM 753	428125
+Clostridium_nexile_DSM_1787	29361	[Clostridium] nexile DSM 1787	500632
+Clostridium_scindens_ATCC_35704	29347	[Clostridium] scindens ATCC 35704	411468
+Clostridium_sp_M62_1	2614128	Clostridium sp. M62/1	411486
+Collinsella_aerofaciens_ATCC_25986	74426	Collinsella aerofaciens ATCC 25986	411903
+Coprococcus_comes_ATCC_27758	410072	Coprococcus comes ATCC 27758	470146
+Dorea_formicigenerans_ATCC_27755	39486	Dorea formicigenerans ATCC 27755	411461
+Eubacterium_eligens_ATCC_27750	39485	[Eubacterium] eligens ATCC 27750	515620
+Eubacterium_rectale_ATCC_33656	39491	Agathobacter rectalis ATCC 33656	515619
+Holdemania_filiformis_DSM_12042	61171	Holdemania filiformis DSM 12042	545696
+Oscillibacter_sp_KLE_1728	2629304	Oscillibacter sp. KLE 1728	1226322
+Parabacteroides_sp_D13	2649774	Parabacteroides sp. D13	563193
+Prevotella_buccalis_ATCC_35310	28127	Hoylesella buccalis ATCC 35310	679190
+Ruminococcus_gnavus_ATCC_29149	33038	Mediterraneibacter gnavus ATCC 29149	411470
+Ruminococcus_torques_ATCC_27756	33039	[Ruminococcus] torques ATCC 27756	411460
