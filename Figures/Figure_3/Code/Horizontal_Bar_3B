@@ -22,7 +22,7 @@ ggplot(data1, aes(x = feature, y = coef)) +
   geom_bar(aes(fill = coef), stat = "identity", color = "black", size = 0.2) +  # Add border to bars
   coord_flip() +  # Flip coordinates for horizontal bars
   scale_fill_gradient2(low = "blue", mid = "white", high = "red", midpoint = 0, name = "Coefficient") +  # Gradient for coef
-  labs(x = "Feature", y = "Coefficient", title = "Disease") +
+  labs(x = "Feature", y = "Coefficient", title = "CD4CD8 ratio") +
   theme_minimal() +
   theme(
     axis.text.y = element_text(size = 8, face = "bold"),  # Make y-axis text bold
