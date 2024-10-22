@@ -1,0 +1,54 @@
+
+# Read data from each sheet
+CD4CD8 <- read_excel("C:/Users/sanlam/Desktop/USAproject2024/HelenaHNRC_metadata_U19/Re_analaysis_15072024/CD4CD8Ratio/CD4CD8.xlsx", 
+                     sheet = "Sheet2")
+data1 <- CD4CD8
+
+# Load necessary libraries
+library(ggplot2)
+library(ggtext)
+
+# Arrange the data1 by coef values from high to low
+data1 <- data1[order(data1$coef, decreasing = TRUE), ]
+
+# Create a new column in data1 for y-axis labels without HTML formatting
+data1$feature_label <- data1$feature
+
+# Convert feature to factor with levels ordered by coef
+data1$feature <- factor(data1$feature, levels = data1$feature[order(data1$coef, decreasing = TRUE)])
+
+# Create the bar plot with gradient colors and significance annotations
+ggplot(data1, aes(x = feature, y = coef)) +
+  geom_bar(aes(fill = coef), stat = "identity", color = "black", size = 0.2) +  # Add border to bars
+  coord_flip() +  # Flip coordinates for horizontal bars
+  scale_fill_gradient2(low = "blue", mid = "white", high = "red", midpoint = 0, name = "Coefficient") +  # Gradient for coef
+  labs(x = "Feature", y = "Coefficient", title = "Disease") +
+  theme_minimal() +
+  theme(
+    axis.text.y = element_text(size = 8, face = "bold"),  # Make y-axis text bold
+    axis.text.x = element_text(size = 12, color = "black"),
+    plot.title = element_text(hjust = 0.5, size = 16, face = "bold"),
+    legend.position = "right",  # Position the legend on the right
+    legend.title = element_text(size = 12, face = "bold"),  # Bold legend title
+    legend.text = element_text(size = 10),
+    legend.key = element_rect(fill = "white")  # Ensure legend key background is white
+  ) +
+  # Add dashed lines for significant features
+  geom_segment(data = subset(data1, pval < 0.05), 
+               aes(x = feature, 
+                   xend = feature, 
+                   y = coef, 
+                   yend = coef + 0.05 * sign(coef)), 
+               linetype = "dashed", 
+               color = "black", 
+               size = 0.7) +
+  # Add circles at the end of dashed lines
+  geom_point(data = subset(data1, pval < 0.05), 
+             aes(x = feature, 
+                 y = coef + 0.05 * sign(coef)), 
+             color = "purple", 
+             size = 3, 
+             shape = 21, 
+             fill = "#DDA0DD") +
+  # Ensure correct labels for x-axis
+  scale_x_discrete(labels = data1$feature_label)
