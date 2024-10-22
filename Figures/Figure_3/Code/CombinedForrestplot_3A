@@ -1,0 +1,114 @@
+library(ggplot2)
+library(dplyr)
+library(readxl)
+
+# Read data from each sheet (i.e. source file)
+
+data_Hiv_status <- read_excel("C:/Users/sanlam/Desktop/USAproject2024/HelenaHNRC_metadata_U19/Re_analaysis_15072024/MASLIN_Analysis/Merged_Meta_Gzimp/Merged_Meta_Gzimp.xlsx",
+                              sheet = "Hiv_status")
+data_Globalimp_status <- read_excel("C:/Users/sanlam/Desktop/USAproject2024/HelenaHNRC_metadata_U19/Re_analaysis_15072024/MASLIN_Analysis/Merged_Meta_Gzimp/Merged_Meta_Gzimp.xlsx",
+                                    sheet = "Globalimp")
+
+# Add a new column for source sheet
+data_Hiv_status$Source <- "Hiv_status"
+data_Globalimp_status$Source <- "Globalimp_status"
+
+
+# Combine all data frames
+combined_data <- bind_rows(data_Hiv_status, data_Globalimp_status)
+
+# Ensure correct column name and create Color column
+combined_data <- combined_data %>%
+  rename(P_value = `P_Value`) %>%  # Rename if column name includes spaces
+  mutate(Color = ifelse(P_value < 0.05, "Significant", "Not Significant"))
+
+# Define color mapping for categories in the `Class` column
+color_mapping <- c(
+  'AlanineSarcosine' = 'coral2',
+  'Arginine' = 'coral3',
+  'Aspartic' = 'coral4',
+  'Cadaverine' = 'midnightblue',
+  'Dopamine' = 'darkred',
+  'Glutamic' = 'darkorange',
+  'Histamine' = 'darkgreen',
+  'Histidine' = 'gold',
+  'LDOPA' = 'deepskyblue',
+  'Leucine' = 'darkorchid',
+  'Lysine' = 'deeppink',
+  'Methionine' = 'dodgerblue',
+  'Nacetylcadaverine' = 'firebrick',
+  'Phenylalanine' = 'forestgreen',
+  'Putrescine' = 'coral1',
+  'Serotonin' = 'goldenrod',
+  'Spermidine' = 'coral',
+  'Threonine homoserine' = 'hotpink',
+  'Tryptophan' = 'khaki',
+  'Tyramine' = 'lavender',
+  'Tyrosine' = 'indianred',
+  'Valine' = 'lightcoral',
+  'Aminovaleric.acid' = 'lightseagreen',
+  'Methylhistidine' = 'lightskyblue',
+  'Methoxytryptamine' = 'lightsteelblue'
+)
+
+
+# Define a new custom color palette
+custom_palette <- c(
+  "Significant" = "black",
+  "Not Significant" = "#848484"
+)
+
+# Create the combined plot
+p <- ggplot(combined_data, aes(y = Variable, x = Coefficient, fill = Class, color = Color, shape = Source, size = abs(Coefficient))) +
+  geom_point(data = subset(combined_data, Color == "Significant"), alpha = 0.8) +  # Highlight significant points
+  geom_point(data = subset(combined_data, Color == "Not Significant"), alpha = 0.2) +  # Fade non-significant points
+  labs(
+    title = "Regression Coefficients Across Different Conditions",
+    x = "Coefficient Estimate",
+    y = "Variable"
+  ) +
+  scale_fill_manual(values = color_mapping, guide = guide_legend(title = "Class", override.aes = list(shape = 21))) +
+  scale_color_manual(values = custom_palette) +
+  scale_shape_manual(values = c(21, 22, 23)) +  # Different shapes for different sheets
+  scale_size_continuous(range = c(2, 6)) +  # Adjust size range for points
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(size = 12, color = "black", face = "bold"),
+    axis.text.y = element_text(size = 6, color = "black", face = "bold"),
+    axis.title.x = element_text(size = 14, color = "black", face = "bold"),
+    axis.title.y = element_text(size = 14, color = "black", face = "bold"),
+    plot.title = element_text(size = 16, hjust = 0.5, face = "bold"),
+    panel.grid.major = element_line(color = "#E0E0E0", size = 0.05),  # Light gray grid lines
+    panel.grid.minor = element_blank(),
+    panel.background = element_rect(fill = "white"),  # White background color
+    plot.background = element_rect(fill = "white"),  # White plot background
+    plot.margin = margin(2, 2, 2, 2, "cm"),  # Increased margins for spacing
+    legend.position = "right",
+    legend.title = element_text(size = 14, face = "bold"),  # Increased legend title size
+    legend.text = element_text(size = 12),  # Increased legend text size
+    strip.background = element_rect(fill = "white", color = "black"),
+    strip.text = element_text(size = 12, color = "black"),
+    panel.border = element_rect(color = "gray80", fill = NA, size = 0.5)  # Light border around the panel
+  ) +
+  # Add confidence intervals for significant points
+  geom_errorbarh(
+    data = subset(combined_data, Color == "Significant"),
+    aes(xmax = Coefficient + 1.96 * SE, xmin = Coefficient - 1.96 * SE),
+    alpha = 0.3, color = "black", size = 0.5  # Adjusted confidence interval appearance
+  ) +
+  # Add labels for significant points
+  geom_text(
+    data = subset(combined_data, Color == "Significant"),
+    aes(label = Variable, x = Coefficient + 0.1),
+    color = "gray20", size = 2, hjust = 0, vjust = -0.7
+  ) +
+  # Add padding before and after the plot
+  scale_x_continuous(expand = expansion(mult = c(0.1, 0.1))) +  # Slight padding for x-axis
+  scale_y_discrete(expand = expansion(mult = c(0.02, 0.02))) +  # Slight padding for y-axis
+  # Add black dashed line at 0 coefficient
+  geom_vline(xintercept = 0, linetype = "dashed", color = "black") +
+  guides(color = "none",size = "none")  # Hide the legend for color aesthetic
+
+# Print the plot
+print(p)
+
