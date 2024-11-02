@@ -1,7 +1,7 @@
 # The microbiome diversifies N-acyl lipid pools - including short-chain fatty acid-derived compounds
 
 ## Figures
-This folder contains the scripts used to generate all the figures and supplementary figures in the manuscript "The microbiome diversifies N-acyl lipid pools - including short-chain fatty acid-derived compounds", in addition to the input tables files and source data for each of them. For files that are 'missing'due to the limit size in GitHub (25MB), please check the following link (XXX).
+This folder contains the scripts used to generate all the figures and supplementary figures in the manuscript "The microbiome diversifies N-acyl lipid pools - including short-chain fatty acid-derived compounds", in addition to the input tables files and source data for each of them. For files that are 'missing'due to the limit size in GitHub (25MB), please check ([here](https://zenodo.org/records/14015199)).
 
 ## Data_processing_MZmine
 This folder have all the MZmine batch files used to pre-process all the metabolomics data discussed in this manuscript. All the output files (quant table, CSV; MS/MS spectra, MGF) are also available. For files that are 'missing'due to the limit size in GitHub (25MB), please check the following link (XXX).
